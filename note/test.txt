@@ -1,0 +1,1 @@
+một quả banh được người chơi gôn đánh đi với vận tốc ban đầu là v_0 hợp với phương ngang một góc α quả banh bay về hướng hồ cách đó 100 m hồ rộng 50 m lấy g = 10 m s² độ cao nhất mà quả banh lên được

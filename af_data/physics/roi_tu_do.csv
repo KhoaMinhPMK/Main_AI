@@ -1,0 +1,54 @@
+label,problem
+rơi tự do,từ độ cao 441 m thả rơi  viên bi hỏi sau bao lâu viên bi chạm đất tính vận tốc viên bi lúc đó
+rơi tự do, hòn đá rơi từ miệng đến đáy giếng mất 25s tính độ sâu của giếng
+rơi tự do, vật nặng rơi từ độ cao 20 m xuống đất a tính thời gian rơi b xác định vận tốc của vật khi chạm đất
+rơi tự do,từ độ cao h thả  viên bi rơi tự do a tính quãng đường viên bi rơi trong 3 s đầu tiên  trong giây thứ 3 b sau 5 s kể từ lúc bắt đầu rơi viên bi chạm đất tính h  vận tốc của viên bi khi chạm đất
+rơi tự do, vật rơi tự do từ độ cao 45 m a tính thời gian rơi  vận tốc của vật khi chạm đất b tính quãng đường vật rơi trong giây cuối cùng
+rơi tự do, vật rơi tự do trong giây cuối rơi được 35 m tính thời gian từ lúc bắt đầu rơi đến khi chạm đất  độ cao nơi thả vật
+rơi tự do,từ  vị trí cách mặt đất  độ cao h thả rơi  vật a tính quãng đường vật rơi trong 2 s đầu tiên b trong 1s trước khi chạm đất vật rơi được 20 m tính thời gian từ lúc bắt đầu rơi đến khi chạm đất từ đó suy ra độ cao nơi thả vật c tính vận tốc của vật khi chạm đất
+rơi tự do,thả  vật từ độ cao h so với mặt đất a tính quãng đường mà vật rơi tự do di được trong giây thứ ba trong khoảng thời gian đó vận tốc của vật đã tăng được bao nhiêu b biết khi chạm đất vận tốc của vật là 32 ms tìm h
+rơi tự do,hai vật a b được thả rơi tự do cùng  độ cao vật b rơi sau vật a 05 s a sau 2 s kể từ lúc vật a bắt đầu rơi hai vật cách nhau bao nhiêu mét b tính vận tốc của vật tại thời điểm này
+rơi tự do, vật rơi tự do không vận tốc đầu từ độ cao 45 m xuống đất a tính thời gian vật rơi 10 m đầu tiên  thời gian vật rơi 10 m cuối cùng trước khi chạm đất
+rơi tự do, vật được thả rơi tự do không vận tốc đầu từ độ cao h so với mặt đất thời gian vật rơi là 4 giây a tính độ cao h tốc độ của vật khi vật chạm đất b tính quãng đường vật rơi trong giây cuối cùng trước khi chạm đất
+rơi tự do, hòn đá rơi tự do từ miệng  giếng sâu 20m so với mặt nước a hỏi sau bao lâu kể từ lúc buông hòn đá người quan sát nghe tiếng hòn đá chạm nước  tốc độ của hòn đá khi đó là bao nhiêu biết vận tốc truyền âm trong không khí là 340ms  lấy g 10 ms2
+rơi tự do,người ta thả  hòn đá rơi tự do từ  miệng giếng sau 2 giây người ta nghe được tiếng hòn đá chạm mặt nước a tính độ cao từ miệng giếng đến mặt nước b tính vận tốc của hòn đá khi chạm mặt nước
+rơi tự do, vật được thả rơi tự do không vận tốc đầu từ độ cao h so với mặt đất cho g 10 ms2 thời gian vật rơi 10 m cuối cùng trước khi chạm đất là 02 s tính độ cao h thời gian rơi  tốc độ của vật khi chạm đất
+rơi tự do, vật được thả rơi tự do không vận tốc đầu từ độ cao h so với mặt đất cho g 10 ms2 thời gian vật rơi 20 m cuối cùng trước khi chạm đất là 05 s tính độ cao h thời gian rơi  tốc độ của vật khi chạm đất
+rơi tự do,hai vật a  b được thả rơi tự do tại cùng  vị trí có độ cao h so với mặt đất vật b được thả rơi sau vật a  thời gian là 01s hỏi sau bao lâu kể từ lúc thả vật a thì khoảng cách giữa chúng là 2m lấy g 10 ms2 xem như độ cao ban đầu đủ lớn
+rơi tự do, vật rơi tự do không vận tốc đầu tại nơi có g 10ms2 trong 2s cuối cùng trước khi chạm đất vật rơi được 60m tính thời gian rơi độ cao ban đầu  tốc độ của vật khi chạm đất
+rơi tự do, vật rơi tự do không vận tốc đầu tại nơi có gia tốc trọng trường g trong giây thứ 3 quãng đường rơi được là 245 m  tốc độ của vật khi vừa chạm đất là 392 ms tính g  độ cao nơi thả vật
+rơi tự do,tại cùng  vị trí có độ cao h so với mặt đất người ta lần lượt thả hai vật rơi tự do không vận tốc đầu sau 2 s kể từ lúc vật thứ hai bắt đầu rơi khoảng cách giữa hai vật là 25 m tính xem vật thứ hai rơi sau vật thứ nhất bao lâu cho g 10 ms2
+rơi tự do, vật được thả rơi tự do không vận tốc đầu từ độ cao h so với mặt đất tại nơi có gia tốc trọng trường g 10 ms2 quãng đường vật rơi trong nửa thời gian sau dài hơn quãng đường vật rơi trong nửa thời gian đầu 40m tính h thời gian rơi  tốc độ của vật khi chạm đất
+rơi tự do, vật được thả rơi tự do không vận tốc đầu từ độ cao h so với mặt đất tại nơi có gia tốc trọng trường g 10 ms2 quãng đường vật rơi trong nửa thời gian sau dài hơn quãng đường vật rơi trong nửa thời gian đầu 10 m tính h thời gian rơi  tốc độ của vật khi chạm đất
+rơi tự do, vật được thả rơi tự do không vận tốc đầu từ độ cao h so với mặt đất tại nơi có gia tốc trọng trường g 10 ms2 thời gian vật rơi nửa quãng đường đầu dài hơn lần thời gian vật rơi nửa quãng đường sau 1 giây tính h thời gian rơi  tốc độ của vật khi chạm đất
+rơi tự do, vật được thả rơi tự do không vận tốc đầu từ độ cao h so với mặt đất tại nơi có gia tốc trọng trường g 10 ms2 thời gian vật rơi nửa quãng đường đầu dài hơn thời gian vật rơi nửa quãng đường sau 3 giây tính h thời gian rơi  tốc độ của vật khi chạm đất
+rơi tự do, vật rơi tự do từ độ cao 45 m g 10 ms2 cho thời gian rơi lúc bắt đầu rơi trực tiếp xuống hướng xuống chọn tọa độ tại mặt đất chiều dương hướng lên lập phương trình chuyển động của vật tìm vận tốc khi vật ở cách đất 25 m
+rơi tự do,từ điểm a cách mặt đất 48 m  vật nhỏ được ném lên cao theo phương thẳng đứng với vận tốc ban đầu 5 ms2 lấy g 10 ms2 chọn tọa độ tại mặt đất chiều dương hướng lên a viết phương trình chuyển động b xác định độ cao cực đại mà vật đạt được so với mặt đất c xác định thời gian  vận tốc của vật ngay khi chạm đất
+rơi tự do,từ  đỉnh tháp người ta thả rơi  vật  giây sau ở tầng tháp thấp hơn 10 m người ta thả rơi vật thứ 2 hai vật sẽ đụng nhau sau bao lâu kể từ khi vật thứ nhất được thả lấy g 10 ms2
+rơi tự do,ở  tầng cách mặt đất 45 m  người thả  vật rơi tự do  giây sau người đó ném thẳng đứng xuống dưới hai vật chạm đất cùng  lúc tính vận tốc lúc ném vật thứ hai g 10 ms2
+rơi tự do,từ độ cao h 20 m phải ném  vật theo phương thẳng đứng xuống dưới với vận tốc bằng bao nhiêu để vật này tới mặt đất sớm hơn 1 giây so với vật được thả rơi tự do g 10 ms2
+rơi tự do, vật rơi tự do từ  độ cao h biết rằng trong ba giây cuối cùng vật rơi được quãng đường bằng sáu giây đầu tiên lấy g 10 ms2 tính thời gian vật rơi cho tới khi chạm đất  độ cao h tính vận tốc của vật lúc chạm đất
+rơi tự do,từ độ cao h 20 m phải ném  vật theo phương thẳng đứng xuống dưới với vận tốc bằng bao nhiêu để vật này tới mặt đất sớm hơn 1 giây so với vật được thả rơi tự do g 10 ms2
+rơi tự do,từ  đỉnh tháp cách mặt đất 80m người ta thả rơi  vật 2 giây sau ở tầng tháp thấp hơn 10m người ta ném vật thứ hai xuống theo hướng thẳng đứng để hai vật chạm đất cùng lúc vận tốc của vật thứ hai phải là g 10ms2
+rơi tự do,thả hai hòn bi a  b rơi ở cùng  nơi o hai thời điểm khác nhau sau 2 s kể từ khi viên bi b rơi thì khoảng cách giữa hai viên bi là 60 m hỏi viên bi b được thả rơi sau viên bi a bao lâu
+rơi tự do, hòn được thả rơi xuống  miệng hang sau 425 s kể từ lúc bắt đầu thả thì nghe tiếng hòn đá chạm o đáy hang tính chiều sâu của hang biết vận tốc truyền âm trong không khí là 320 ms  lấy g 10 ms2
+rơi tự do,  vật rơi tự do không vận tốc đầu từ độ cao 45m xuống đất Lấy g = 10ms Tính thời gian rơi  tốc độ của vật khi vừa khi vừa chạm đất Tính thời gian vật rơi 10m đầu tiên  thời gian vật rơi 10m cuối cùng trước khi chạm đất
+rơi tự do,  vật rơi tự do không vận tốc đầu từ độ cao 80m xuống đất Lấy g = 10ms2 Tính Thời gian từ lúc bắt đầu rơi đến khi vật chạm đất  tốc độ của vật khi chạm đất Quãng đường vật rơi được trong 2s đầu tiên  quãng đường vật rơi trong 2s cuối cùng trước khi chạm đất
+rơi tự do,  vật được thả rơi tự do không vận tốc đầu từ độ cao h so với mặt đất Cho g=10ms2 Tốc độ của vật khi chạm đất là 30ms Tính độ cao h thời gian từ lúc vật bắt đầu rơi đến khi vật chạm đất Tính quãng đường vật rơi trong hai giây đầu  trong giây thứ hai
+rơi tự do,  vật được thả rơi tự do không vận tốc đầu từ độ cao h so với mặt đất Cho g=10ms2 Thời gian vật rơi là 4 giây Tính độ cao h tốc độ của vật khi vật chạm đất Tính quãng đường vật rơi trong giây cuối cùng trước khi chạm đất
+rơi tự do,  vật được thả rơi tự do không vận tốc đầu từ độ cao h so với mặt đất Cho g=10ms2 Trong giây cuối cùng trước khi chạm đất vật rơi được quãng đường 45m Tính độ cao h thời gian rơi  tốc độ của vật khi chạm đất
+rơi tự do,  vật được thả rơi tự do không vận tốc đầu từ độ cao h so với mặt đất Cho g=10ms2 Trong giây cuối cùng trước khi chạm đất vật rơi được quãng đường 25m Tính độ cao h thời gian rơi  tốc độ của vật khi chạm đất
+rơi tự do,  vật được thả rơi tự do không vận tốc đầu từ độ cao h so với mặt đất Cho g=10ms2 Thời gian vật rơi 10 m cuối cùng trước khi chạm đất là 02s Tính độ cao h thời gian rơi  tốc độ của vật khi chạm đất
+rơi tự do,  vật được thả rơi tự do không vận tốc đầu từ độ cao h so với mặt đất Cho g=10ms2 Thời gian vật rơi 20 m cuối cùng trước khi chạm đất là 05s Tính độ cao h thời gian rơi  tốc độ của vật khi chạm đất
+rơi tự do, Hai vật A  B được thả rơi tự do tại cùng  vị trí có độ cao h so với mặt đất Vật B được thả rơi sau vật A  thời gian là 01s Hỏi sau bao lâu kể từ lúc thả vật A thì khoảng cách giữa chúng là 2m Lấy g=10ms2 xem như độ cao ban đầu đủ lớn
+rơi tự do,  vật rơi tự do không vận tốc đầu tại nơi có g = 10ms2 Trong 2s cuối cùng trước khi chạm đất vật rơi được 60m Tính thời gian rơi độ cao ban đầu  tốc độ của vật khi chạm đất
+rơi tự do,  vật rơi tự do không vận tốc đầu tại nơi có gia tốc trọng trường g Trong giây thứ 3 quãng đường rơi được là 245m  tốc độ của vật khi vừa chạm đất là 392ms Tính g  độ cao nơi thả vật
+rơi tự do, hòn bi được ném thẳng đứng từ dưới lên cao với vận tốc đầu có độ lớn v0 hỏi khi chạm đất thì vận tốc của vật đó bằng bao nhiêu bỏ qua sức cản của không khí
+rơi tự do,trái banh được ném thẳng đứng từ dưới lên đại lượng nào sau đây không thay đổi
+rơi tự do, vật được thả rơi tự do từ độ cao 196m tính vận tốc của vật khi chạm đất lấy g 10 ms2
+rơi tự do,trái banh được ném từ mặt đất thẳng đứng với vận tốc 20ms thời gian từ lúc ném banh đến lúc chạm đất là
+rơi tự do, giọt nước rơi tự do từ độ cao 45m xuống sau bao lâu nó rơi tới mặt đất cho g 10ms2
+rơi tự do,lời đúng thả  hòn đá từ độ cao h xuống mặt đất hòn đá rơi trong 05s nếu thả hòn đá từ độ cao H xuống đất mất 15s thì H bằng
+rơi tự do,vật nặng rơi tự do từ độ cao 45m xuống đất lấy g 10ms2 vận tốc của vật khi chạm đất là
+rơi tự do,vật rơi tự do từ độ cao h biết rằng trong giây cuối cùng vật rơi được 15m thời gian rơi của vật là
+rơi tự do,lời đúng thả hai vật rơi tự do đồng thời từ hai độ cao h1 khác h2 biết rằng thời gian chạm đất của vật thứ nhất bằng 12 lần vật thứ hai

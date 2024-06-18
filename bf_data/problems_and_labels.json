@@ -1,0 +1,1307 @@
+{ "labels":[
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "tỉ lệ phần trăm",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "tỉ lệ phần trăm",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "tỉ lệ phần trăm",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "tỉ lệ phần trăm",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "tỉ lệ phần trăm",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "Lập hệ phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình",
+    "phương trình"
+]
+,"problems": [
+    "Hai lớp 9A và 9B có tổng số học sinh là 84. Trong đợt vận động mua bút ủng hộ nạn nhân chất độc màu da cam, mỗi học sinh lớp 9A mua 3 bút, mỗi học sinh lớp 9B mua 2 bút. Tính số học sinh mỗi lớp biết rằng tổng số bút hai lớp mua là 209 chiếc. ĐS: số hs lớp 9A là 41 hs, lớp 9B là 43 hs",
+    
+    "Cuối năm học, cô Lan mua thước, compa làm phần thưởng tặng học sinh có tiến bộ trong học tập. Thước giá 3000đ/cây, compa giá 6000đ/cây. Tổng số thước và compa là 40 cây và cô Lan đã bỏ ra số tiền là 150000 để mua. Hỏi có bao nhiêu thước, bao nhiêu compa ?",
+    
+    "Sau khi xem bảng giá, mẹ An đưa 350000 đồng nhờ An mua 1 bàn ủi, 1 bộ lau nhà. Hôm nay đúng đợt khuyến mãi, bàn ủi giảm 10%, bộ lau nhà giảm 20% nên An chỉ trả 300000 đồng. Hỏi giá tiền của bàn ủi và bộ lau nhà lúc đầu là bao nhiêu? ĐS: 200000;150000",
+    
+    "Một hình chữ nhật có chu vi là 96m. Nếu tăng chiều rộng 3m và giảm chiều dài 4m, thì diện tích tăng 6m2. Tính diện tích của hình chữ nhật lúc đầu. ĐS: 540",
+    
+    "Ông Ba có chín trăm triệu đồng. Ông dùng một phần số tiền này để gởi ngân hàng với lãi suất 7;5% một năm. Phần còn lại, ông góp vốn với một người bạn để kinh doanh. Sau một năm, ông thu về số tiền cả vốn và lãi từ hai nguồn trên là một tỉ hai mươi triệu đồng. Biết rằng tiền lãi khi kinh doanh bằng 25% số tiền vốn ban đầu. Hỏi ông Ba đã gởi ngân hàng bao nhiêu tiền và góp bao nhiêu tiền với người bạn để kinh doanh? ĐS: 600;300",
+    
+    "Cuối học kì I, số học sinh giỏi của lớp 9A bằng 20% số học sinh cả lớp. Đến cuối học kì II, lớp có thêm 2 bạn đạt học sinh giỏi nên số học sinh giỏi ở học kì II bằng 25% số học sinh cả lớp. Hỏi lớp 9A có bao nhiêu học sinh?",
+    
+    "Năm ngoái dân số hai tỉnh A và B tổng cộng là 3 triệu người. Theo thống kê thì năm nay tỉnh A tăng 2% còn tỉnh B tăng 1;8% nên tổng số dân tăng thêm của cả hai tỉnh là 0,0566 triệu người. Hỏi năm ngoái mỗi tỉnh dân số là bao nhiêu? MATH.ND ĐS: 40",
+    
+    "Một siêu thị A có các mặt hàng giày dép đồng giá, các mặt hàng quần áo đồng giá. Tổng giá tiền niêm yết của một đôi giày và một bộ quần áo là 850 000 đồng. Biết giá tiền niêm yết của 2 bộ quần áo ít hơn giá tiền niêm yết của 3 đôi giày là 50 000 đồng. a) Hỏi giá tiền niêm yết của một bộ quần áo, một đôi giày là bao nhiêu? b) Nhân dịp ngày Quốc tế Phụ nữ 8/3, siêu thị A đã mở ra chương trình khuyến mãi như sau: Các mặt hàng giày dép được giảm 20% (so với giá niêm yết), các mặt hàng quần áo được giảm 25% (so với giá niêm yết); ngoài ra nếu khách hàng mua hàng có hóa đơn từ 2 000 000 đồng trở lên sẽ được giảm tiếp 10% so với giá tiền đã mua. Trong dịp này, một người đã mua 5 bộ quần áo và 3 đôi giày. Hỏi người đó đã trả bao nhiêu tiền ? ĐS: 350000;500000;2443500",
+    
+    "Trường Trung học cơ sở A và Trường Trung học cơ sở B có tổng cộng 810 học sinh thi đậu vào lớp 10 THPT Công lập, đạt tỉ lệ trúng tuyển là 90%. Nếu tính riêng từng trường thì trường A có tỉ lệ thí sinh thi đậu là 92%, trường B có tỉ lệ thí sinh thi đậu là 88%. Hỏi mỗi trường có bao nhiêu thí sinh dự thi?",
+    
+    "Một trường tổ chức cho 250 người bao gồm giáo viên và học sinh đi tham quan Đại Nam. Biết giá vào cổng của một giáo viên là 80000 đồng, của một học sinh là 60000 đồng. Nhân ngày giỗ Tổ Hùng Vương nên được giảm 5% cho mỗi vé vào cổng, vì vậy mà nhà trường chỉ phải trả số tiền là 14535000 đồng. Hỏi có bao nhiêu giáo viên? Bao nhiêu học sinh? (Đáp án: 15 giáo viên, 235 học sinh)",
+    
+    "Năm ngoái, hai đơn vị sản xuất nông nghiệp thu hoạch được 720 tấn thóc. Năm nay, đơn vị thứ nhất làm vượt mức 15%, đơn vị thứ hai làm vượt mức 12% so với năm ngoái. Do đó cả hai đơn vị thu hoạch được 819 tấn thóc. Hỏi năm ngoái, mỗi đơn vị thu hoạch được bao nhiêu tấn thóc?",
+    
+    "Để tổ chức cho 345 người bao gồm học sinh khối lớp 9 và giáo viên phụ trách tham dự hội trại kỷ niệm 26/3 tại Phan Thiết, nhà trường đã thuê 9 chiếc xe gồm hai loại: loại 45 chỗ ngồi và loại 15 chỗ ngồi (không kể tài xế). Hỏi mỗi loại có bao nhiêu chiếc xe biết rằng không có xe nào còn trống chỗ? (Đáp án: 89 chiếc loại 45 chỗ, 35 chiếc loại 15 chỗ)",
+    
+    "Một khu vườn hình chữ nhật có chiều dài bằng 3 lần chiều rộng và diện tích là 300m2. Tính chu vi của vườn. (Đáp án: 80m)",
+    
+    "Mẹ bạn Lan mua trái cây ở siêu thị gồm hai loại cam và nho. Biết rằng 1kg cam có giá 150 nghìn đồng, 1 kg nho có giá 250 nghìn đồng. Mẹ bạn Lan mua 4 kg cả hai loại trái cây hết tất cả 700 nghìn đồng. Hỏi mẹ bạn Lan đã mua bao nhiêu kg cam, bao nhiêu kg nho? (Đáp án: 3kg cam, 1kg nho)",
+    
+    "Trong lớp học có một số ghế dài. Nếu xếp mỗi ghế 3 học sinh thì 6 học sinh không có chỗ ngồi. Nếu xếp mỗi ghế 4 học sinh thì thừa 1 ghế. Hỏi lớp có bao nhiêu ghế và bao nhiêu học sinh?",
+    
+    "Trong kỳ thi tuyển sinh vào lớp 10 năm học 2017-2018, hai trường A và B có 228 học sinh thi đỗ, đạt tỉ lệ 76%. Nếu tính riêng từng trường thì trường A đỗ 70%, còn trường B đỗ 85%. Tính xem mỗi trường có bao nhiêu học sinh dự thi và có bao nhiêu học sinh đỗ?",
+    
+    "Bác An cần lát gạch một nền nhà hình chữ nhật có chu vi là 48m và chiều dài hơn chiều rộng là 12m. Bác An chọn gạch hình vuông có cạnh là 60cm để lát gạch nền nhà, giá mỗi viên gạch là 120,000 đồng. Hỏi bác An cần bao nhiêu tiền để lát gạch nền nhà?",
+    
+    "Bạn An trung bình tiêu thụ 18 calo cho mỗi phút bơi và 12 calo cho mỗi phút chạy bộ. Hôm nay, An mất 2.75 giờ cho cả hai hoạt động trên và tiêu thụ hết 2520 calo. Hỏi hôm nay, bạn An mất bao nhiêu thời gian cho mỗi hoạt động?",
+    
+    "Gen B có 3600 liên kết Hidro và có hiệu giữa Nucleotit loại T với loại Nucleotit không bổ sung với nó là 300 Nucleotit. Tính số Nucleotit từng loại của gan B. Biết rằng, để tính số lượng Nucleotit (A, T, G, X) trong phân tử AND, ta áp dụng nguyên tắc bổ sung: “A liên kết với T bằng 2 liên kết Hidro và G liên kết với X bằng 3 liên kết Hidro” và % A = %T, %G = %X . Tổng số Nucleotit trong gen B: N =A+T+G+X=2A+2G=2T+2X: (Đáp án: 600 Nucleotit loại A, 900 Nucleotit loại T)",
+    
+    "Một chiếc vòng nữ trang được làm từ vàng và bạc với thể tích là 10 cm3 và cân nặng 171 g. Biết vàng có khối lượng riêng là 19.3 g/cm3 còn bạc có khối lượng riêng là 10.5 g/cm3. Hỏi thể tích của vàng và bạc được sử dụng để làm chiếc vòng?",
+    
+    "Một phòng họp đủ chổ cho 510 người ngồi gồm hai loại ghế: loại 4 chỗ ngồi và 6 chỗ ngồi. Cả hai loại có 105 ghế. Hỏi mỗi loại ghế có mấy cái?",
+    
+    "Tính hai cạnh góc vuông của một tam giác vuông có cạnh huyền đo được 185m. Biết rằng nếu giảm mỗi cạnh góc vuông 4m thì diện tích tam giác giảm 506m2. (Đáp án: 153m, 104m)",
+    
+    "Một đoàn y tế từ thiện của tỉnh gồm các bác sĩ và y tá về xã để khám chữa bệnh miễn phí cho người dân trong tỉnh. Đoàn gồm 45 người và có tuổi trung bình là 40 tuổi. Tính số bác sĩ và y tá biết tuổi trung bình của các bác sĩ là 50 tuổi và tuổi trung bình của các y tá là 35 tuổi. (Đáp án: 15 bác sĩ, 30 y tá)",
+    
+    "Có hai quặng sắt: quặng I chứa 70% sắt, quặng II chứa 40% sắt. Người ta trộn một lượng quặng loại I với một lượng quặng loại II thì được hỗn hợp quặng chứa 60% sắt. Nếu lấy tăng hơn lúc đầu 5 tấn quặng loại I và lấy giảm hơn lúc đầu 5 tấn quặng loại II thì được hỗn hợp quặng chứa 65% sắt. Tính khối lượng mỗi loại quặng đem trộn lúc đầu?",
+    
+    "Phương tiện vận chuyển công cộng hiện nay là xe Buýt với giá 5000 đồng/ lượt còn đối với Sinh viên- Học sinh là 2000 đồng/lượt và 112500 đồng tập 30 vé tháng. Anh Nam hằng ngày đi làm bằng xe Buýt 2 lượt đi và về, trung bình mỗi tháng anh đi làm 26 ngày.",
+    
+    "Cô Hoa mua 200 cái áo với giá mua 1 áo là 120 000 đồng. Cô bán 70 cái áo, mỗi áo so với giá mua lãi được 15%. Với 40 cái áo kế tiếp, cô bán giá 1 áo bằng với giá vốn. Còn 90 cái áo còn lại, mỗi áo phải bán lỗ với giá vốn 10%. Hỏi sau việc mua và bán 200 cái áo, cô Hoa lãi hay lỗ bao nhiêu tiền ?",
+    
+    "Bác bảy mua một con nghé và một con bê. Sau đó bác bán lại cho người bạn con nghé với giá 18 triệu, để hỗ trợ bạn, bác nói: “Tôi bán cho anh lỗ mất 20% rồi đấy !!!”. Ít hôm sau ông bán con bê cho ông Ba xã bên với giá 18 triệu, bác thầm nghĩ “bán đi con này mình lời được 20% so với giá ban đầu!!!”. Hỏi sau khi bán 2 con bác lời hay lỗ so với số tiền bác dùng để mua 2 con?",
+    
+    "Thực hiện chương trình khuyến mãi Tháng mua sắm lộc vàng, một siêu thị trong thành phố đã giảm giá cho một lô hàng quần kaki gồm 50 cái với giá bán lẻ lúc đầu 320 000đ/cái quần, một số phần trăm. Sau khi bán được 50% lô quần kaki trong hai tuần đầu của tháng, cửa hàng quyết định giảm thêm một số phần trăm như vậy cho số quần kaki còn lại, và bây giờ giá quần kaki có giá 180 000đ một cái. Do đó trong hai tuần còn lại của tháng, cửa hàng đã bán hết lô hàng quần kaki. Hỏi:",
+    
+    "Tivi giá niêm yết 6100000 VNĐ, Nồi cơm điện giá niêm yết 320000 VNĐ. • Tivi khuyến mại hai đợt, đợt 1 giảm 12%, đợt 2 giảm 8%. • Nồi cơm điện chỉ giảm giá một đợt là 5%. Hỏi người mua cả hai thứ trong đợt khuyến mãi trên, phải trả bao nhiêu tiền?",
+    
+    "Bạn Tùng gửi ngân hàng 10 triệu đồng với lãi suất 0;5% một tháng. Nếu bạn gửi theo định kì 1 năm và tiền lãi được dồn vào tiền vốn sau 1 kì thì sau 2 năm bạn nhận được cả vốn lẫn lãi là bao nhiêu tiền?",
+    
+    "Nhà bạn Tuấn tháng trước phải sử dụng 119 kwh điện. Tính số tiền gia đình bạn Tuấn phải trả trong tháng, biết rằng giá 50 kwh đầu tính với giá 1484 đồng/1kwh, 50 kwh thứ hai có giá 1533 đồng/1kwh và 19 kwh sau tính với giá 1786 đồng/1kwh. Thuế giá trị gia tăng (VAT) 10% trên tổng số tiền trả (làm tròn đến hàng đơn vị Một người gửi ngân hàng 200 triệu đồng với lãi suất 7%/năm. Hỏi sau 5 năm người ấy có được cả gốc lẫn lãi là bao nhiêu? (Trong thời gian này không gửi thêm và cũng không rút tiền lãi– làm tròn đến đồng)",
+    
+    "Một người gửi tiết kiệm ở ngân hàng với số tiền là 100 triệu với lãi suất 7;2% một năm. Sau một năm tiền lãi gộp chung vào tiền vốn. Hỏi sau 2 năm người đó được bao nhiêu tiền cả vốn lẫn lãi",
+    
+    "Cho biết công thức tính số tiền gốc và tiền lãi được hưởng của ngân hàng A = x(1 +r)n. • x là số tiền gửi– Đơn vị (đồng hoặc triệu đồng). • r là lãi suất ngân hàng (tính theo %). • n là số tháng (hoặc năm) phải tính. • Alà tổng số tiền gốc và tiền lãi được hưởng (đồng hoặc triệu đồng).",
+    
+    "Bão DoKsuri (bão số 10) đã đổ bộ vào đất liền nước ta, tâm bão kéo dài từ Hà Tĩnh đến Quảng Bình đã gây ra thiệt hại vô cùng lớn cho người dân nơi đây và các tỉnh lân cận. Thương người dân miền Trung, gia đình bác A đã đi vận động quyên góp được một số tiền ủng hộ cho đồng bào miền Trung, bác đến cửa hàng B tham khảo giá 1 thùng mì gói là 98000 đồng, giá 1 chai dầu ăn 1 lít là 32000 đồng, giá 1 gói bột ngọt 350 g là 23000 đồng, sau khi tính toán thì bác thấy số tiền vừa đủ 300 thùng mì, 100 chai dầu ăn và 100 gói bột ngọt. Nhưng đến ngày bác A ra cửa hàng mua thì cửa hàng có đợt khuyến mãi giảm 10% cho tất cả các sản phẩm (so với giá ban đầu bác tham khảo). Khi tính tiền, chủ cửa hàng biết bác mua để đi quyên góp cho đồng bào miền Trung đang gặp khó khăn sau bão nên chủ cửa hàng giảm thêm 5% (so với giá đã giảm lần 1). Vì thế sau khi mua xong vẫn còn dư 1 số tiền, bác quyết định chia số tiền đó thành những phần nhỏ, mỗi phần từ 200000 đồng để trao tặng thêm. Hỏi bác A có thể chia số tiền còn dư đó được nhiều nhất bao nhiêu phần?",
+    
+    "Trong đợt khuyến mãi: Chào năm học mới, nhà sách A thực hiện chương trình giảm giá cho khách hàng như sau: • Khi mua tập loại 96 trang do công ty B sản xuất thì mỗi quyển tập được giảm 10% so với giá niêm yết. • Khi mua bộ I đúng 10 quyển tập loại 96 trang đóng gói sẵn hoặc bộ II đúng 20 quyển tập loại 96 trang đóng gói sẵn do công ty C sản xuất thì quyển tập bộ I được giảm 10% với giá niêm yết, còn mỗi quyển tập loại bộ II được giảm 15% so với giá niêm",
+    
+    "Trong 130 con bò sữa của nhà ông Hiệp ở huyện Mộc Châu, tỉnh Sơn La có 75 con sinh sản (hiện có 42 con đang vắt sữa), còn lại là bê và bò tơ, tổng giá trị đàn bò không dưới 6 tỷ đồng, sản lượng sữa hàng ngày ông thu được khoảng 1;2 tấn bán cho nhà máy được 15 triệu đồng, tức chi phí ông Hiệp còn lãi 40% so với doanh thu. a Hỏi mỗi ngày 1 con bò vắt được khoảng bao nhiêu kg sữa? b Mỗi tháng (khoảng 30 ngày) gia đình ông Hiệp thu được tiền lãi là bao nhiêu từ sản lượng sữa bò?",
+    
+    "Cửa hàng đồng giá 40000 đồng một món có chương trình giảm giá 20% cho một món hàng và nếu khách hàng mua 5 món trở lên thì từ món thứ 5 trở đi khách hàng chỉ trả 60% giá đang bán. a Tính số tiền 1 khách hàng phải trả khi mua 7 món hàng. b Nếu có khách hàng đã trả 272000 đồng thì khách hàng này đã mua bao nhiêu món hàng.",
+    
+    "Giá ban đầu của một cái TV là 8000000 đồng. Lần đầu giảm 5%, sau đó 2 tuần, siêu thị lại giảm thêm một lần nữa, lúc này giá cái TV chỉ còn 6840000 đồng. Hỏi ở lần 2, siêu thị đã giảm giá bao nhiêu phần trăm.",
+    
+    "Mộtcửahàngnhậpvềnhãnhàngmáytính xách tay với giá vốn là 4500000 đồng. Cửa hàng dự tính công bố giá niêm yết (giá bán ra) là 6000000 đồng. a Nếu bán với giá niêm yết thì cửa hàng lãi bao nhiêu phần trăm so với giá vốn? b Dểcó lãi ít nhất 5% thì cửa hàng có thể giảm giá nhiều nhất bao nhiêu phần trăm?",
+    
+    "Giá niêm yết một chiết tivi sony 46 inch của một cửa hàng A là 12500000 đồng. Nhân dịp tết dương lịch 2020, cửa hàng đó khuyến mãi giảm giá 12%. Nếu mua thêm chiếc tivi thứ 3 thì giảm thêm 5% trên giá đã giảm cho chiếc tivi thứ 3.",
+    
+    "Giá niêm yết của 1 mặt hàng là 600000 đồng. Nếu bán mặt hàng này với giá 1 nửa giá niêm yết thì lợi nhuận 25%. Hỏi phải bán với giá bao nhiêu thì lợi nhuận 50%?",
+    
+    "Cách đây 2 năm ông Nam có gửi 100000000 đồng vào ngân hàng theo là hạn 1 năm lãi kép (tiền lãi được nhập vào vốn ban đầu để tính lãi tiếp). Năm nay ông Nam nhận được số tiền là 116640000 đồng. Hỏi lãi suất ngân hàng là bao nhiêu?",
+    
+    "Bà Mai vay 200000000 đồng của ngân hàng trong thời hạn 2 năm, để mở một cửa hàng sản xuất bán hàng lưu niệm. Theo hợp đồng vay vốn, lãi suất vay trong 1 năm là 10%. Sau 1 năm, tiền lãi của năm đầu sẽ được cộng vào vốn vay của năm sau.",
+    
+    "Ngày tổng kết năm học, tôi đã về thăm trường và gặp lại thầy chủ nhiệm lớp 9. Qua nói chuyện thầy cho biết sỉ số cuối năm giảm 1/21 so với đầu năm, toàn bộ lớp đều tham gia thi tuyển lớp 10 và kết quả có 34 học sinh đã đậu vào lớp 10 công lập đạt tỉ lệ 85%. Hãy tính sỉ số đầu năm của lớp tôi.",
+    
+    "Có 2 thùng dầu, thùng thứ nhất có 120 lít, thùng thứ 2 có 90 lít. Sau khi lấy ra 1 lượng dầu gấp 3 lần lượng dầu lấy ra ở thùng thứ 2, thì lượng dầu còn lại trong thùng thứ 2 gấp đôi lượng dầu còn lại trong thùng thứ nhất. Hỏi lượng dầu còn lại trong mỗi thùng?",
+    
+    "Cuối học kỳ I số học sinh giỏi của lớp 9A bằng 20% số học sinh cả lớp. Đến cuối học kì II, lớp có thêm 2 bạn đạt học sinh giỏi nên HSG học kỳ II bằng 1 4 số học sinh cả lớp. Hỏi lớp 9A có bao nhiêu học sinh?",
+    
+    "Tết khao giảng vừa qua lớp 9A tích cực đóng góp xây dựng bài học nên được cô giao khen thưởng 1 số viên kẹo, nếu bạn lớp trưởng chia cho mỗi bạn 5 viên kẹo thì thừa 5 viên kẹo, nếu bạn lớp trưởng chia cho mỗi bạn 6 viên kẹo thì 6 bạn không có. Hỏi lớp 9A có bao nhiêu học sinh?",
+    
+    "Trong học kỳ I, tổng số học sinh của 2 lớp 8A và 8B là 80 học sinh khi khảo sát điểm thi HKI môn toán, thầy Việt được các kết quả như sau: điểm trung binh của mỗi học sinh lớp 8A là 7;2; điểm trung bình của mỗi học sinh lớp 8B là 6;8 và tổng điểm thi môn",
+    
+    "Hai cửa hàng A và B đều nhập về 1 nhãn hàng tivi với giá như nhau. Cửa hàng A niêm yết sản phẩm đó với giá tăng 40% nhưng lại bán với giá giảm 20%. Cửa hàng B niêm yết sản phẩm đó với giá tăng 20% nhưng lại bán với giá giảm 5%. Biết giá niêm yết là giá bán ra mà cửa hàng đề xuất với người tiêu dùng. Theo em, chọn mua tivi từ hãng nào sẽ lợi hơn? Vì sao?",
+    
+    "Một hình chữ nhật có chu vi là 50m và có 3 lần chiều dài hơn 2 lần chiều rộng là 15m. Tính diện tích hình chữ nhật đó",
+    
+    "Năm nay tuổi cha gấp 10 lần tuổi con. Sáu năm nữa tuổi cha gấp 4 lần tuổi con. Hỏi năm nay mỗi người bao nhiêu tuổi?",
+    
+    "Một hình chữ nhật có chu vi bằng 140m. Chiều dài hơn chiều rộng 10m. Tính diện tích hình chữ nhật.",
+    
+    "Một khu vườn hình chữ nhật có chu vi là 50m. Nếu tăng chiều dài 1m và giảm chiều rộng 2m thì diện tích giảm đi 22m2. Tính diện tích khu vườn lúc đầu.",
+    
+    "Vừa gà vừa chó, bó lại cho tròn 36 con, 100 chân chẵn. Hỏi có bao nhiêu gà, bao nhiêu chó?",
+    
+    "Một miếng đất hình chữ nhật có chu vi 288m. Nếu tăng chiều rộng gấp 2 lần và giảm chiều dài đi 3 lần thì chu vi giảm 42m. Tính kích thước lúc đầu của miếng đất.",
+    
+    "Một miếng đất hình chữ nhật có diện tích lúc đầu là 100m2. Nếu tăng chiều rộng 5m và giảm chiều dài 5m thì diện tích lúc sau tăng 50m. Tính chiều dài, chiều rộng lúc đầu của miếng đất hình chữ nhật.",
+    
+    "Bạn Bình đem 18 tờ tiền giấy gồm hai loại 5000 đồng và 10000 đồng đến cửa hàng mua một món đồ có giá trị 120000 đồng. Biết Bình đã dùng hết số tiền đem theo để mua món đồ đó. Hỏi bạn Bình có bao nhiêu tờ tiền mỗi loại?",
+    
+    "Mẹ của An đem 15 tờ tiền loại 50000 đồng và 200000 đồng mua hàng tại một siêu thị hết tất cả 1320000 đồng và được thối lại 30000 đồng. Hỏi có bao nhiêu tờ tiền mỗi loại?",
+    
+    "Một giáo viên mua viết xanh và viết đỏ làm phần thưởng tặng học sinh kiểm tra đạt điểm tốt. Viết xanh giá 3000 đồng/cây, viết đỏ loại tốt nên giá 5000 đồng/cây. Biết tổng số viết xanh và viết đỏ là 40 cây, giáo viên đã trả tiền mua viết là 148000 đồng. Hỏi giáo viên đã mua bao nhiêu cây viết xanh, bao nhiêu cây viết đỏ?",
+    
+    "Một khu vườn hình chữ nhật có chu vi là 40m và chiều dài gấp 3 lần chiều rộng. Tính diện tích khu vườn.",
+    
+    "Một miếng đất hình chữ nhật có chiều dài bằng chiều rộng, chu vi là 240m. Tính các kích thước miếng đất hình chữ nhật.",
+    
+    "Một miếng đất hình chữ nhật có chiều dài hơn chiều rộng 15m. Nếu tăng chiều dài thêm 5m, giảm chiều rộng đi 10m thì diện tích giảm 400m2. Tính kích thước của miếng đất lúc đầu",
+    
+    "Một miếng đất hình chữ nhật có chu vi là 56m. Nếu tăng chiều rộng 4m và giảm chiều dài 4m thì diện tích tăng thêm 8m2. Tính kích thước của miếng đất lúc đầu.",
+    
+    "Một cửa hàng bán đồ nướng mở hai chương trình khuyến mãi:- Hình thức 1: đi 4 tính tiền 3.- Hình thức 2: giảm 15% cho tổng hóa đơn. Biết giá vé cho 1 người là 299000 đồng (giá chưa bao gồm thuế VAT 10%). Hỏi nếu gia đình bạn An có 5 người thì nên lựa chọn hình thức nào để có lợi hơn.",
+    
+    "Năm học 2021-2022, học kì I, trường THCSA có 500 học sinh đạt loại khá và giỏi. Học kì II, số học sinh khá tăng 2%, số học sinh giỏi tăng 4% nên tổng số học sinh khá và giỏi là 513 học sinh. Nhà trường phát thưởng cho học sinh đạt thành tích cho học kì II như sau: mỗi học sinh giỏi là 15 quyển tập, mỗi học sinh khá là 10 quyển tập. Biết giá mỗi quyển tập bán trên thị trường là 9.500 đồng/quyển. Do mua số lượng lượng lớn công ty cung cấp có chính sách như sau: Nếu hóa đơn trên 40.000.000 đồng thì được giảm giá 5%; nếu hóa đơn trên 50.000.000 đồng thì được giảm giá 8%; nếu hóa đơn trên 60.000.000 đồng thì được giảm giá 10%. Hỏi nhà trường phải trả số tiền mua tập làm phần thưởng là bao nhiều",
+    
+    "Một cửa hàng thời trang nhập về 100 đôi giày với giá vốn 300000 đồng/1 đôi. Đợt một, cửa hàng bán hết 80 đôi. Nhân dip khuyến mãi, để bán hết phần còn lại, cửa hàng đã giảm giá 30% so với giá niêm yết ở đợt một. Biết rằng sau khi bán hết số giày của đợt nhập hàng này thì cửa hàng lãi 12300000 đồng. a) Tính tổng số tiền cửa hàng thu về khi bán hết 100 đôi giày. b) Hỏi vào dịp khuyến mãi cửa hàng đó bán một đôi giá bao nhiêu tiền",
+    
+    "Thực hiện chương trình khuyến mãi ngày chủ nhật vàng một cửa hàng điện máy giảm giá 50% cho lô hàng ti vi gồm có 40 cái với giá bán lẻ trước đó là 6.500.000 đồng một cái ti vi. Đến trưa cùng ngày thì cửa hàng bán được 20 cái ti vi và cửa hàng quyết định giảm thêm 10% nữa (so với giá đã giảm lần 1) cho số ti vi còn lại. a) Tính số tiền mà cửa hàng thu được khi bán hết lô hàng ti vi. b) Biết rằng giá vốn là 2.850.000 đồng/cái ti vi. Hỏi cửa hàng lời hay lỗ khi bán hết lô hàng ti vi đó",
+    
+    "Trong tháng 4 năm 2021, một công nhân được nhận tiền lương là 7800000 đồng gồm tiền lương trong 24 ngày làm việc bình thường và 4 ngày làm việc đặc biệt (gồm chủ nhật và ngày lễ). Biết tiền lương của một ngày làm việc đặc biệt nhiều hơn tiền lương của một ngày bình thường là 200000 đồng. Tính tiền lương của một ngày làm việc bình thường",
+    
+    "Một công nhân làm việc với mức lương cơ bản là 200000 đồng cho 8 giờ làm việc trong một ngày. Nếu trong một tháng người đó làm 26 ngày và tăng ca thêm 3 giờ/ngày trong 10 ngày thì người đó nhận được bao nhiêu tiền lương? Biết rằng, một giờ tiền lương tăng ca bằng 150% một giờ tiền lương cơ bản",
+    
+    "Bạn Nam gửi ngân hàng 20 triệu đồng, kì hạn 1 năm với lãi suất kép. Sau 1 năm, tồng số tiền Nam có trong ngân hàng là 21 triệu đồng. Hỏi sau 2 năm số tiền trong ngân hàng của Nam là bao nhiêu? Biết lãi suất ngân hàng không đổi và Nam không rút tiền lãi sau năm thứ nhất",
+    
+    "Bà Dung gửi 200 triệu đồng vào ngân hàng Sacombank với kì hạn 1 năm và lãi suất kép. Biết rằng sau 2 năm bà Dung nhận được cả vốn lẫn lãi là 226845000 đồng. a) Hỏi bà Dung gởi ngân hàng với lãi suất bao nhiêu phần trăm một năm? b) Siêu thị Điện Máy Xanh đang có chương trình khuyến mãi Chào xuân mới giảm giá 10% cho tất cả các mặt hàng. Bà Dung đã dùng số tiền nhận được từ ngân hàng mua một cái tivi Samsung 55 inch và một cái máy giặt LG 10 kg trong thời gian siêu thị Điện Máy Xanh khuyến mãi. Biết số tiền bà Dung còn lại sau khi mua sắm là 199845000 đồng. Hỏi giá niêm yết của máy giặt LG 10 kg là bao nhiêu? Biết giá niêm yết của tivi Samsung 55 inch là 14400000 đồng",
+    
+    "Hai trường A và B có tất cả 480 thí sinh dự thi tuyển sinh vào lớp 10, nhưng chỉ có 378 em được trúng tuyển. Tỉ lệ trúng tuyển vào lớp 10 của trường A và trường B lần lượt là 75% và 84%. Tính số thí sinh dự thi vào lớp 10 của mỗi trường",
+    
+    "Trường THCSA tiến hành khảo sát 1500 học sinh về sự yêu thích hội họa, thể thao, âm nhạc và các yêu thích khác. Mỗi học sinh chỉ chọn một yêu thích. Biết số học sinh yêu thích hội họa chiếm tỉ lệ 20% so với số học sinh khảo sát. Số học sinh yêu thích thể thao hơn số học sinh yêu thích âm nhạc là 30 học sinh, số học sinh yêu thích thể thao và hội họa bằng với số học sinh yêu thích âm nhạc và yêu thích khác. a) Tính số học sinh yêu thích hội họa. b) Tính số học sinh yêu thích thể thao và âm nhạc",
+    
+    "Điểm trung bình của 100 học sinh trong hai lớp 9A và 9B là 7,2. Tính điểm trung bình của các học sinh mỗi lớp, biết rằng số học sinh của lớp 9A gấp rưỡi số học sinh của lớp 9B và điểm trung bình của số học sinh lớp 9B gấp rưỡi điểm trung bình của học sinh lớp 9A",
+    
+    "Một đội xe theo kế hoạch chở hết 140 tấn hàng trong một số ngày qui định. Do mỗi ngày đội đó chở vượt mức 5 tấn nên đội đó hoàn thành kế hoạch sớm hơn thời gian qui định 1 ngày và chở thêm được 10 tấn. Hỏi theo kế hoạch đội xe chở hàng hết bao nhiêu ngày?",
+    
+    "Theo kế hoạch, một xưởng may phải may xong 280 bộ quần áo trong một thời gian quy định. Đến khi thực hiện, mỗi ngày xưởng đó may được nhiều hơn 5 bộ quần áo so với số bộ quần áo phải may trong một ngày theo kế hoạch. Vì thế, xưởng đó hoàn thành kế hoạch trước 1 ngày. Hỏi theo kế hoạch, mỗi ngày xưởng phải may xong bao nhiêu bộ quần áo?",
+    
+    "Hai người đi xe đạp cùng xuất phát từ A để đến B với vận tốc bằng nhau. Đi được 2/3 quãng đường, người thứ nhất bị hỏng xe nên dừng lại 20 phút và đón ô tô quay về A còn người thứ hai không dừng lại mà tiếp tục đi với vận tốc cũ để tới B. Biết rằng khoảng cách từ A đến B là 60 km, vận tốc ô tô hơn vận tốc xe đạp là 48 km/h và khi người thứ hai tới B thì người thứ nhất đã về A trước đó 40 phút. Tính vận tốc của xe đạp.",
+    
+    "Một công ty vận tải điều một số xe tải để chở 90 tấn hàng. Khi đến kho hàng thì có 2 xe bị hỏng nên để chở hết lượng hàng thì mỗi xe còn lại phải chở thêm 0,5 tấn so với dự định ban đầu. Hỏi số xe được điều đến chở hàng là bao nhiêu? Biết rằng khối lượng hàng chở ở mỗi xe là như nhau.",
+    
+    "Một người đi bộ từ A đến B với vận tốc 4 km/h, rồi đi ô tô từ B đến C với vận tốc 40 km/h. Lúc về anh ta đi xe đạp trên cả quãng đường CA với vận tốc 16 km/h. Biết rằng quãng đường AB ngắn hơn quãng đường BC là 24 km, và thời gian lúc đi bằng thời gian lúc về. Tính quãng đường AC.",
+    
+    "Khoảng cách giữa hai bến sông A và B là 60 km. Một xuồng máy đi xuôi dòng từ bến A đến bến B, nghỉ 30 phút tại bến B rồi quay trở lại đi ngược dòng 25 km để đến bến C. Thời gian kể từ lúc đi đến lúc quay trở lại đến bến C hết tất cả là 8 giờ. Tính vận tốc xuồng máy khi nước yên lặng, biết rằng vận tốc nước chảy là 1 km/h.",
+    
+    "Một xe lửa đi từ Huế ra Hà Nội. Sau đó 1 giờ 40 phút, một xe lửa khác đi từ Hà Nội vào Huế với vận tốc lớn hơn vận tốc của xe lửa thứ nhất là 5 km/h. Hai xe gặp nhau tại một ga cách Hà Nội 300 km. Tìm vận tốc của mỗi xe, giả thiết rằng quãng đường sắt Huế - Hà Nội dài 645 km.",
+    
+    "Hai bác nông dân đem trứng ra chợ bán với tổng số trứng của hai người là 100 quả. Số trứng của hai người không bằng nhau, nhưng hai người bán được một số tiền bằng nhau. Một người nói với người kia: \"Nếu số trứng của tôi bằng số trứng của anh thì tôi bán được 90.000 đồng\". Người kia nói: \"Nếu số trứng của tôi bằng số trứng của chị thì tôi chỉ bán được 40.000 đồng thôi\". Hỏi mỗi người có bao nhiêu trứng và giá bán mỗi quả trứng của mỗi người là bao nhiêu?",
+    
+    "Một công ty vận tải được điều một số xe chở 90 tấn hàng. Khi đến kho chở thì 2 xe bị hỏng nên để chở hết số hàng thì mỗi xe phải chở thêm 0,5 tấn so với dự định ban đầu. Hỏi số xe được điều đến để chở hàng là bao nhiêu? Biết mỗi xe chở số hàng là như nhau.",
+    
+    "Một vòi nước chảy vào một cái bể không có nước. Cùng lúc đó một vòi nước khác chảy từ bể ra. Mỗi giờ lượng nước vòi chảy ra bằng 4/5 lượng nước chảy vào. Sau 5 giờ nước trong bể đạt tới 1/8 dung tích bể. Hỏi nếu bể không có nước mà chỉ mở vòi chảy vào thì sau bao lâu thì đầy bể?",
+    
+    "Một người đi xe gắn máy từ A đến B dự định mất 3 giờ 20 phút. Nếu người ấy tăng vận tốc thêm 5 km/h thì sẽ đến B sớm hơn 20 phút. Tính khoảng cách AB và vận tốc dự định của người đó.",
+    
+    "Tuổi của ông An hơn An 56 tuổi, cách đây 5 năm tuổi của ông An gấp 8 lần tuổi An. Hỏi tuổi của An hiện nay bao nhiêu tuổi?",
+    
+    "Một người đi ô tô từ A đến B với vận tốc dự định là 48 km/h. Nhưng khi đi được 1 giờ với vận tốc ấy người đó nghỉ 10 phút và tiếp tục đi đến B kịp thời gian đã định người đó phải tăng vận tốc thêm 6 km/h. Tính quãng đường AB.",
+    
+    "Một xe ô tô đi từ A đến B với vận tốc 50 km/h và sau đó trở về B với vận tốc 40 km/h. Cả đi lẫn về mất 5 giờ 24 phút. Tính chiều dài quãng đường AB.",
+    
+    "Một người đi xe máy khởi hành từ nhà lúc 6h30 phút với vận tốc 45 km/h đến nơi làm việc và ở đó trong thời gian 8 giờ rồi về nhà với vận tốc 40 km/h về đến nhà lúc 17h20 phút. Hỏi quãng đường từ nhà đến nơi làm việc dài bao nhiêu km?",
+    
+    "Một phân số có tử số bé hơn mẫu số là 11. Nếu bớt tử số đi 7 đơn vị và tăng mẫu số lên 4 đơn vị thì sẽ được phân số nghịch đảo của phân số đã cho.",
+    
+    "Tổng của hai số bằng 51. Tìm hai số đó biết rằng 2/3 số thứ nhất bằng 1/6 số thứ hai.",
+    
+    "Một người đi ô tô khởi hành lúc 6h15 phút với vận tốc 50 km/h. Đến B nghỉ lại 1 giờ 30 phút rồi trở về A với vận tốc 50 km/h. Về đến A lúc 14h30 phút. Hỏi quãng đường AB dài bao nhiêu km?",
+    
+    "Một ca nô đi xuôi dòng từ A đến B mất 4 giờ và ngược dòng từ B về A hết 5 giờ. Tính quãng đường AB biết vận tốc của dòng nước là 2 km/h.",
+    
+    "Một người đi xe gắn máy từ A đến B dự định mất 3 giờ 20 phút. Nếu người ấy tăng vận tốc thêm 5 km/h thì sẽ đến B sớm hơn 20 phút. Tính khoảng cách AB và vận tốc dự định của người đó.",
+    
+    "Một người đi nửa quãng đường AB với vận tốc 20 km/h, và đi phần còn lại với vận tốc 30 km/h. Tính vận tốc trung bình của người đó trên cả quãng đường.",
+    
+    "Một ca nô xuôi dòng từ bến A đến bến B rồi ngược dòng từ B về bến A mất tất cả 4h. tính vận tốc của ca nô khi nước yên lặng. Biết rằng quãng đường sông AB dài là 30km và vận tốc dòng nước là 4km/h",
+    
+    "Một người đi xe đạp từ A đến B cách nhau 33km với vận tốc xác định khi từ B về A người đó đi bằng con đường khác dài hơn trước là 29 km nhưng với vận tốc lớn hơn vận tốc lúc đi là 3km/h Tính vận tốc lúc đi biết rằng thời gian về nhiều hơn thời gian đi là 1h30 phút.",
+    
+    "Hai ca nô cùng khởi hành một lúc từ A đến B ca nô thứ nhất chạy với vận tốc 20km/h ca nô thứ 2 chạy với vận tốc 24 km/h trên đường đi ca nô thứ 2 dừng lại 40 phút sau đó tiếp tục chạy. Tính chiều dài AB biết rằng 2 ca nô cùng đến B một lúc ?",
+    
+    "Hai người đi xe đạp từ A đến B cách nhau 60km với cùng một vận tốc khi được 2/3 quãng đường người thứ nhất hỏng xe nên dừng lại 20 phút đón ô tô quay về A người thứ 2 vẫn tiếp tục đi với vận tốc cũ và chậm hơn người đi về A là 40 phút Hỏi vận tốc của người đi xe đạp biết rằng vận tốc ôtô đi nhanh hơn xe đạp là 30km/h ?",
+    
+    "Một xe tải đi từ tỉnh A đến tỉnh B với vận tốc 40km/h .Sau đó 1h 30 phút một chiếc xe con cũng đi từ A đến B với vận tốc 60km/h. Hai xe gặp nhau khi chúng đi được một nửa quãng đường. Tính quãng đường AB",
+    
+    "Một người đi xe máy từ A đến B cách nhau 60km rồi quay trở về A ngay với vận tốc cũ. Nhưng lúc về khi đi được 1h thì xe hỏng nên phải dừng lại sửa 20 phút . Sau đó tiếp tục đi với vận tốc nhanh hơn trước là 4km/h trên quãng đường còn lại, vì thế thời gian đi và về bằng nhau . Tính vận tốc ban đầu của xe ?",
+    
+    "Một đi xe máy từ A đến B đường dài 120km. Khi đi từ B trở về A trong 1h 40 phút đầu người ấy đi với vận tốc như cũ, sau khi nghỉ 30 phút lại tiếp tục đi với vận tốc lớn hơn trước là5km/h khi về đến A vẫn thấy rằng vẫn quá 10 phút so với thời gian đi từ A đến B. Tính vận tốc lúc đi ?",
+    
+    "Một người đi ôtô từ A đến B cách nhau 500km sau khi đi đến B người đó quay lại A ngay với vận tốc cũ trên đường trở về sau khi đi được 2h ôtô dừng lại 30 phút sau đó tiếp tục đi với vận tốc lớn hơn vận tốc lúc đi là 20km/h vì vậy thời gian đi và về bằng nhau. Tính vận tốc lúc đi ?",
+    
+    "Một xe tải và một xe con khởi hành cùng một lúc từ A đến B vận tốc xe tải là 40km/h vận tốc xe con là 60km/h sau khi đi nửa quãng đường xe con nghỉ 40 phút rồi tiếp tục đi đến B với vận tốc cũ Xe tải không nghỉ và trên quãng đường còn lại nó tăng vận tốc thêm 10km/h tuy vậy xe tải vẫn đến B chậm hơn xe con là 30 phút. Tính quãng đường AB ?",
+    
+    "Một người đi xe đạp từ A đến B cách nhau 24km khi đi từ B về A người đó tăng vận tốc thêm 4km/h so với lúc đi vì vậy thời gian về ít hơn thời gian đi là 30 phút. Tính vận tốc lúc đi ?",
+    
+    "Lúc 7h một ô tô đi từ A đến B lúc 7h30 phút một xe máy đi từ B về A với vận tốc kém vận tốc ôtô là 24km/h ô tô đến được B hết 1h 20 phút thì xe máy mới đến A . Tính vận tốc của xe máy. biết quãng đường AB dài là 120km ?",
+    
+    "Biết rằng m kg nước giảm xuống tốc thì tỏa ra nhiệt lượng.q=mt Kcal. Hỏi phải dùng bao nhiêu lít nước sôi ở 100°c và bao nhiêu lít nước ở 20°c để được hỗn hợp nước 40°c",
+    
+    "Trong tháng 1 hai tổ làm được 900 SP sang tháng 2 tổ 1 làm vượt mức 15% tổ 2 vượt mức 10% vì vậy 2 tổ làm được 1010 SP Hỏi trong tháng 1 mỗi tổ làm được bao nhiêu SP.",
+    
+    "Cho mảnh đát hình chữ nhật có diện tích là 360m² nếu tăng chiều rộng lên 2m và giảm chiều dài đi 6m thì diện tích mảnh đất không đổi. Tính chu vi mảnh đất lúc ban đầu",
+    
+    "Một mảnh vườn hình chữ nhật có diện tích 720m² nếu tăng chiều dài lên 6m và giảm chiều rộng 4m thì diện tích của vườn không đổi tính chiều dài và chiều rộng",
+    
+    "Tổng số công nhân của hai đội sản suất là 125 người. Sau khi điều 13 người từ đội thứ nhất sang đội thứ 2 thì số công nhân của đội thứ nhất bằng 2/3 số công nhân đội thứ 2. Tính số công nhân của mỗi đội lúc ban đầu",
+    
+    "Một máy bơm theo kế hoạch bơm đầy nước vào một bể chứa 50 m³ trong một thời gian nhất 3 định . Do người công nhân đã cho máy bơm hoạt động với công suất tăng thêm 5m³ /h . Nên đã bơm đầy bể sớm hơ dự định là 1h 40 phút. Hãy tính công suất của máy bơm theo kế hoạch ?",
+    
+    "Có hai máy bơm bơm nước vào bể. Nếu hai máy bơm cùng bơm sau 2h55 phút đầy bể. Nếu mỗi máy bơm riêng thì thời gian máy 1 bơm đầy bể ít hơn thời gian máy 2 bơm đầy bể là 2h Hỏi mỗi máy bơm riêng thì trong bao lâu thì đầy bể ?",
+    
+    "Một đội công nhân xây dựng hoàn thành công trình với mức 420 ngày công thợ. Hãy tính số người của đội, biết rằng nếu đội vắng 5 người thì số ngày hoàn thành công việc sẽ tăng lên 7 ngày ?",
+    
+    "Một đội công nhân gồm 20 người dự định hoàn thành công việc Trong một thời gian nhất địmh do trước khi tiến hành công việc 4 người phân công đi làm việc khác, vì vậy để hoàn thành công việc mỗi người phải làm thêm 3 ngày. Thời gian dự kiến ban đầu để hoàn thành công việc bao ngày ?",
+    
+    "Một nhóm thợ đặt kế hoạch SX 1200 sản phẩm. Trong 12 ngày đầu họ làm đúng theo kế hoạch đề ra những ngày còn lại họ đã làm vượt mức 20 sản phẩm, nên hoàn thành kế hoạch sớm 2 ngày. Theo kế hoạch mỗi ngày cần SX bao nhiêu sản phẩm ?",
+    
+    "Một đội công nhân dự định làm 120 SP trong 1 thời gian nhất định .Sau khi làm được 2 h với năng suất dư kiến, người đó đã thao tác cải tiến hợp lý nên đã tăng năng suất lên được 3 SP mỗi h và vì vậy người đó đã hoàn thành kế hoạch sớm hơn dự định là 1h 36 phút. Hãy tính năng suất dự kiến ?",
+    
+    "Một tổ có kế hoạch sản suất 350 sản phẩm theo năng suất dự kiến. Nếu tăng năng suất 10 SP một ngày thì tổ đó hoàn thành sớm 2 ngày so với giảm năng suất 10 SP mỗi ngày .Tính năng suất dự kiến",
+    
+    "Một máy bơm dùng để bơm đầy một bể nước có thể tích 60m³. Với thời gian dự định khi đã bơm được 1/2 bể thì mất điện trong 48 phút . Đến lúc có điện trở lại người ta sử dụng thêm một máy bơm thứ 2 có công suất 10m³ /h cả 2 máy bơm cùng hoạt động để bơm đầy bể đúng dự kiến. Tính công suất của máy bơm thứ 1 và thời gian dự kiến ?",
+    
+    "Một công nhân dự định làm 72 SP trong thời gian đã định. Nhưng thực tế xí nghiệp giao 80 SP nên mặc dù người đó đã làm mỗi giờ thêm1SP mà thời gian hoàn thành vẫn chậm hơn so với dự định là 12 phút. Tính năng suất dự Biết rằng người đó làm mỗi giờ không quá 20 SP",
+    
+    "Một đoàn xe dự định chở 40 tấn hàng. Nhưng thực tế phải chờ thêm 14 tấn nữa nên phải điều thêm 2 xe và mỗi xe phải chở thêm 0.5 tấn. Tính số xe ban đầu ?",
+    
+    "Hai nông dân đem 100 quả trứng ra chợ bán số trứng của hai người không bằng nhau. Một người nói với người kia: 'Nếu số trứng của tôi bằng số trứng của anh thì tôi bán được 15 đồng.' Người kia nói: 'Nếu số trứng của tôi bằng số trứng của anh thì tôi chỉ bán được 20/3 đồng thôi.' Hỏi mỗi người có bao nhiêu trứng?",
+    
+    "Một đàn khỉ chia thành 2 nhóm. Nhóm chơi đùa vui vẻ ngoài trời bằng bình phương một phần tám của đàn. Mười hai con nhảy nhót trên cây. Không khí vui tươi sưởi ấm nơi này. Hỏi đàn khỉ có tất cả bao nhiêu con?",
+    
+    "Một đội công nhân phải làm 216 SP trong 1 thời gian nhất định. Ba ngày đầu mỗi ngày làm đúng theo định mức. Sau đó mỗi ngày làm vượt mức 8 SP nên đã làm được 232 SP và xong trước 1 ngày. Hỏi theo kế hoạch mỗi ngày đội phải làm bao nhiêu SP?",
+    
+    "Nhà trường tổ chức cho 180 học sinh đi thăm quan. Nếu dùng loại xe lớn chở 1 lượt hết số học sinh thì phải điều ít hơn nếu dùng 2 chiếc xe nhỏ. Biết rằng loại xe lớn chở nhiều hơn loại xe nhỏ là 15 học sinh. Tính số xe lớn nếu số xe đó được dùng?",
+    
+    "Một tàu thủy chạy trên 1 khúc sông dài 80 km, cả đi lẫn về mất 8 giờ 20 phút. Tính vận tốc của tàu khi nước yên lặng. Biết vận tốc của dòng nước là 4 km/h.",
+    
+    "Một ôtô chuyển động với vận tốc đã định để đi hết quãng đường AB dài là 120 km trong 1 thời gian đã định. Sau khi đi được một nửa quãng đường, xe nghỉ 3 phút nên để đến nơi đúng giờ, xe phải tăng vận tốc lên 2 km/h trên quãng đường còn lại. Tính thời gian xe lăn trên đường.",
+    
+    "Một ôtô dự định đi từ A đến B cách nhau 120 km trong 1 thời gian qui định. Sau khi đi được 1 giờ, ôtô bị chặn bởi tàu hỏa 10 phút. Do đó để đến B đúng hạn, ôtô phải tăng vận tốc lên 6 km/h. Tính vận tốc lúc đầu của ôtô?",
+    
+    "Hai ôtô cùng khởi hành từ A đến B cách nhau 300 km. Ôtô thứ 1 mỗi giờ chạy nhanh hơn ôtô thứ 2 là 10 km/h nên đến sớm hơn ôtô thứ 2 là 1 giờ. Tính vận tốc của mỗi xe ôtô?",
+    
+    "Một ôtô dự định đi từ A đến B trong một thời gian nhất định. Nếu xe chạy với vận tốc 35 km/h thì đến chậm mất 2 giờ. Nếu xe chạy với vận tốc 50 km/h thì đến sớm hơn 1 giờ. Tính quãng đường AB?",
+    
+    "Một xe ôtô đi từ A đến B dài 120 km trong một thời gian dự định. Sau khi đi được nửa quãng đường thì xe tăng thêm vận tốc 10 km/h nên đến sớm hơn dự định là 12 phút. Tính vận tốc ban đầu của xe?",
+    
+    "Một ôtô đi từ tỉnh A đến tỉnh B với một vận tốc xác định. Nếu vận tốc tăng thêm 20 km/h thì thời gian sẽ giảm đi 1 giờ, nếu vận tốc giảm đi 10 km/h thì thời gian tăng thêm 1 giờ. Tính vận tốc của ôtô và quãng đường AB?",
+    
+    "Một người đi xe đạp từ A đến B với vận tốc trung bình là 30 km/h. Khi đến B, người đó nghỉ 20 phút rồi quay trở về A với vận tốc trung bình 24 km/h. Tính quãng đường AB biết rằng thời gian cả đi lẫn về là 5 giờ 50 phút?",
+    
+    "Một ca nô xuôi dòng từ bến A đến bến B với vận tốc trung bình là 30 km/h, sau đó ngược từ B về A. Thời gian đi xuôi ít hơn thời gian đi ngược là 40 phút. Tính khoảng cách giữa A và B biết rằng vận tốc của dòng nước là 3 km/h.",
+    
+    "Một ôtô dự định đi từ tỉnh A đến tỉnh B với vận tốc trung bình là 40 km/h lúc đầu. Ôtô đi với vận tốc đó, khi còn 60 km thì được nửa quãng đường AB, người lái xe tăng vận tốc lên 10 km/h trên quãng đường còn lại. Do đó đến tỉnh B sớm hơn 1 giờ so với dự định. Tính quãng đường AB?",
+    
+    "Hai ca nô cùng khởi hành 1 lúc chạy từ bến A đến bến B. Ca nô 1 chạy với vận tốc 20 km/h, ca nô 2 chạy với vận tốc 24 km/h. Trên đường đi, ca nô 2 dừng lại 40 phút sau đó tiếp tục đi. Tính chiều dài quãng đường AB biết rằng 2 ca nô cùng đến B 1 lúc.",
+    
+    "Một người đi xe đạp từ A đến B cách nhau 50 km. Sau đó 1 giờ 30 phút một người đi xe máy cũng đi từ A đến B và đến B sớm hơn 1 giờ so với người đi xe đạp. Tính vận tốc của mỗi xe biết rằng vận tốc của xe máy gấp 2.5 lần vận tốc của xe đạp?",
+    
+    "Một người đi xe đạp từ A đến B dài 36 km. Sau khi đi được 2 giờ, người đó nghỉ 15 phút. Sau đó người đi xe đạp tăng thêm 4 km/h và đến B đúng giờ đã định. Tìm vận tốc ban đầu của người đi xe đạp?",
+    
+    "Một người dự định đi xe đạp từ địa điểm A đến địa điểm B cách nhau 20 km với vận tốc không đổi. Nhưng khi đi được 1 giờ, người đó giảm vận tốc 2 km/h nên đã đến B chậm hơn dự định là 15 phút. Tính vận tốc dự định của người đi xe đạp?",
+    
+    "Trong 1 phòng hợp có 80 người họp được xếp đều ngồi trên các dãy ghế. Nếu bớt đi 2 dãy thì mỗi dãy còn lại phải xếp thêm 2 người mới đủ chỗ. Hỏi lúc đầu có bao nhiêu dãy ghế và mỗi dãy có bao nhiêu người?",
+    
+    "Để tránh lũ, một đội biên phòng đến gặt giúp xã A 1 cánh đồng lúa. Làm được 4 giờ thì có đội thứ 2 đến gặt giúp cả 2 đội cùng gặt tiếp 8 giờ thì xong. Hỏi mỗi đội gặt 1 mình thì trong bao nhiêu thời gian thì xong công việc. Biết rằng nếu gặt 1 mình thì đội thứ 1 gặt mất nhiều thời gian hơn đội thứ 2 là 8 giờ.",
+    
+    "Một mảnh đất hình chữ nhật có chiều dài hơn chiều rộng là 6m và bình phương độ dài đường chéo gấp 5 lần chu vi. Xác định chiều dài và chiều rộng của mảnh đất.",
+    
+    "Một ôtô khách và 1 ôtô tải cùng xuất phát từ A đến B dài 180 km. Do vận tốc ôtô khách lớn hơn ôtô tải là 10 km/h nên ôtô khách đến trước ô tô tải là 36 phút. Tính vận tốc của mỗi ôtô biết rằng vận tốc của mỗi ôtô không đổi.",
+    
+    "Nhân dịp ngày Nhà giáo Việt Nam 20/11, nhà sách Tân Bình giảm giá 10% trên tổng hóa đơn và những ai có ngày sinh trong tháng 11 sẽ được giảm tiếp 5% trên giá đã giảm. a) Hỏi bạn An (sinh trong tháng 11) đến mua một máy tính giá niêm yết 440000đ thì bạn phải trả bao nhiêu tiền? b) Khi mua bộ sách “Đánh thức tài năng toán học” bạn An đã trả 513000đ. Hỏi giá gốc của bộ sách là bao nhiêu?",
+    
+    "Phương tiện vận chuyển công cộng hiện nay là xe Buýt với giá 5000 đồng/ lượt còn đối với Sinh viên- Học sinh là 2000 đồng/lượt và 112500 đồng tập 30 vé tháng. Anh Nam hằng ngày đi làm bằng xe Buýt 2 lượt đi và về, trung bình mỗi tháng anh đi làm 26 ngày. a) Hỏi mỗi tháng anh Nam chi bao nhiêu tiền cho việc đi xe Buýt? b) Nếu anh Nam mua tập vé tháng, thì giảm được bao nhiêu phần trăm chi phí (làm tròn một chữ số thập phân).",
+    
+    "Bác bảy mua một con nghé và một con bê. Sau đó bác bán lại cho người bạn con nghé với giá 18 triệu, để hỗ trợ bạn, bác nói: “Tôi bán cho anh lỗ mất 20% rồi đấy !!!”. Ít hôm sau ông bán con bê cho ông Ba xã bên với giá 18 triệu, bác thầm nghĩ “bán đi con này mình lời được 20% so với giá ban đầu!!!”. Hỏi sau khi bán 2 con bác lời hay lỗ so với số tiền bác dùng để mua 2 con?",
+    
+    "Thực hiện chương trình khuyến mãi Tháng mua sắm lộc vàng, một siêu thị trong thành phố đã giảm giá cho một lô hàng quần kaki gồm 50 cái với giá bán lẻ lúc đầu 320000₫/cái quần, một số phần trăm. Sau khi bán được 50% lô quần kaki trong hai tuần đầu của tháng, cửa hàng quyết định giảm thêm một số phần trăm như vậy cho số quần kaki còn lại, và bây giờ giá quần kaki có giá 180000₫ một cái. Do đó trong hai tuần còn lại của tháng, cửa hàng đã bán hết lô hàng quần kaki. Hỏi: a) Mỗi một lần chiếc quần kaki đã được siêu thị giảm giá bao nhiêu phần trăm trong tháng khuyến mãi. b) Tính số tiền siêu thị thu được khi bán hết lô hàng quần kaki.",
+    
+    "Tivi giá niêm yết 6100000 VNĐ, Nồi cơm điện giá niêm yết 320000 VNĐ. Tivi khuyến mại hai đợt, đợt 1 giảm 12%, đợt 2 giảm 8%. Nồi cơm điện chỉ giảm giá một đợt là 5%. Hỏi người mua cả hai thứ trong đợt khuyến mãi trên, phải trả bao nhiêu tiền?",
+    
+    "Bạn Tùng gửi ngân hàng 10 triệu đồng với lãi suất 0,5% một tháng. Nếu bạn gửi theo định kì 1 năm và tiền lãi được dồn vào tiền vốn sau 1 kì thì sau 2 năm bạn nhận được cả vốn lẫn lãi là bao nhiêu tiền?",
+    
+    "Nhà bạn Tuấn tháng trước phải sử dụng 119 kwh điện. Tính số tiền gia đình bạn Tuấn phải trả trong tháng, biết rằng giá 50 kwh đầu tính với giá 1484 đồng/1kwh, 50 kwh thứ hai có giá 1533 đồng/1kwh và 19 kwh sau tính với giá 1786 đồng/1kwh. Thuế giá trị gia tăng (VAT) 10% trên tổng số tiền trả (làm tròn đến hàng đơn vị).",
+    
+    "Một người gửi tiết kiệm ở ngân hàng với số tiền là 100 triệu với lãi suất 7,2% một năm. Sau một năm tiền lãi gộp chung vào tiền vốn. Hỏi sau 2 năm người đó được bao nhiêu tiền cả vốn lẫn lãi.",
+    
+    "Bão Doksuri (bão số 10) đã đổ bộ vào đất liền nước ta, tâm bão kéo dài từ Hà Tĩnh đến Quảng Bình đã gây ra thiệt hại vô cùng lớn cho người dân nơi đây và các tỉnh lân cận. Thương người dân miền Trung, gia đình bác A đã đi vận động quyên góp được một số tiền ủng hộ cho đồng bào miền Trung, bác đến cửa hàng B tham khảo giá 1 thùng mì gói là 98000 đồng, giá 1 chai dầu ăn 1 lít là 32000 đồng, giá 1 gói bột ngọt 350 g là 23000 đồng, sau khi tính toán thì bác thấy số tiền vừa đủ 300 thùng mì, 100 chai dầu ăn và 100 gói bột ngọt. Nhưng đến ngày bác A ra cửa hàng mua thì cửa hàng có đợt khuyến mãi giảm 10% cho tất cả các sản phẩm (so với giá ban đầu bác tham khảo). Khi tính tiền, chủ cửa hàng biết bác mua để đi quyên góp cho đồng bào miền Trung đang gặp khó khăn sau bão nên chủ cửa hàng giảm thêm 5% (so với giá đã giảm lần 1). Vì thế sau khi mua xong vẫn còn dư 1 số tiền, bác quyết định chia số tiền đó thành những phần nhỏ, mỗi phần từ 200000 đồng để trao tặng thêm. Hỏi bác A có thể chia số tiền còn dư đó được nhiều nhất bao nhiêu phần?",
+    
+    "Trong đợt khuyến mãi: Chào năm học mới, nhà sách A thực hiện chương trình giảm giá cho khách hàng như sau: Khi mua tập loại 96 trang do công ty B sản xuất thì mỗi quyển tập được giảm 10% so với giá niêm yết. Khi mua bộ I đúng 10 quyển tập loại 96 trang đóng gói sẵn hoặc bộ II đúng 20 quyển tập loại 96 trang đóng gói sẵn do công ty C sản xuất thì quyển tập bộ I được giảm 10% với giá niêm yết, còn mỗi quyển tập loại bộ II được giảm 15% so với giá niêm yết. Khách hàng mua lẻ từng quyển tập loại 96 trang do công ty C sản xuất thì không được giảm giá. Biết giá niêm yết của 1 quyển tập 96 trang do hai công ty B và công ty C sản xuất đều có giá là 8000 đồng.a) Bạn Hùng vào nhà sách A mua đúng 10 quyển tập loại 96 trang đóng gói sẵn (bộ I) do công ty C sản xuất thì bạn Hùng phải trả bao nhiêu tiền? b) Mẹ bạn Lan vào nhà sách A mua 25 quyển tập loại 96 trang thì nên mua tập do công ty nào sản xuất để có số tiền ít hơn?",
+    
+    "Trong 130 con bò sữa của nhà ông Hiệp ở huyện Mộc Châu, tỉnh Sơn La có 75 con sinh sản (hiện có 42 con đang vắt sữa), còn lại là bê và bò tơ, tổng giá trị đàn bò không dưới 6 tỷ đồng, sản lượng sữa hàng ngày ông thu được khoảng 1,2 tấn bán cho nhà máy được 15 triệu đồng, tức chi phí ông Hiệp còn lãi 40% so với doanh thu. a) Hỏi mỗi ngày 1 con bò vắt được khoảng bao nhiêu kg sữa? b)Mỗi tháng (khoảng 30 ngày) gia đình ông Hiệp thu được tiền lãi là bao nhiêu từ sản lượng sữa bò?",
+    
+    "Cửa hàng đồng giá 40000 đồng một món có chương trình giảm giá 20% cho một món hàng và nếu khách hàng mua 5 món trở lên thì từ món thứ 5 trở đi khách hàng chỉ trả 60% giá đang bán. a) Tính số tiền 1 khách hàng phải trả khi mua 7 món hàng. b) Nếu có khách hàng đã trả 272000 đồng thì khách hàng này đã mua bao nhiêu món hàng.",
+    
+    "Giá ban đầu của một cái TV là 8000000 đồng. Lần đầu giảm 5%, sau đó 2 tuần, siêu thị lại giảm thêm một lần nữa, lúc này giá cái TV chỉ còn 6840000 đồng. Hỏi ở lần 2, siêu thị đã giảm giá bao nhiêu phần trăm",
+    
+    "Một cửa hàng nhập về nhãn hàng máy tính xách tay với giá vốn là 4500000 đồng. Cửa hàng dự tính công bố giá niêm yết (giá bán ra) là 6000000 đồng. a) Nếu bán với giá niêm yết thì cửa hàng lãi bao nhiêu phần trăm so với giá vốn? b) Để có lãi ít nhất 5% thì cửa hàng có thể giảm giá nhiều nhất bao nhiêu phần trăm?",
+    
+    "Giá niêm yết một chiết tivi sony 46 inch của một cửa hàng A là 12500000 đồng. Nhân dịp tết dương lịch 2020, cửa hàng đó khuyến mãi giảm giá 12%. Nếu mua thêm chiếc tivi thứ 3 thì giảm thêm 5% trên giá đã giảm cho chiếc tivi thứ 3. a) Hỏi 1 người mua 3 chiếc tivi thì phải trả bao nhiêu tiền? b) Ở cửa hàng B giảm 15% cho loại tivi như trên nếu mua 3 cái tivi trở lên, hỏi người ấy mua 3 cái tivi ở cửa hàng nào thì phải trả ít tiền hơn. Biết giá niêm yết của 2 cửa hàng là như nhau.",
+    
+    "Giá niêm yết của 1 mặt hàng là 600000 đồng. Nếu bán mặt hàng này với giá 1 nửa giá niêm yết thì lợi nhuận 25%. Hỏi phải bán với giá bao nhiêu thì lợi nhuận 50%?",
+    
+    "Cách đây 2 năm ông Nam có gửi 100000000 đồng vào ngân hàng theo là hạn 1 năm lãi kép (tiền lãi được nhập vào vốn ban đầu để tính lãi tiếp). Năm nay ông Nam nhận được số tiền là 116640000 đồng. Hỏi lãi suất ngân hàng là bao nhiêu?",
+    
+    "Bà Mai vay 200000000 đồng của ngân hàng trong thời hạn 2 năm, để mở một cửa hàng sản xuất bán hàng lưu niệm. Theo hợp đồng vay vốn, lãi suất vay trong 1 năm là 10%. Sau 1 năm, tiền lãi của năm đầu sẽ được cộng vào vốn vay của năm sau. a) Sau 2 năm bà Mai phải trả cho ngân hàng số tiền cả gốc lẫn lãi là bao nhiêu? b) Giá vốn trung bình của các sản phẩm ở cửa hàng 120000 đồng, bán với giá 170000 đồng. Sau 2 năm sản xuất và kinh doanh, để tiền lãi thu vào đủ thanh toán hết nợ với ngân hàng thì cửa hàng phải sản xuất và tiêu thụ được bao nhiêu sản phẩm?",
+    
+    "Ngày tổng kết năm học, tôi đã về thăm trường và gặp lại thầy chủ nhiệm lớp 9. Qua nói chuyện thầy cho biết sỉ số cuối năm giảm 1/21 so với đầu năm, toàn bộ lớp đều tham gia thi tuyển lớp 10 và kết quả có 34 học sinh đã đậu vào lớp 10 công lập đạt tỉ lệ 85%. Hãy tỉnh sỉ số đầu năm của lớp tôi.",
+    
+    "Có 2 thùng dầu, thùng thứ nhất có 120 lít, thùng thứ 2 có 90 lít. Sau khi lấy ra 1 lượng dầu gấp 3 lần lượng dầu lấy ra ở thùng thứ 2, thì lượng dầu còn lại trong thùng thứ 2 gấp đôi lượng dầu còn lại trong thùng thứ nhất. Hỏi lượng dầu còn lại trong mỗi thùng?",
+    
+    "Tết khao giảng vừa qua lớp 9A tích cực đóng góp xây dựng bài học nên được cô giao khen thưởng 1 số viên kẹo, nếu bạn lớp trưởng chia cho mỗi bạn 5 viên kẹo thì thừa 5 viên kẹo, nếu bạn lớp trưởng chia cho mỗi bạn 6 viên kẹo thì 6 bạn không có. Hỏi lớp 9A có bao nhiêu học sinh?",
+    
+    "Trong học kỳ I, tổng số học sinh của 2 lớp 8A và 8B là 80 học sinh khi khảo sát điểm thi HKI môn toán, thầy Việt được các kết quả như sau: điểm trung bình của mỗi học sinh lớp 8A là 7,2; điểm trung bình của mỗi học sinh lớp 8B là 6,8 và tổng điểm thi môn toán lớp 8B nhiều hơn điểm thi môn toán của lớp 8A là 54 điểm. Hỏi mỗi lớp có bao nhiêu học sinh?",
+    
+    "Hai cửa hàng A và B đều nhập về 1 nhãn hàng tivi với giá như nhau. Cửa hàng A niêm yết sản phẩm đó với giá tăng 40% nhưng lại bán với giá giảm 20%. Cửa hàng B niêm yết sản phẩm đó với giá tăng 20% nhưng lại bán với giá giảm 5%. Biết giá niêm yết là giá bán ra mà cửa hàng đề xuất với người tiêu dùng. Theo em, chọn mua tivi từ hãng nào sẽ lợi hơn? Vì sao?",
+    
+    "Tìm 2 số chẵn nguyên dương liên tiếp. Biết tổng bình phương của 2 số là 244.",
+    
+    "Dự định phát đều 280 quyển vở cho số học sinh tiên tiến. Nhưng khi phát có 3 học sinh vắng mặt vì vậy mỗi học sinh được nhận nhiều hơn 12 quyển vở. Hỏi số học sinh lúc đầu dự định phát vở.",
+    
+    "Hai địa điểm cách nhau 171 km. Một xe gắn máy khởi hành từ A đến B với vận tốc nhất định. Sau khi khởi hành 2 giờ, nghỉ 30 phút rồi lại tiếp tục đi đến B với vận tốc tăng thêm 7 km/h. Tới B nghỉ 30 phút rồi quay về A và vận tốc tăng thêm 1 km/h nữa. Thời gian đi và về kể cả nghỉ hết 10 giờ 30 phút. Tính vận tốc ban đầu của xe.",
+    
+    "Hai địa điểm A và B cách nhau 60 km. Một người đi xe đạp khởi hành từ A đến B rồi từ B trở về A ngay với vận tốc như lúc đầu. Nhưng sau khi đi từ B về 1 giờ thì nghỉ mệt 20 phút rồi tiếp tục đi về A với vận tốc tăng thêm 4 km/h. Thời gian đi và về bằng nhau. Tính vận tốc lúc ban đầu.",
+    
+    "Tìm 2 số lẻ liên tiếp biết rằng tổng các bình phương là 514.",
+    
+    "Một ca nô chuyển động xuôi dòng từ bến A đến bến B, sau đó chuyển động ngược dòng từ B về A hết tổng thời gian là 5 giờ. Biết quãng đường AB dài là 60 km và vận tốc dòng nước là 5 km/h. Tính vận tốc thực của ca nô.",
+    
+    "Một đội xe cần chở 480 tấn hàng. Khi sắp khởi hành, đội được điều thêm 3 xe nữa nên mỗi xe chở ít hơn dự định 8 tấn. Hỏi lúc đầu đội có bao nhiêu chiếc xe, biết rằng các xe chở như nhau.",
+    
+    "Một tam giác vuông có 2 cạnh góc vuông hơn kém nhau 8 m. Nếu tăng một cạnh góc vuông lên 2 lần và giảm cạnh góc vuông còn lại xuống 3 lần thì được tam giác vuông mới có diện tích 51 m². Tính độ dài hai cạnh góc vuông.",
+    
+    "Một hình chữ nhật có chiều rộng ngắn hơn chiều dài 1 m. Nếu tăng thêm cho chiều dài 1/4 của nó thì diện tích hình chữ nhật đó tăng thêm 3 m². Tính diện tích hình chữ nhật lúc ban đầu.",
+    
+    "Một tam giác vuông có cạnh huyền BC dài là 20 m và diện tích S = 96 m² (AB < AC). Tính hai cạnh AB, AC và đường cao AH.",
+    
+    "Cạnh huyền của tam giác vuông ABC dài là 25 m (AB < AC). Nếu cạnh AB bớt 5 m và cạnh AC tăng 4 m thì cạnh huyền tăng 1 m. Tính cạnh AB, AC.",
+    
+    "Một hình chữ nhật có chiều dài hơn chiều rộng là 7 m và có độ dài đường chéo là 17 m. Tính chu vi và diện tích hình chữ nhật đó.",
+    
+    "Một tam giác vuông có chu vi là 60 m và có cạnh huyền là 25 m. Tính độ dài các cạnh của tam giác vuông.",
+    
+    "Hai người đi xe đạp cùng khởi hành một lúc từ A đến B cách nhau 180 km. Người thứ nhất đi nhanh hơn người thứ hai là 2 km/h nên đến B trước người thứ hai 1 giờ. Tính vận tốc của mỗi người.",
+    
+    "Một người đi mô tô từ A đến B cách nhau 375 km sau đó trở về B với vận tốc đi và về bằng nhau. Hai giờ sau khi đi từ B xe nghỉ 45 phút. Muốn thời gian khi đi bằng khi về thì sau khi nghỉ phải tăng vận tốc lên 25 km/h. Tính vận tốc khi đi.",
+    
+    "Một vòi nước chảy vào một bể có dung tích 270 lít. Nếu mỗi giây vòi chảy thêm được 1 lít thì thời gian chảy đầy bể giảm đi 45 giây. Hỏi trong 1 giây vòi chảy được bao nhiêu lít.",
+    
+    "Hai ca nô cùng khởi hành từ A đến B cách nhau 85 km và đi ngược chiều nhau. Sau 1 giờ 40 phút thì gặp nhau. Tính vận tốc thật của mỗi ca nô (vận tốc ca nô khi nước yên lặng và không đổi), biết rằng vận tốc ca nô xuôi dòng lớn hơn vận tốc ca nô ngược dòng là 9 km/h và vận tốc dòng nước là 3 km/h.",
+    
+    "Khoảng cách giữa hai bến sông A và B là 45 km. Một ca nô đi từ A đến B nghỉ ở B 30 phút rồi quay trở lại A. Thời gian kể từ lúc đi đến lúc trở về đến bến A là 4 giờ 30 phút. Tính vận tốc ca nô khi nước yên lặng, biết vận tốc của dòng nước là 6 km/h.",
+    
+    "Một người dự định làm 120 sản phẩm trong một thời gian nhất định. Khi làm mỗi giờ thêm 2 sản phẩm nên người đó đã làm xong trước dự định 1 giờ mà còn làm thêm 6 sản phẩm nữa. Hỏi người đó dự định mỗi giờ làm được bao nhiêu sản phẩm.",
+    
+    "Hai đội cùng đào một con mương. Nếu mỗi đội làm một mình cả con mương thì thời gian tổng cộng hai đội phải làm là 25 giờ. Nếu hai đội cùng làm chung thì công việc hoàn thành trong 6 giờ. Tính xem mỗi đội làm một mình xong cả con mương trong bao lâu.",
+    
+    "Trong một phòng họp có 80 người, được sắp xếp ngồi đều trên các ghế. Nếu ta bớt đi 2 dãy ghế thì mỗi dãy ghế còn lại phải xếp thêm 2 người mới đủ chỗ. Hỏi lúc đầu có mấy dãy ghế và mỗi dãy được xếp bao nhiêu chỗ ngồi.",
+    
+    "Một hình chữ nhật có cạnh này bằng 2/3 cạnh kia. Nếu bớt đi mỗi cạnh 5 m thì diện tích của hình chữ nhật giảm 16%. Tính các kích thước của hình chữ nhật lúc đầu.",
+    
+    "Một xe lửa đi từ Huế ra Hà Nội. Sau đó 1 giờ 40 phút, một xe lửa khác đi từ Hà Nội vào Huế với vận tốc lớn hơn vận tốc của xe lửa thứ nhất là 5 km/h. Hai xe gặp nhau tại một ga cách Hà Nội 300 km. Tìm vận tốc của mỗi xe, giả thiết rằng quãng đường sắt Huế - Hà Nội dài 645 km.",
+    
+    "Hai bác nông dân đem trứng ra chợ bán với tổng số trứng của hai người là 100 quả. Số trứng của hai người không bằng nhau, nhưng hai người bán được một số tiền bằng nhau. Một người nói với người kia: 'Nếu số trứng của tôi bằng số trứng của anh thì tôi bán được 90 000 đồng'. Người kia nói: 'Nếu số trứng của tôi bằng số trứng của chị thì tôi chỉ bán được 40 000 đồng thôi'. Hỏi mỗi người có bao nhiêu trứng và giá bán mỗi quả trứng của mỗi người là bao nhiêu.",
+    
+    "Hai đội công nhân cùng làm chung một công việc. Thời gian để đội I làm một mình xong công việc ít hơn thời gian để đội II làm một mình xong công việc đó là 4 giờ. Tổng thời gian này gấp 4,5 lần thời gian hai đội cùng làm chung để xong công việc đó. Hỏi mỗi đội làm một mình thì phải bao lâu mới xong.",
+    
+    "Một nhóm công nhân đặt kế hoạch sản xuất 200 sản phẩm. Trong 4 ngày đầu họ thực hiện đúng mức đề ra, những ngày còn lại họ làm vượt mức mỗi ngày 10 sản phẩm, nên đã hoàn thành sớm 2 ngày. Hỏi theo kế hoạch mỗi ngày nhóm công nhân cần sản xuất bao nhiêu sản phẩm.",
+    
+    "Tính diện tích của một hình chữ nhật. Biết rằng chiều dài hơn chiều rộng là 7 m và độ dài đường chéo là 13 m.",
+    
+    "Một công nhân dự định làm 150 sản phẩm trong một thời gian nhất định. Sau khi làm được 2 giờ với năng suất dự kiến, người đó đã cải tiến các thao tác nên đã tăng năng suất được 2 sản phẩm mỗi giờ và vì vậy đã hoàn thành 150 sản phẩm sớm hơn dự kiến 30 phút. Hãy tính năng suất dự kiến ban đầu.",
+    
+    "Một xe tải và một xe con cùng khởi hành từ A đi đến B. Xe tải đi với vận tốc 40 km/h, xe con đi với vận tốc 60 km/h. Sau khi mỗi xe đi được nửa đường thì xe con nghỉ 40 phút rồi chạy tiếp đến B; xe tải trên quãng đường còn lại đã tăng vận tốc thêm 10 km/h nhưng vẫn đến B chậm hơn xe con nửa giờ. Hãy tính quãng đường AB.",
+    
+    "Một người đi xe máy từ A đến B cách nhau 120 km với vận tốc dự định trước. Sau khi đi được 1/3 quãng đường AB người đó tăng vận tốc lên 10 km/h trên quãng đường còn lại. Tìm vận tốc dự định và thời gian lăn bánh trên đường, biết rằng người đó đến B sớm hơn dự định 24 phút.",
+    
+    "Một xe tải và một xe con cùng khởi hành từ A đi đến B. Xe tải đi với vận tốc 40 km/h, xe con đi với vận tốc 60 km/h. Sau khi mỗi xe đi được nửa quãng đường xe con nghỉ 40 phút rồi chạy tiếp đến B. Xe tải trên quãng đường còn lại đã tăng vận tốc thêm 10 km/h nữa nhưng vẫn đến B chậm hơn xe con nửa giờ. Hãy tính quãng đường AB.",
+    
+    "Một xe du lịch đi từ tỉnh A đến tỉnh B dài 480 km với một vận tốc dự định. Nhưng sau khi đi được 2 giờ với vận tốc dự định thì xe bị hỏng nên dừng lại nghỉ để sửa chữa 30 phút sau đó xe đi trên quãng đường còn lại với vận tốc tăng thêm 20 km/h nữa. Nên đã đến B sớm hơn dự định 1 giờ. Tính vận tốc dự định và thời gian xe chạy trên đường.",
+    
+    "Hai người cùng làm chung một công việc trong 12,5 giờ thì xong. Nếu mỗi người làm một mình thì người thứ nhất hoàn thành công việc trong ít hơn người thứ hai là 2 giờ. Hỏi nếu làm một mình thì mỗi người phải làm trong bao nhiêu thời gian để xong công việc.",
+    
+    "Quãng đường từ Qui Nhơn đến Bồng Sơn dài 100 km. Cùng một lúc một xe máy khởi hành từ Qui Nhơn đi Bồng Sơn và một xe ô tô khởi hành từ Bồng Sơn đi Qui Nhơn. Sau khi hai xe gặp nhau, xe máy đi 1 giờ 30 phút nữa mới đến Bồng Sơn. Biết vận tốc hai xe không thay đổi trên suốt quãng đường đi và vận tốc xe máy kém vận tốc xe ô tô là 20 km/giờ, tính vận tốc của mỗi xe.",
+    
+    "Một ô tô đi từ A đến B trong một thời gian nhất định. Nếu đi với vận tốc 48 km/h thì đến sớm hơn dự định là 1 giờ, nếu đi với vận tốc 60 km/h thì đến sớm hơn dự định là 2 giờ. Tính quãng đường AB.",
+    
+    "Bạn Dũng trung bình tiêu thụ hết 15 calo cho mỗi phút bơi và 10 calo cho mỗi phút chạy bộ. Hôm nay, Dũng mất 1,5 giờ cho hai hoạt động trên và 1200 calo được tiêu thụ. Hỏi hôm nay, bạn Dũng mất bao nhiêu phút cho mỗi hoạt động.",
+    
+    "Có 45 người bác sĩ và luật sư, tuổi trung bình của họ là 40. Tính số bác sĩ, số luật sư, biết rằng tuổi trung bình của các bác sĩ là 35, tuổi trung bình của các luật sư là 50.",
+    
+    "Có 2 thỏi thép vụn loại một thỏi chứa 10% niken và thỏi còn lại chứa 35% niken, cần lấy bao nhiêu tấn thép vụn mỗi loại để luyện được 140 tấn thép chứa 30% niken.",
+    
+    "Bạn An muốn có 1 lít nước ở nhiệt độ 35°C. Hỏi bạn cần phải đổ bao nhiêu lít nước đang sôi vào bao nhiêu lít nước ở nhiệt độ 15°C. Lấy nhiệt dung riêng của nước là 4190 J/kgK.",
+    
+    "Hai người ở hai địa điểm A và B cách nhau 3,6 km khởi hành cùng một lúc, đi ngược chiều nhau và gặp nhau ở một điểm cách A là 2 km. Nếu cả hai cùng giữ nguyên vận tốc như trường hợp trên, nhưng người đi chậm hơn xuất phát trước người kia 6 phút thì họ sẽ gặp nhau ở chính giữa quãng đường. Tính vận tốc của mỗi người.",
+    
+    "Bác Tài đi xe đạp từ thị xã về làng, cô ba Ngân cũng đi xe đạp nhưng từ làng lên thị xã. Họ gặp nhau khi bác Tài đã đi được 1 giờ 30 phút, còn cô ba Ngân đã đi được 2 giờ. Một lần khác, hai người cũng đi từ hai địa điểm như thế nhưng họ khởi hành đồng thời; sau 1 giờ 15 phút họ còn cách nhau 10,5 km. Tính vận tốc của mỗi người, biết khoảng cách từ làng đến thị xã là 38 km.",
+    
+    "Quãng đường AB gồm một đoạn lên dốc dài 4 km, đoạn xuống dốc dài 5 km. Một người đi xe đạp từ A đến B mất 40 phút và đi từ B về A mất 41 phút. Biết vận tốc lúc lên dốc và xuống dốc là không đổi. Tính vận tốc lúc lên dốc và vận tốc lúc xuống dốc.",
+    
+    "Hai xe khởi hành cùng một lúc từ hai địa điểm A và B cách nhau 130 km và gặp nhau sau 2 giờ. Tính vận tốc của mỗi xe, biết xe đi từ B có vận tốc nhanh hơn xe đi từ A là 5 km/h.",
+    
+    "Một ô tô đi quãng đường AB với vận tốc 50 km/h, rồi đi tiếp quãng đường BC với vận tốc 45 km/h. Biết tổng chiều dài quãng đường AB và BC là 165 km và thời gian ô tô đi quãng đường AB ít hơn thời gian ô tô đi quãng đường BC là 30 phút. Tính thời gian ô tô đi trên quãng đường AB và BC.",
+    
+    "Hai vật chuyển động trên một đường tròn đường kính 20 cm, xuất phát cùng một lúc, từ một điểm. Nếu chuyển động cùng chiều thì cứ 20 giây chúng lại gặp nhau 1 lần. Nếu chuyển động ngược chiều thì cứ 4 giây chúng lại gặp nhau. Tính vận tốc của mỗi vật.",
+    
+    "Ga Huế cách ga Quảng Trị 65 km. Một chiếc xe tải đi từ Quảng Trị vào Huế, và một chiếc xe khách đi từ Huế ra Quảng Trị. Biết xe khách khởi hành sau xe tải 36 phút và sau khi đi được 24 phút thì chúng gặp nhau. Nếu hai xe khởi hành đồng thời và cùng đi Hà Nội (đi cùng chiều) thì sau 13 giờ hai xe gặp nhau. Tính vận tốc của mỗi xe, biết xe khách đi nhanh hơn xe tải.",
+    
+    "Một ca nô xuôi dòng một quãng sông dài 12 km rồi ngược dòng quãng sông đó mất 2 giờ 30 phút. Nếu cũng trên quãng sông ấy, ca nô xuôi dòng 4 km rồi ngược dòng 8 km thì hết 1 giờ 20 phút. Tính vận tốc của ca nô và vận tốc riêng của dòng nước.",
+    
+    "Một người đi xe đạp từ A đến B với thời gian định sẵn. Khi còn cách B 30 km, người đó nhận thấy rằng sẽ đến B muộn nửa giờ nếu giữ nguyên vận tốc. Do đó, người ấy tăng vận tốc thêm 5 km/h và đến B sớm hơn nửa giờ so với dự định. Tính vận tốc lúc đầu của người đó.",
+    
+    "Một ô tô đi từ A đến B với vận tốc xác định. Nếu vận tốc tăng thêm 30 km/h thì thời gian giảm được 1 giờ. Nếu vận tốc giảm 15 km/h thì thời gian tăng thêm 1 giờ. Tính vận tốc của ô tô.",
+    
+    "Cho một số có hai chữ số. Nếu đổi chỗ 2 chữ số của nó thì được một số lớn hơn chữ số đã cho là 63. Tổng của số đã cho và số mới là 99. Tìm số đã cho.",
+    
+    "Cho một số tự nhiên có hai chữ số. Nếu đổi chỗ hai chữ số của nó thì được một số lớn hơn số đã cho là 36. Tổng của số đã cho và số mới tạo thành là 110. Tìm số đã cho.",
+    
+    "Tìm một số có hai chữ số, biết rằng tổng các chữ số là 16. Nếu đổi chỗ hai chữ số cho nhau ta được một số mới, lớn hơn số ban đầu 18 đơn vị.",
+    
+    "Tìm hai số tự nhiên, biết rằng tổng của chúng bằng 1006 và nếu lấy số lớn chia cho số bé thì được thương là 2 và số dư là 124.",
+    
+    "Tổng của hai số bằng 59. Hai lần của số này bé hơn 3 lần của số kia là 7. Tìm hai số đó.",
+    
+    "Tìm hai số tự nhiên, biết rằng hiệu của chúng bằng 1275 và nếu lấy số lớn chia cho số nhỏ thì được thương là 3 và số dư là 125.",
+    
+    "Số tiền mua 9 quả cam và 8 quả táo rừng là 107 nghìn, số tiền mua 7 quả cam và 7 quả táo rừng là 91 nghìn. Hỏi giá mỗi quả cam và mỗi quả táo rừng là bao nhiêu.",
+    
+    "Bảy năm trước tuổi mẹ bằng 5 lần tuổi con cộng thêm 4. Năm nay tuổi mẹ vừa đúng gấp 3 lần tuổi con. Hỏi năm nay mỗi người bao nhiêu tuổi.",
+    
+    "Hôm qua mẹ của Hằng đi chợ mua 5 quả trứng gà và 5 quả trứng vịt hết 37.500đ. Hôm nay đi chợ, mẹ của Hằng mua 3 quả trứng gà và 7 quả trứng vịt hết 36.500đ. Hỏi giá mỗi quả trứng mỗi loại bao nhiêu tiền, biết giá trứng hôm qua và hôm nay chưa thay đổi.",
+    
+    "Một người mua hai loại hàng và phải trả tổng cộng 2,17 triệu đồng, kể cả thuế giá trị gia tăng (VAT) với mức 10% đối với loại hàng thứ nhất và 8% đối với loại hàng thứ hai. Nếu thuế VAT là 9% đối với cả hai loại hàng thì người đó phải trả tổng cộng 2,18 triệu đồng. Hỏi nếu không kể thuế VAT thì người đó phải trả bao nhiêu tiền cho mỗi loại hàng.",
+    
+    "Năm ngoái, hai đơn vị sản xuất nông nghiệp thu hoạch 720 tấn thóc. Năm nay, đơn vị thứ nhất làm vượt mức 15%, đơn vị thứ hai làm vượt mức 12% so với năm ngoái. Do đó cả 2 đơn vị thu hoạch được 819 tấn thóc. Hỏi năm ngoái mỗi đơn vị thu hoạch được bao nhiêu tấn thóc.",
+    
+    "Hai xí nghiệp theo kế hoạch phải làm tổng cộng 360 công cụ. Nhờ sắp xếp hợp lý dây chuyền sản xuất nên xí nghiệp I đã vượt mức 12% kế hoạch, xí nghiệp II đã vượt mức 10% kế hoạch. Do đó cả xí nghiệp đã làm được 400 công cụ. Tính số công cụ mỗi xí nghiệp phải làm theo kế hoạch.",
+    
+    "Dân số của thành phố Hà Nội sau hai năm từ 2.000.000 thành 2.048.288 người. Tính xem hằng năm dân số trung bình tăng bao nhiêu phần trăm. Biết tỉ lệ gia tăng dân số hàng năm không thay đổi.",
+    
+    "Bác An vay 10.000.000 vnđ của ngân hàng để làm kinh tế. Trong một năm đầu bác chưa trả được nên số tiền lãi trong năm đầu được chuyển thành vốn để tính lãi năm sau. Sau 2 năm bác An phải trả là 11.881.000 vnđ. Hỏi lãi suất cho vay một năm là bao nhiêu phần trăm.",
+    
+    "Hai đội công nhân cùng làm một đoạn đường trong 24 ngày thì xong. Mỗi ngày, phần việc đội 1 làm gấp rưỡi đội 2. Hỏi nếu làm một mình thì mỗi đội làm xong đoạn đường đó trong bao lâu.",
+    
+    "Hai người thợ cùng làm chung một công việc trong 16 giờ thì xong. Nếu người thứ nhất làm 3 giờ và người thứ hai làm 6 giờ thì chỉ hoàn thành được 25% công việc. Hỏi nếu làm riêng thì mỗi người hoàn thành công việc đó trong bao lâu.",
+    
+    "Hai đội xây dựng làm chung một công việc và dự định hoàn thành trong 12 ngày. Nhưng khi làm chung được 8 ngày thì đội I được điều động đi làm việc khác. Tuy chỉ còn một mình đội II làm việc, nhưng do cải tiến cách làm, năng suất của đội II tăng lên gấp đôi nên họ đã làm xong phần việc còn lại trong 3,5 ngày. Hỏi với năng suất ban đầu thì mỗi đội làm một mình trong bao lâu để xong công việc.",
+    
+    "Hai công nhân cùng sơn cửa cho một công trình trong 4 ngày thì xong việc. Nếu người thứ nhất làm một mình trong 9 ngày, sau đó có thêm người thứ hai đến làm tiếp trong 1 ngày nữa thì xong việc. Hỏi mỗi người nếu làm một mình thì mất bao lâu để xong việc.",
+    
+    "Hai cần cẩu lớn bốc vỡ một lô hàng ở Cảng Chân Mây. Sau 3 giờ thì có thêm 5 cần cẩu bé (có công suất nhỏ hơn) cùng làm việc. Cả 7 cần cẩu cùng làm việc 3 giờ nữa thì xong. Hỏi mỗi cần cẩu làm việc một mình thì bao lâu sẽ xong việc. Biết rằng nếu cả 7 cần cẩu cùng làm việc từ đầu thì trong 4 giờ sẽ xong việc.",
+    
+    "Hai tổ công nhân cùng làm chung một công việc và dự định hoàn thành trong 6 giờ. Nhưng khi làm chung trong 5 giờ thì tổ II được điều động đi làm việc khác. Do cải tiến cách làm, năng suất của tổ I tăng 1,5 lần. Nên tổ I đã hoàn thành phần công việc còn lại trong 2 giờ. Hỏi với năng suất ban đầu, nếu mỗi tổ làm một mình thì sau bao nhiêu giờ sẽ làm xong công việc.",
+    
+    "Tính độ dài hai cạnh góc vuông của một tam giác vuông. Biết nếu tăng mỗi cạnh lên 3 cm thì diện tích tam giác đó sẽ tăng lên 36 cm², và nếu một cạnh giảm đi 2 cm, cạnh kia giảm 4 cm thì diện tích của tam giác đó giảm đi 26 cm².",
+    
+    "Nhà bạn Đào có một mảnh vườn trồng cà chua. Vườn được làm thành nhiều luống để trồng cà chua, biết số cây trong mỗi luống bằng nhau. Đào tính rằng: nếu tăng thêm 8 luống rau nhưng mỗi luống trồng ít đi 3 cây thì tổng số cây trong vườn giảm đi 54 cây. Nếu giảm đi 4 luống, nhưng mỗi luống trồng tăng thêm 2 cây thì tổng số cây trong vườn sẽ tăng thêm 32 cây. Hỏi vườn nhà Đào trồng bao nhiêu cây cà chua.",
+    
+    "Sân trường của trường Trần Phú là hình chữ nhật có chu vi 340m. Biết 3 lần chiều dài lớn hơn 4 lần chiều rộng là 20 mét. Tính chiều dài và chiều rộng của sân trường.",
+    
+    "Một mảnh đất hình chữ nhật có chu vi 80m. Nếu tăng chiều dài thêm 3m, và tăng chiều rộng thêm 5m thì diện tích của mảnh đất tăng thêm 195m². Tính chiều dài và chiều rộng của mảnh đất.",
+    
+    "Một thửa ruộng hình chữ nhật. Nếu tăng chiều dài thêm 2m và chiều rộng thêm 3m thì diện tích tăng 100m². Nếu chiều dài và chiều rộng cùng giảm 2m thì diện tích giảm đi 68m². Tính diện tích thửa ruộng đó.",
+    
+    "Tính chu vi của một hình chữ nhật, biết rằng nếu tăng chiều dài và chiều rộng lên 5m thì diện tích hình chữ nhật tăng 225m². Nếu tăng chiều rộng lên 2m và giảm chiều dài 5m thì diện tích hình chữ nhật không thay đổi.",
+    
+    "Trong phòng học có một số dãy bàn ghế dài. Nếu xếp mỗi dãy 3 học sinh thì 6 học sinh không có chỗ ngồi. Nếu xếp mỗi dãy 4 học sinh thì thừa một dãy. Hỏi lớp có bao nhiêu dãy bàn ghế và bao nhiêu học sinh.",
+    
+    "Để sửa một ngôi nhà cần một số thợ làm việc trong thời gian quy định. Nếu giảm 3 người thì mất thêm 6 ngày để hoàn thành, nếu tăng thêm 2 người sẽ hoàn thành sớm hơn 2 ngày. Hỏi theo quy định thì cần bao nhiêu thợ và làm trong bao nhiêu ngày? Biết rằng khả năng lao động của mỗi công nhân đều như nhau.",
+    
+    "Trong một phòng họp có một số ghế dài. Nếu xếp mỗi ghế 5 người thì có 9 người không có chỗ ngồi. Nếu xếp mỗi ghế 6 người thì thừa 1 ghế. Hỏi phòng họp có bao nhiêu ghế và bao nhiêu người dự họp.",
+    
+    "Tìm 2 số biết số thứ nhất cộng số thứ hai bằng 1006 và nếu lấy số thứ nhất nhân 2 và số thứ hai nhân 3 thì ta được số 2618.",
+    
+    "Tìm 2 số biết số lớn lớn hơn số bé là 30, 2 lần số bé trừ đi số lớn bằng 0.",
+    
+    "Mua 10 cái váy và 25 cái quần hết 21.250.000 đồng, biết mua 3 cái váy thì bằng mua 1 cái quần. Tìm số tiền váy và quần.",
+    
+    "Một mảnh đất hình chữ nhật có chiều dài hơn chiều rộng là 12m, biết rằng khi nhân chu vi lên 2 lần ta được số đo là 240m. Tìm chiều dài và chiều rộng.",
+    
+    "Một ô tô và một xe máy ở hai địa điểm A và B cách nhau 180 km, khởi hành cùng một lúc đi ngược chiều nhau và gặp nhau sau 2 giờ. Biết vận tốc của ô tô lớn hơn vận tốc của xe máy 10 km/h. Tính vận tốc mỗi xe.",
+    
+    "Một ca nô đi 108 km cùng chiều và 63 km ngược chiều dòng sông thì mất hết 7 giờ. Một ngày nọ cũng ca nô đó đi 81 km cùng chiều và 84 km ngược chiều thì cũng mất 7 giờ. Hỏi vận tốc của ca nô và vận tốc của dòng nước.",
+    
+    "Một xe ô tô dự định đi từ A đến B trong một thời gian nhất định. Nếu xe chạy mỗi giờ nhanh hơn 10 km thì đến nơi sớm hơn dự định 3 giờ, nếu xe chạy chậm lại mỗi giờ 10 km thì đến nơi chậm nhất 5 giờ. Tính vận tốc của xe lúc đầu, thời gian dự định và chiều dài quãng đường AB.",
+    
+    "Một ô tô đi từ A và dự định đến B lúc 12 giờ trưa. Nếu xe chạy với vận tốc 35 km/h thì sẽ đến B chậm 2 giờ so với dự định. Nếu xe chạy với vận tốc 50 km/h thì sẽ đến B sớm 1 giờ so với dự định. Tính độ dài quãng đường AB và thời điểm xuất phát của ô tô tại A.",
+    
+    "Hai tổ sản xuất cùng may một loại áo. Nếu tổ thứ nhất may trong 3 ngày, tổ thứ hai may trong 5 ngày thì cả hai tổ may được 1310 chiếc áo. Biết rằng trong mỗi ngày tổ thứ nhất may nhiều hơn tổ thứ hai 10 chiếc áo. Hỏi mỗi tổ may trong một ngày được bao nhiêu chiếc áo.",
+    
+    "Một tổ công nhân dự định làm xong 240 sản phẩm trong một thời gian nhất định. Nhưng khi thực hiện nhờ cải tiến kỹ thuật nên mỗi ngày tổ đã làm tăng thêm 10 sản phẩm so với dự định. Do đó tổ đã hoàn thành công việc sớm hơn dự định 2 ngày. Hỏi khi thực hiện mỗi ngày tổ làm được bao nhiêu sản phẩm.",
+    
+    "Hai công nhân cùng làm một công việc sau 10 giờ thì xong. Nếu người thứ nhất làm một mình trong 1 giờ, sau đó hai người cùng làm tiếp trong 2 giờ thì được 1/4 công việc. Tính thời gian mỗi người làm một mình xong công việc.",
+    
+    "Hai vòi nước cùng chảy vào một bể không có nước và chảy đầy bể trong 4 giờ 48 phút. Nếu chảy riêng thì vòi thứ nhất có thể chảy đầy bể nhanh hơn vòi thứ hai 1 giờ. Hỏi nếu chảy riêng thì mỗi vòi sẽ chảy đầy bể trong bao lâu.",
+    
+    "Trong tháng đầu hai tổ công nhân sản xuất được 800 chi tiết máy. Sang tháng thứ hai tổ I vượt mức 15%, tổ II sản xuất vượt mức 20%, do đó cuối tháng cả hai tổ sản xuất được 945 chi tiết máy. Hỏi rằng trong tháng đầu, mỗi tổ công nhân sản xuất được bao nhiêu chi tiết máy.",
+    
+    "Trong tháng đầu, hai tổ công nhân sản xuất được 720 chi tiết máy. Sang tháng thứ hai tổ I vượt mức 15%, tổ II sản xuất vượt mức 12%, do đó cuối tháng cả hai tổ sản xuất được 819 chi tiết máy. Hỏi rằng trong tháng đầu, mỗi tổ công nhân sản xuất được bao nhiêu chi tiết máy.",
+    
+    "Năm ngoái, hai đơn vị sản xuất nông nghiệp thu hoạch được 720 tấn thóc. Năm nay, đơn vị thứ nhất làm vượt mức 15%, đơn vị thứ hai làm vượt mức 12% so với năm ngoái. Do đó cả hai đơn vị thu hoạch được 819 tấn thóc. Hỏi năm ngoái mỗi đơn vị thu hoạch được bao nhiêu tấn thóc.",
+    
+    "Một chiếc xe tải đi từ Tp Hồ Chí Minh đến Tp Cần Thơ, biết quãng đường dài 189 km. Sau khi xe tải xuất phát được một giờ, một chiếc xe khách đi từ Tp Cần Thơ về Tp Hồ Chí Minh và gặp xe tải sau khi nó đi được 1 giờ 48 phút. Tính vận tốc mỗi xe, biết rằng mỗi giờ xe khách đi nhanh hơn xe tải 13 km.",
+    
+    "Một ô tô đi từ A và dự định đến B lúc 12 giờ trưa. Nếu xe chạy với vận tốc 35 km/h thì sẽ đến B chậm 2 giờ so với dự định. Nếu xe chạy với vận tốc 50 km/h thì sẽ đến B sớm 1 giờ so với dự định. Tính độ dài quãng đường AB và thời điểm xuất phát của ô tô tại A.",
+    
+    "Hai người ở hai địa điểm A và B cách nhau 3,6 km khởi hành cùng một lúc, đi ngược chiều nhau và gặp nhau ở một điểm cách A là 2 km. Nếu cả hai cùng giữ nguyên vận tốc như trường hợp trên, nhưng người đi chậm hơn xuất phát trước người kia 6 phút thì họ sẽ gặp nhau ở chính giữa quãng đường. Tính vận tốc của mỗi người.",
+    
+    "Bác Tài đi xe đạp từ thị xã về làng, cô ba Ngân cũng đi xe đạp nhưng từ làng lên thị xã. Họ gặp nhau khi bác Tài đã đi được 1 giờ 30 phút, còn cô ba Ngân đã đi được 2 giờ. Một lần khác, hai người cũng đi từ hai địa điểm như thế nhưng họ khởi hành đồng thời; sau 1 giờ 15 phút họ còn cách nhau 10,5 km. Tính vận tốc của mỗi người, biết khoảng cách từ làng đến thị xã là 38 km.",
+    
+    "Quãng đường AB gồm một đoạn lên dốc dài 4 km, đoạn xuống dốc dài 5 km. Một người đi xe đạp từ A đến B mất 40 phút và đi từ B về A mất 41 phút. Biết vận tốc lúc lên dốc và xuống dốc là không đổi. Tính vận tốc lúc lên dốc và vận tốc lúc xuống dốc.",
+    
+    "Hai xe khởi hành cùng một lúc từ hai địa điểm A, B cách nhau 130 km và gặp nhau sau 2 giờ. Tính vận tốc của mỗi xe, biết xe đi từ B có vận tốc nhanh hơn xe đi từ A là 5 km/h.",
+    
+    "Một ô tô đi quãng đường AB với vận tốc 50 km/h, rồi đi tiếp quãng đường BC với vận tốc 45 km/h. Biết tổng chiều dài quãng đường AB và BC là 165 km và thời gian ô tô đi quãng đường AB ít hơn thời gian ô tô đi quãng đường BC là 30 phút. Tính thời gian ô tô đi trên quãng đường AB và BC.",
+    
+    "Hai vật chuyển động trên một đường tròn đường kính 20 cm, xuất phát cùng một lúc, từ một điểm. Nếu chuyển động cùng chiều thì cứ 20 giây chúng lại gặp nhau 1 lần. Nếu chuyển động ngược chiều thì cứ 4 giây chúng lại gặp nhau. Tính vận tốc của mỗi vật.",
+    
+    "Ga Huế cách ga Quảng Trị 65 km. Một chiếc xe tải đi từ Quảng Trị vào Huế, và một chiếc xe khách đi từ Huế ra Quảng Trị. Biết xe khách khởi hành sau xe tải 36 phút và sau khi đi được 24 phút thì chúng gặp nhau. Nếu hai xe khởi hành đồng thời và cùng đi Hà Nội (đi cùng chiều) thì sau 13 giờ hai xe gặp nhau. Tính vận tốc của mỗi xe, biết xe khách đi nhanh hơn xe tải.",
+    
+    "Một ca nô xuôi dòng một quãng sông dài 12 km rồi ngược dòng quãng sông đó mất 2 giờ 30 phút. Nếu cũng trên quãng sông ấy, ca nô xuôi dòng 4 km rồi ngược dòng 8 km thì hết 1 giờ 20 phút. Tính vận tốc của ca nô và vận tốc riêng của dòng nước.",
+    
+    "Một người đi xe đạp từ A đến B với thời gian định sẵn. Khi còn cách B 30 km, người đó nhận thấy rằng sẽ đến B muộn nửa giờ nếu giữ nguyên vận tốc. Do đó, người ấy tăng vận tốc thêm 5 km/h và đến B sớm hơn nửa giờ so với dự định. Tính vận tốc lúc đầu của người đó.",
+    
+    "Một ô tô đi từ A đến B với vận tốc xác định. Nếu vận tốc tăng thêm 30 km/h thì thời gian giảm được 1 giờ. Nếu vận tốc giảm 15 km/h thì thời gian tăng thêm 1 giờ. Tính vận tốc của ô tô.",
+    
+    "Hai đội công nhân cùng làm một đoạn đường trong 24 ngày thì xong. Mỗi ngày, phần việc đội 1 làm gấp rưỡi đội 2. Hỏi nếu làm một mình thì mỗi đội làm xong đoạn đường đó trong bao lâu.",
+    
+    "Hai đội xây dựng làm chung một công việc và dự định hoàn thành trong 12 ngày. Nhưng khi làm chung được 8 ngày thì đội I được điều động đi làm việc khác. Tuy chỉ còn một mình đội II làm việc, nhưng do cải tiến cách làm, năng suất của đội II tăng lên gấp đôi nên họ đã làm xong phần việc còn lại trong 3,5 ngày. Hỏi với năng suất ban đầu thì mỗi đội làm một mình trong bao lâu để xong công việc.",
+    
+    "Hai công nhân cùng sơn cửa cho một công trình trong 4 ngày thì xong việc. Nếu người thứ nhất làm một mình trong 9 ngày, sau đó có thêm người thứ hai đến làm tiếp trong 1 ngày nữa thì xong việc. Hỏi mỗi người nếu làm một mình thì mất bao lâu để xong việc.",
+    
+    "Hai cần cẩu lớn bốc vỡ một lô hàng ở Cảng Chân Mây. Sau 3 giờ thì có thêm 5 cần cẩu bé (có công suất nhỏ hơn) cùng làm việc. Cả 7 cần cẩu cùng làm việc 3 giờ nữa thì xong. Hỏi mỗi cần cẩu làm việc một mình thì bao lâu sẽ xong việc. Biết rằng nếu cả 7 cần cẩu cùng làm việc từ đầu thì trong 4 giờ sẽ xong việc.",
+    
+    "Hai tổ công nhân cùng làm chung một công việc và dự định hoàn thành trong 6 giờ. Nhưng khi làm chung trong 5 giờ thì tổ II được điều động đi làm việc khác. Do cải tiến cách làm, năng suất của tổ I tăng 1,5 lần. Nên tổ I đã hoàn thành phần công việc còn lại trong 2 giờ. Hỏi với năng suất ban đầu, nếu mỗi tổ làm một mình thì sau bao nhiêu giờ sẽ làm xong công việc.",
+    
+    "Tìm số tự nhiên có hai chữ số, biết chữ số hàng chục kém chữ số hàng đơn vị là 3. Nếu đem số đó chia cho tổng các chữ số của nó thì được thương là 4 và dư 3.",
+    
+    "Tìm 2 số tự nhiên khi biết tích của hai số đó là 99 và hai số hơn kém nhau 3 đơn vị.",
+    
+    "Tìm hai số biết rằng bốn lần số thứ hai cộng với năm lần số thứ nhất bằng 18040 và ba lần số thứ nhất hơn hai lần số thứ hai là 2002.",
+    
+    "Tìm hai số tự nhiên, biết rằng tổng của chúng bằng 28 và nếu lấy số lớn chia cho số bé thì được thương là 3 và số dư là 4. Tìm hai số tự nhiên biết rằng: Tổng của chúng bằng 1012. Hai lần số lớn cộng số nhỏ bằng 2014.",
+    
+    "Tổng các chữ số của một số có hai chữ số là 9. Nếu thêm vào số đó 63 đơn vị thì số thu được cũng viết bằng hai chữ số đó nhưng theo thứ tự ngược lại. Hãy tìm số đó.",
+    
+    "Tìm số tự nhiên có hai chữ số mà hiệu giữa chữ số hàng chục và chữ số hàng đơn vị là 3. Còn tổng bình phương hai chữ số của số đó là 45.",
+    
+    "Tìm một số tự nhiên có 3 chữ số, tổng các chữ số bằng 17, chữ số hàng chục là 4, nếu đổi chỗ các chữ số hàng trăm và hàng đơn vị cho nhau thì số đó giảm đi 99 đơn vị.",
+    
+    "Tìm số tự nhiên có hai chữ số, biết rằng chữ số hàng chục lớn hơn chữ số hàng đơn vị là 2 và nếu viết thêm chữ số bằng chữ số hàng chục vào bên phải thì được một số lớn hơn ban đầu là 682.",
+    
+    "Tìm hai số biết tổng bằng 29 và tổng các bình phương của chúng bằng 185.",
+    
+    "Cho một số có hai chữ số. Tìm số đó, biết rằng tổng hai chữ số của nó nhỏ hơn số đó 6 lần, nếu thêm 25 vào tích của hai chữ số đó sẽ được một số theo thứ tự ngược lại với số đã cho.",
+    
+    "Tìm tất cả các số tự nhiên có hai chữ số, biết rằng chữ số hàng đơn vị nhỏ hơn chữ số hàng chục là 2 và tích của hai chữ số của nó luôn luôn lớn hơn tổng hai chữ số của nó là 34.",
+    
+    "Tìm hai số biết rằng tổng của hai số đó bằng 17 đơn vị. Nếu số thứ nhất tăng thêm 3 đơn vị và số thứ hai tăng thêm 2 đơn vị thì tích của chúng bằng 105 đơn vị.",
+    
+    "Tìm hai số biết rằng bốn lần số thứ hai cộng với năm lần số thứ nhất bằng 18040 và ba lần số thứ nhất hơn hai lần số thứ hai là 2002.",
+    
+    "Tìm hai số tự nhiên biết rằng tổng của chúng bằng 59, hai lần số này bé hơn ba lần số kia là 7 đơn vị. Tìm hai số tự nhiên đó.",
+    
+    "Đoạn đường AB dài 180 km. Cùng một lúc xe máy đi từ A và ô tô đi từ B xe máy gặp ô tô tại C cách A 80 km. Nếu xe máy khởi hành sau 54 phút thì chúng gặp nhau tại D cách A là 60 km. Tính vận tốc của ô tô và xe máy.",
+    
+    "Một ô tô đi trên quãng đường dài 520 km. Khi đi được 240 km thì ô tô tăng vận tốc thêm 10 km/h nữa và đi hết quãng đường còn lại. Tính vận tốc ban đầu của ô tô biết thời gian đi hết quãng đường là 8 giờ.",
+    
+    "Một ô tô khởi hành từ A với vận tốc 50 km/h. Qua 1 giờ 15 phút ô tô thứ hai cũng khởi hành từ A đi cùng hướng với ô tô thứ nhất với vận tốc 40 km/h. Hỏi sau mấy giờ thì ô tô gặp nhau, điểm gặp nhau cách A bao nhiêu km.",
+    
+    "Một ca nô xuôi dòng 50 km rồi ngược dòng 30 km. Biết thời gian đi xuôi dòng lâu hơn thời gian ngược dòng là 30 phút và vận tốc đi xuôi dòng lớn hơn vận tốc đi ngược dòng là 5 km/h. Tính vận tốc lúc đi xuôi dòng.",
+    
+    "Hai ô tô cùng khởi hành cùng một lúc từ A đến B cách nhau 150 km. Biết vận tốc ô tô thứ nhất lớn hơn vận tốc ô tô thứ hai là 10 km/h và ô tô thứ nhất đến B trước ô tô thứ hai là 30 phút. Tính vận tốc của mỗi ô tô.",
+    
+    "Một chiếc thuyền đi trên dòng sông dài 50 km. Tổng thời gian xuôi dòng và ngược dòng là 4 giờ 10 phút. Tính vận tốc thực của thuyền biết rằng một chiếc bè thả nổi phải mất 10 giờ mới xuôi hết dòng sông.",
+    
+    "Một người đi xe đạp từ A đến B cách nhau 108 km. Cùng lúc đó một ô tô khởi hành từ B đến A với vận tốc hơn vận tốc xe đạp là 18 km/h. Sau khi hai xe gặp nhau xe đạp phải đi mất 4 giờ nữa mới tới B. Tính vận tốc của mỗi xe.",
+    
+    "Một ca nô xuôi dòng từ A đến B cách nhau 100 km. Cùng lúc đó một bè nứa trôi tự do từ A đến B. Ca nô đến B thì quay lại A ngay, thời gian cả xuôi dòng và ngược dòng hết 15 giờ. Trên đường ca nô ngược về A thì gặp bè nứa tại một điểm cách A là 50 km. Tìm vận tốc riêng của ca nô và vận tốc của dòng nước.",
+    
+    "Hai người thợ cùng làm một công việc thì xong trong 18 giờ. Nếu người thứ nhất làm trong 4 giờ, người thứ hai làm trong 7 giờ thì được 1/3 công việc. Hỏi mỗi người làm một mình thì mất bao lâu sẽ xong công việc.",
+    
+    "Để hoàn thành một công việc hai tổ phải làm trong 6 giờ. Sau 2 giờ làm chung thì tổ hai được điều đi làm việc khác. Tổ một đã hoàn thành công việc còn lại trong 10 giờ. Hỏi nếu mỗi tổ làm riêng thì bao lâu xong công việc đó.",
+    
+    "Hai đội công nhân cùng đào một con mương. Nếu họ cùng làm thì trong 2 ngày sẽ xong công việc. Nếu làm riêng thì đội hai hoàn thành công việc nhanh hơn đội một là 3 ngày. Hỏi nếu làm riêng thì mỗi đội phải làm trong bao nhiêu ngày để xong công việc.",
+    
+    "Hai chiếc bình rỗng giống nhau có cùng dung tích là 375 lít. Mỗi bình có một vòi nước chảy vào và dung lượng nước chảy trong một giờ là như nhau. Người ta mở cho hai vòi cùng chảy vào bình nhưng sau 2 giờ thì khoá vòi thứ hai lại và sau 45 phút mới tiếp tục mở lại. Để hai bình cùng đầy một lúc người ta phải tăng dung lượng vòi thứ hai thêm 25 lít/giờ. Tính xem mỗi giờ vòi thứ nhất chảy được bao nhiêu lít nước.",
+    
+    "Một hình chữ nhật có đường chéo bằng 13 m, chiều dài hơn chiều rộng 7 m. Tính diện tích hình chữ nhật đó.",
+    
+    "Một thửa ruộng hình chữ nhật có chu vi là 250 m. Tính diện tích của thửa ruộng biết rằng chiều dài giảm 3 lần và chiều rộng tăng 2 lần thì chu vi thửa ruộng không thay đổi.",
+    
+    "Một đa giác lồi có tất cả 35 đường chéo. Hỏi đa giác đó có bao nhiêu đỉnh.",
+    
+    "Một cái sân hình tam giác có diện tích 180 m². Tính cạnh đáy của sân biết rằng nếu tăng cạnh đáy 4 m và giảm chiều cao tương ứng 1 m thì diện tích không đổi.",
+    
+    "Tìm hai số tự nhiên, biết rằng tổng của chúng bằng 1006 và nếu lấy số lớn chia cho số nhỏ thì được thương là 2 và số dư là 124.",
+    
+    "Một ô tô đi từ A và dự định đến B lúc 12 giờ trưa. Nếu xe chạy với vận tốc 35 km/h thì sẽ đến B chậm 2 giờ so với dự định. Nếu xe chạy với vận tốc 50 km/h thì sẽ đến B sớm 1 giờ so với dự định. Tính độ dài quãng đường AB và thời điểm xuất phát của ô tô tại A.",
+    
+    "Một bó hoa có 25 bông hoa, trong đó có 6 bông hoa vàng. Tìm tỉ số phần trăm của bông hoa vàng so với tổng số bông hoa?",
+    
+    "Một cửa hàng đặt kế hoạch tháng này bán được 12 tấn gạo, nhưng thực tế cửa hàng bán được 15 tấn gạo. Hỏi: a. Cửa hàng đã thực hiện được bao nhiêu phần trăm kế hoạch? b. Cửa hàng đã vượt mức kế hoạch bao nhiêu phần trăm?",
+    
+    "Một cửa hàng định giá mua hàng bằng 75% giá bán. Hỏi cửa hàng đó định giá bán bằng bao nhiêu phần trăm giá mua?",
+    
+    "Một lớp học có 28 bạn, trong đó có 7 bạn nam. Hãy tìm tỉ số phần trăm học sinh nam so với sĩ số của lớp?",
+    
+    "Trong chuồng gà có 12 con gà mái và 28 con gà trống. Tìm tỉ số phần trăm số gà mái so với số gà trong vườn?",
+    
+    "Diện tích của một vườn hoa là 100m², trong đó 35m² trồng hoa ly. Tìm tỉ số diện tích trồng hoa ly và diện tích vườn hoa.",
+    
+    "Vòi nước thứ nhất mỗi giờ chảy vào được 1/6 thể tích của bể, vòi nước thứ hai mỗi giờ chảy vào được 1/3 thể tích của bể. Hỏi cả hai vòi nước cùng chảy vào bể trong một giờ thì được bao nhiêu phần trăm thể tích của bể?",
+    
+    "Một người bỏ ra 42,000đ tiền vốn để mua rau. Sau khi bán hết số rau, người đó thu được 52,500đ. a. Tiền bán rau bằng bao nhiêu phần trăm tiền vốn? b. Người đó thu lãi bao nhiêu phần trăm?",
+    
+    "Một sản phẩm đã hạ giá bán 20%, hỏi muốn bán sản phẩm đó với giá ban đầu thì phải tăng giá thêm bao nhiêu phần trăm?",
+    
+    "Trong trường có 68% số học sinh biết tiếng Nga, 5% biết cả tiếng Anh lẫn tiếng Nga. Số còn lại chỉ biết tiếng Anh. Hỏi có bao nhiêu phần trăm số học sinh trong trường biết tiếng Anh?",
+    
+    "Nhân ngày 26-3, một cửa hàng bán đồ lưu niệm bán hạ giá 10% so với ngày thường. Tuy vậy họ vẫn lãi 8% so với giá vốn. Hỏi ngày thường họ lãi bao nhiêu phần trăm so với giá vốn?",
+    
+    "Nhóm 1 và nhóm 2 dự định cùng nhau hợp tác sản xuất 155 bộ bàn ghế. Nhưng do cải tiến kĩ thuật, nhóm 1 sản xuất vượt mức 10%, nhóm 2 sản xuất vượt mức 8% nên thực tế hai nhóm đã sản xuất được 169 bộ bàn ghế. Số bộ bàn ghế mà nhóm 1 và nhóm 2 dự định sản xuất là",
+    
+    "Tổng số sách giáo khoa và sách bài tập trên một kệ sách của thư viện là 145 quyển. Do nhập thêm sách, nên số sách giáo khoa đã tăng thêm 15%, sách bài tập tăng thêm 20%. Do đó tổng số sách trên kệ là 171 quyển. Số sách giáo khoa, sách bài tập lúc chưa nhập thêm lần lượt là",
+    
+    "Tâm mua 1 bộ quần áo kiểu với giá 320 nghìn đồng. Lúc Duyên gặp Tâm thấy bộ quần áo đẹp nên đã hỏi tìm chỗ mua với giá bán hiện tại là 354 nghìn đồng. Được biết sự chênh lệnh giá là do dịp gần Tết khan hiếm hàng nên một chiếc quần đã tăng giá 11%, một chiếc áo tăng giá 10%. Giá một chiếc quần và một chiếc áo lúc chưa tăng giá lần lượt là",
+    
+    "Trong tháng đầu hai tổ sản xuất được 800 chi tiết máy. Sang tháng thứ 2, tổ 1 vượt mức 15%, tổ 2 vượt mức 20%. Do đó cuối tháng 2, hai tổ sản xuất được 945 chi tiết máy. Hỏi trong tháng đầu mỗi tổ sản xuất được bao nhiêu chi tiết máy.",
+    
+    "Một hợp kim gồm đồng và kẽm trong đó có 5 gam kẽm. Nếu thêm 15g kẽm vào hợp kim thì được một hợp kim mới mà trong hợp kim đó lượng đồng đã giảm so với lúc đầu là 30%. Tìm khối lượng ban đầu của hợp kim.",
+    
+    "Tìm 25% của 120 quyển sách.",
+    
+    "Biết 30% của số gạo ban đầu là 159 kg. Tính số gạo ban đầu.",
+    
+    "Lớp 9A, 9B tham gia gói quà Trung thu cho các em nhỏ có hoàn cảnh khó khăn. Cả hai lớp dự định gói 160 phần quà. Nhưng do vận động được thêm một số bạn ngoài lớp tham gia nên số phần quà gói được của lớp 9A tăng 15%, còn số phần quà gói được của lớp 9B tăng 10% nên cả hai lớp gói được 179 phần quà. Số quà dự định gói của lớp 9A và 9B lần lượt là",
+    
+    "Năm ngoái, Ngọc và Bích cùng gửi tiết kiệm với lãi suất 8%/năm. Sau 1 năm, tổng số tiền mà hai bạn nhận được là 15,66 triệu đồng. Năm nay, Ngọc không gửi tiết kiệm nữa, còn Bích vẫn gửi số tiền giống như năm ngoái nhưng lãi suất đợt này đã tăng thành 8,2%/năm. Khi hết kì hạn gửi tiết kiệm Bích nhận lại được số tiền là 8,656 triệu đồng. Số tiền mà hai bạn Ngọc và Bích đã gửi lần lượt là",
+    
+    "Một hình chữ nhật có cạnh này bằng 2/3 cạnh kia. Nếu bớt đi mỗi cạnh 5m thì diện tích hình chữ nhật giảm 16%. Tính các kích thước của hình chữ nhật ban đầu.",
+    
+    "Trong tháng đầu hai tổ sản xuất được 800 chi tiết máy. Sang tháng thứ 2, tổ 1 vượt mức 15%, tổ 2 vượt mức 20%. Do đó cuối tháng 2 tổ sản xuất được 945 chi tiết máy. Hỏi trong tháng đầu mỗi tổ sản xuất được bao nhiêu chi tiết máy.",
+    
+    "Một người mua hai loại mặt hàng A và B. Nếu tăng giá mặt hàng A thêm 10% và mặt hàng B thêm 20% thì người đó phải trả 232 nghìn đồng. Nhưng nếu giảm giá cả hai mặt hàng là 10% thì người đó phải trả tất cả 180 nghìn đồng. Tính giá tiền mỗi loại lúc đầu?",
+    
+    "Hai trường A và B của một thị trấn có 210 học sinh thi đỗ hết lớp 9, đạt tỷ lệ trúng tuyển 84%. Tính riêng thì trường A đỗ 80%, trường B đỗ 90%. Tính xem mỗi trường có bao nhiêu học sinh lớp 9 dự thi?",
+    
+    "Hai tổ chức dự định làm 700 sản phẩm. Thực tế, tổ một vượt mức 20% và tổ hai vượt mức 15% nên trong thời gian quy định cả hai tổ đã vượt mức 120 sản phẩm. Tính số sản phẩm mỗi tổ dự kiến làm.",
+    
+    "Hai xí nghiệp theo kế hoạch phải làm tổng cộng 360 dụng cụ. Thực tế, xí nghiệp I vượt mức kế hoạch 10%, xí nghiệp II vượt mức kế hoạch 15%, do đó cả hai xí nghiệp đã làm được 404 dụng cụ. Tính số dụng cụ mỗi xí nghiệp phải làm theo kế hoạch.",
+    
+    "Theo kế hoạch hai tổ sản xuất 600 sản phẩm trong một thời gian nhất định. Do áp dụng kĩ thuật mới nên tổ I đã vượt mức 18% và tổ II đã vượt mức 21%. Vì vậy trong thời gian quy định họ đã hoàn thành vượt mức 120 sản phẩm. Hỏi số sản phẩm được giao của mỗi tổ theo kế hoạch?",
+    
+    "Hai máy ủi trong 12h thì san lấp được 1/10 khu đất. Nếu máy ủi thứ 1 làm một mình trong 42h rồi nghỉ sau đó máy ủi thứ 2 làm một mình trong 22h thì cả 2 máy ủi san lấp được 25% khu đất đó. Hỏi nếu làm một mình thì mỗi máy ủi san lấp xong khu đất trong bao nhiêu lâu?",
+    
+    "Hai người cùng làm chung một công việc thì sau 4 giờ 30 phút họ làm xong công việc. Nếu một mình người thứ nhất làm trong 4 giờ, sau đó một mình người thứ hai làm trong 3 giờ thì cả hai người làm được 75% công việc. Hỏi nếu mỗi người làm một mình thì sau bao lâu sẽ xong công việc? (Biết rằng năng suất làm việc của mỗi người là không thay đổi).",
+    
+    "Dân số của một thành phố hiện nay là 408040 người, hàng năm dân số tăng 1%. Hỏi hai năm trước đây dân số thành phố là bao nhiêu?",
+    
+    "Một cuộn vải dài 300m, thợ may cắt được 30% chiều dài của cuộn vải đó. Hỏi phần còn lại của cuộn vải mà thợ may cần phải cắt là bao nhiêu?",
+    
+    "Một quyển sách đã đọc được 120 trang, chiếm 15% số trang sách. Hỏi cuốn sách đó có bao nhiêu trang?",
+    
+    "Lớp 5A có 30 học sinh trong đó số học sinh nữ chiếm 60%. Hỏi số học sinh nữ có bao nhiêu em.",
+    
+    "Một lớp có 25% học sinh giỏi, 55% học sinh khá còn lại là học sinh trung bình. Tính số học sinh của lớp đó biết số học sinh trung bình là 5 bạn?",
+    
+    "Chiếc xe đã đi được 40% chiều dài của con đường dài 250 km. Tính chiều dài quãng đường mà xe đã đi.",
+    
+    "Số học sinh giỏi của một trường tiểu học là 64 em chiếm 12,8% số học sinh toàn trường. Hỏi trường đó có bao nhiêu học sinh?",
+    
+    "Cô giáo đem chia táo cho học sinh. Nếu mỗi em 9 quả thì thiếu 9 quả. Nếu chia mỗi em 10 quả thì thiếu 25% số táo ban đầu. Tính số táo cô đem chia và số học sinh được chia táo.",
+    
+    "Một người đem trứng đi bán: buổi sáng bán được 50% số trứng, buổi chiều bán được 20% số trứng còn lại. Sau đó người đó lại buôn thêm 40 quả nữa. Tối về người đó lại thấy rằng số trứng đem về bằng 120% số trứng mang đi. Hỏi người ấy mang đi mấy quả trứng?",
+    
+    "Lượng muối chứa trong nước biển là 5%. Cần phải đổ thêm vào 200kg nước biển bao nhiêu kg nước lã để được một loại dung dịch chứa 2% muối?",
+    
+    "Một cửa hàng buôn bán hoa quả đặt hàng 4,5 tấn cam với giá 18000 đồng một kilôgam. Tiền vận chuyển là 1 600 000 đồng. Giả sử 10% số cam bị hỏng trong quá trình vận chuyển và tất cả số cam đều bán được. Hãy tính xem mỗi kg cam cần bán với giá bao nhiêu để thu lãi 8%.",
+    
+    "Bố mua 2 đôi giày cho Hùng nhưng đều bị nhỏ nên mẹ phải mang bán 2 đôi giày đó đi. Mỗi đôi giày đều bán với giá 300.000 đồng và bị lỗ 20% so với giá mua. Hỏi mẹ đã mua 2 đôi giày đó với giá bao nhiêu tiền?",
+    
+    "Một hợp chất có trọng lượng là 220g, trong đó hàm lượng đồng là 36%. Tính trọng lượng của đồng có trong hợp chất đó.",
+    
+    "Năm 2022 doanh thu của một công ty là 1 tỷ đồng, tăng 25% so với năm 2021. Hỏi doanh thu của công ty năm 2021 là bao nhiêu?",
+    
+    "Trong tháng đầu một công nhân đã làm được 420 sản phẩm. Sang tháng thứ 2, do nâng cao năng suất, công nhân đó đã làm được số sản phẩm nhiều hơn 12% so với tháng đầu. Hỏi trong hai tháng người đó đã làm được bao nhiêu sản phẩm?",
+    
+    "Một người bán 2 con bò. Con thứ nhất bán lãi 20% con thứ hai bán lỗ 20%. Tính ra con thứ nhất lãi được 200 ngàn đồng, con thứ hai lỗ 100 ngàn đồng. Hỏi giá vốn của mỗi con bò là bao nhiêu?",
+    
+    "Để khuyến khích học sinh làm bài thi tốt nghiệp, nhà trường tặng thưởng cho học sinh theo hai mức. Học sinh đạt loại giỏi được thưởng 70.000 đồng, đạt loại khá được thưởng 50.000 đồng. Số học sinh đạt loại giỏi gấp 2 lần số học sinh đạt loại khá. Tổng số tiền nhà trường tặng thưởng là 750.000 đồng. Hỏi có bao nhiêu học sinh đạt loại giỏi, loại khá?",
+    
+    "Cạnh huyền của một tam giác vuông bằng 17cm. Hai cạnh góc vuông có độ dài hơn kém nhau 7cm. Tính diện tích của tam giác vuông đó.",
+    
+    "Quãng đường AB gồm một đoạn lên dốc và một đoạn xuống dốc. Một người đi xe đạp từ A đến B hết 16 phút và đi từ B về A hết 14 phút. Biết vận tốc lúc lên dốc là 10 km/h, vận tốc lúc xuống dốc là 15 km/h (vận tốc lên dốc, xuống dốc lúc đi và về như nhau). Tính quãng đường AB.",
+    
+    "Một người dự định đi xe máy từ A đến B với vận tốc không đổi. Nhưng sau khi đi được 2 giờ thì xe bị hỏng nên phải dừng lại 20 phút để sửa chữa. Do đó, để kịp đến B đúng thời gian dự định, người đó phải tăng vận tốc thêm 8 km/h. Tính vận tốc ban đầu của xe máy, biết rằng quãng đường AB dài 160 km.",
+    
+    "Hai người cùng xây một bức tường. Sau khi làm được 4 giờ, người thứ nhất nghỉ, người thứ hai tiếp tục xây thêm 8 giờ nữa thì hoàn thành bức tường. Hỏi nếu ngay từ đầu chỉ một người xây thì sau bao lâu bức tường được hoàn thành, biết rằng người thứ nhất xây bức tường đó nhanh hơn người thứ hai 6 giờ?",
+    
+    "Để chung tay phòng chống dịch COVID-19, hai trường A và B trên địa bàn tỉnh Khánh Hòa phát động phong trào quyên góp ủng hộ người dân có hoàn cảnh khó khăn. Hai trường đã quyên góp được 1137 phần quà gồm mì tôm (đơn vị thùng) và gạo (đơn vị bao). Trong đó, mỗi lớp của trường A ủng hộ được 8 thùng mì và 5 bao gạo; mỗi lớp của trường B ủng hộ được 7 thùng mì và 8 bao gạo. Biết số bao gạo ít hơn số thùng mì là 75 phần quà. Hỏi mỗi trường có bao nhiêu lớp?",
+    
+    "Theo kế hoạch, Công an tỉnh Khánh Hòa sẽ cấp 7200 thẻ Căn cước công dân cho địa phương A. Một tổ công tác được điều động đến địa phương A để cấp thẻ Căn cước công dân trong một thời gian nhất định. Khi thực hiện nhiệm vụ, tổ công tác đã cải tiến kĩ thuật nên mỗi ngày đã cấp tăng thêm được 40 thẻ Căn cước so với kế hoạch. Vì vậy, tổ công tác đã hoàn thành nhiệm vụ sớm hơn kế hoạch 2 ngày. Hỏi theo kế hoạch ban đầu, mỗi ngày tổ công tác sẽ cấp được bao nhiêu thẻ Căn cước?",
+    
+    "Nhằm đáp ứng nhu cầu sử dụng khẩu trang chống dịch COVID-19, theo kế hoạch, hai tổ sản xuất của một nhà máy dự định làm 720000 khẩu trang. Do áp dụng kĩ thuật mới nên tổ I đã sản xuất vượt kế hoạch 15% và tổ II vượt kế hoạch 12%, vì vậy họ đã làm được 819000 khẩu trang. Hỏi theo kế hoạch số khẩu trang của mỗi tổ sản xuất là bao nhiêu?",
+    
+    "Tìm một số có hai chữ số biết rằng: Hiệu của số ban đầu với số đảo ngược của nó bằng 18 (số đảo ngược của một số là một số thu được bằng cách việt các chữ số của nó theo thứ tự ngược lại) và tổng của số ban đầu với bình phương số đảo ngược của nó bằng 618.",
+    
+    "Hai đội công nhân cùng làm chung trong 4 giờ thì hoàn thành được 2/3 công việc. Nếu làm riêng thì thời gian hoàn thành công việc đội thứ hai ít hơn đội thứ nhất là 5 giờ. Hỏi nếu làm riêng thì thời gian hoàn thành công việc của mỗi đội là bao nhiêu?",
+    
+    "Trong kỳ thi chọn học sinh giỏi lớp 9 cấp trường, tổng số học sinh đạt giải của cả hai lớp 9A1 và 9A2 là 22 em, chiếm tỷ lệ 40% trên tổng số học sinh dự thi của hai lớp trên. Nếu tính riêng từng lớp thì lớp 9A1 có 50% học sinh dự thi đạt giải và lớp 9A2 có 28% học sinh dự thi đạt giải. Hỏi mỗi lớp có tất cả bao nhiêu học sinh dự thi.",
+    
+    "Một trường học A có tổng số giáo viên là 80. Hiện tại, tuổi trung bình của giáo viên là 35. Trong đó, tuổi trung bình của giáo viên nữ là 32 và tuổi trung bình của giáo viên nam là 38. Hỏi trường học đó có bao nhiêu giáo viên nữ và bao nhiêu giáo viên nam?",
+    
+    "Một tổ may gồm 47 công nhân có cả nam và nữ được giao nhiệm vụ may 350 chiếc áo cho cổ động viên để cổ vũ đội tuyển U23 Việt Nam tại SEA GAMES 31. Để hoàn thành nhiệm vụ, mỗi công nhân nam may 8 chiếc áo, mỗi công nhân nữ may 7 chiếc áo. Tính số công nhân nam và số công nhân nữ của tổ may đó.",
+    
+    "Một lâm trường có hai đội công nhân thực hiện trồng cây phủ xanh đồi trọc. Nếu mỗi công nhân của đội thứ nhất trồng được 30 cây và mỗi công nhân của đội thứ hai trồng được 40 cây thì tổng số cây của cả hai đội trồng là 2880. Tính số công nhân của mỗi đội, biết rằng tổng số công nhân của lâm trường là 82.",
+    
+    "Một mảnh đất hình chữ nhật có diện tích 80m². Nếu giảm chiều rộng 3m và tăng chiều dài 10m thì diện tích mảnh đất tăng thêm 20m². Tính kích thước của mảnh đất.",
+    
+    "Tam giác vuông có cạnh huyền bằng 13cm, diện tích là 30cm². Tính độ dài các cạnh góc vuông.",
+    
+    "Trung tâm thương mại VC của thành phố NT có 100 gian hàng. Nếu mỗi năm gian hàng của Trung tâm thương mại VC cho thuê với giá 100.000.000 đồng (một trăm triệu đồng) một thì tất cả các gian hàng đều được thuê hết. Biết rằng, cứ mỗi lần tăng giá 5% tiền thuê mỗi gian hàng một năm thì Trung tâm thương mại VC có thêm 2 gian hàng trống. Hỏi người quản lý phải quyết định giá thuê mỗi gian hàng là bao nhiêu một năm để doanh thu của Trung tâm thương mại VC từ tiền cho thuê gian hàng trong năm là lớn nhất?",
+    
+    "Một đội công nhân đặt kế hoạch sản xuất 250 sản phẩm. Trong 4 ngày đầu, họ thực hiện đúng kế hoạch. Mỗi ngày sau đó, họ đều vượt mức 5 sản phẩm nên đã hoàn thành công việc sớm hơn 1 ngày so với dự định. Hỏi theo kế hoạch, mỗi ngày đội công nhân đó làm được bao nhiêu sản phẩm Biết rằng năng suất làm việc của mỗi công nhân là như nhau.",
+    
+    "Để chuẩn bị vào năm học mới, bạn An muốn mua một cái cặp và một đôi giày. Bạn đã tìm hiểu, theo giá niêm yết thì tổng số tiền để mua hai vật dụng trên là 850.000 đồng. Khi bạn An đến mua thì cửa hàng có chương trình giảm giá: cái cặp được giảm 15.000 đồng, đôi giày được giảm 10% so với giá niêm yết. Do đó bạn An mua hai vật dụng trên chỉ với số tiền 785.000 đồng. Hỏi giá niêm yết của mỗi vật dụng trên là bao nhiêu?",
+    
+    "Gia đình An dự định đi du lịch tại Nha Trang và Huế trong 7 ngày. Biết rằng chi phí trung bình mỗi ngày tại Nha Trang là 2 triệu đồng, còn tại Huế là 3 triệu đồng. Tìm số ngày nghỉ dự định của gia đình An tại mỗi địa điểm, biết số tiền mà họ phải chi cho toàn bộ chuyến đi là 18 triệu đồng.",
+    
+    "Để phục vụ cho Festival Huế 2018, một cơ sở sản xuất nón lá dự kiến làm ra 300 chiếc nón lá trong một thời gian đã định. Do được bổ sung thêm nhân công nên mỗi ngày cơ sở đó làm ra được nhiều hơn 5 chiếc nón lá so với dự kiến ban đầu, vì vậy cơ sở sản xuất đã hoàn thành 300 chiếc nón lá sớm hơn 3 ngày so với thời gian đã định. Hỏi theo dự kiến ban đầu, mỗi ngày cơ sở đó làm ra bao nhiêu chiếc nón lá? Biết rằng số chiếc nón lá làm ra mỗi ngày là bằng nhau và nguyên chiếc.",
+    
+    "Để phục vụ công tác phòng chống dịch COVID-19, một Công ty A lên kế hoạch trong một thời gian trương trong công tác quy định làm 20000 tấm chắn bảo hộ để tặng các chốt chống dịch. Do ý thức khẩn hỗ trợ chống dịch và nhờ cải tiến quy trình làm việc nên mỗi ngày Công ty A làm được nhiều hơn 300 tấm so với kế hoạch ban đầu. Vì thế, Công ty A đã hoàn thành kế hoạch sớm hơn đúng một ngày so với thời gian quy định và làm được nhiều hơn 700 tấm so với kế hoạch ban đầu. Biết rằng g số số tấm làm ra trong mỗi ngày là bằng nhau và nguyên cái. Hỏi theo kế hoạch ban đầu, mỗi ngày Công ty A cần làm bao nhiêu tấm chắn bảo hộ?",
+    
+    "Hưởng ứng chiến địch tỉnh nguyện “Mùa hè xanh” để giúp học sinh vùng cao đến trưởng thuận lợi hơn, hai tổ thanh niên A và B tham gia sửa một đoạn đường. Nếu hai tổ cùng làm thì trong 8 giờ xong việc. Nếu làm riêng thì thời gian hoàn thành công việc của tổ A ít hơn tổ B là 12 giờ. Hỏi nếu làm riêng thì mỗi tổ sửa xong đoạn đường đó trong bao lâu?",
+    
+    "Nếu mở cả hai vòi nước chảy vào một bể cạn thì sau 3 giờ bể đầy nước. Nếu vòi thứ nhất làm đầy bể nhanh hơn vòi thứ hai là 2 giờ 30 phút. Hỏi nếu mở thì mỗi vòi chảy bao lâu đầy bể?",
+    
+    "Quãng đường AB dài 120 km. Hai ô tô khởi hành cùng một lúc từ A đến B. Mỗi giờ ô tô thứ nhất chạy nhanh hơn ô tô thứ hai 12 km nên đến trước ô tô thứ hai 30 phút. Tính vận tốc của ô tô thứ nhất.",
+    
+    "Một mảnh đất hình chữ nhật có hai lần chiều rộng bé hơn chiều dài 9m và diện tích bằng 200m². Tính chu vi của mảnh đất.",
+    
+    "Lớp 9A có 80 quyển vở dự định khen thưởng học sinh giỏi cuối năm. Thực tế cuối năm tăng thêm 2 học sinh giỏi, nên mỗi phần thưởng giảm đi 2 quyển vở so với dự định. Hỏi cuối năm lớp 9A có bao nhiêu học sinh giỏi, biết mỗi phần thưởng có số quyển vở bằng nhau.",
+    
+    "Một đội xe vận tải được phân công chở 112 tấn hàng. Trước giờ khởi hành có 2 xe phải đi làm nhiệm vụ khác nên mỗi xe còn lại phải chở thêm 1 tấn hàng so với dự tính. Tính số xe ban đầu của đội xe, biết rằng mỗi xe đều chở khối lượng hàng như nhau.",
+    
+    "Hưởng ứng Ngày sách và Văn hóa đọc Việt Nam năm 2022, một nhà sách đã có chương trình giảm giá cho tất cả các loại sách. Bạn Nam đến mua một quyển sách tham khảo môn Toán và một quyển sách tham khảo môn Ngữ văn với tổng giả ghi trên hai quyển sách đó là 195000 đồng. Nhưng do quyển sách tham khảo môn Toán được giảm giá 20% và quyển sách tham khảo môn Ngữ văn được giảm giá 35% nên bạn Nam chỉ phải trả cho nhà sách 138000 đồng để mua hai quyển sách đó. Hỏi giá ghi trên mỗi quyển sách tham khảo đó là bao nhiêu?",
+    
+    "Trong một thư viện có hai máy in A và B. Để in 100 trang giấy thì máy A in nhanh hơn máy B là 1 phút. Khi cùng in, thì trong 1 phút cả hai máy in được tổng cộng 45 trang giấy. Tính thời gian để máy A in được 100 trang giấy.",
+    
+    "Phú và Yên cùng tham gia cuộc thi ma-ra-tông cự li 10 km. Trong 4 km đầu, cả hai chạy cùng một vận tốc. Trong 6 km cuối, Phú tăng vận tốc thêm 2 km/h. Yên vẫn duy trì vận tốc của mình trong suốt quãng đường đua. Kết quả là Phú về đích sớm hơn Yên 6 phút. Tính vận tốc chạy của Yên.",
+    
+    "Một xe khách và một xe tải xuất phát cùng một lúc từ thành phố A đến thành phố B trên quãng đường dài 180km. Vận tốc xe khách lớn hơn vận tốc xe tải là 10km/h nên xe khách đã đến B sớm hơn xe tải 36 phút. Tính vận tốc của mỗi xe.",
+    
+    "Trong quý I, cả hai tổ A và B sản xuất được 610 sản phẩm. Trong quý II, số sản phẩm tổ A tăng thêm 10%, tổ B tăng thêm 14% so với quý I, do đó cả hai tổ sản xuất được 681 sản phẩm. Hỏi trong quý I, mỗi tổ sản xuất được bao nhiêu sản phẩm?",
+    
+    "Cho tam giác ABC vuông tại A, có đường cao AH (H thuộc BC). Biết độ dài đoạn AB bằng 5cm, đoạn BH bằng 3cm. Tính độ dài các cạnh AC và BC.",
+    
+    "Nhân ngày sách Việt Nam, 120 học sinh khối 8 và 100 học sinh khối 9 cùng tham gia phong trào xây dựng “Tủ sách nhân ái”. Sau một thời gian phát động, tổng số sách cả hai khối đã quyên góp được là 540 quyển. Biết rằng mỗi học sinh khối 9 quyên góp nhiều hơn mỗi học sinh khối 8 1 quyển. Hỏi mỗi khối đã quyên góp được bao nhiêu quyển sách (Mỗi học sinh cùng một khối quyên góp số lượng sách như nhau).",
+    
+    "Tình cảm gia đình có sức mạnh thật phi thường. Bạn Vi Quyết Chiến - Cậu bé 13 tuổi quá thương nhớ em trai của mình đã vượt qua một quãng đường dài 180 km từ Sơn La đến bệnh viện nhi Trung ương Hà Nội để thăm em. Sau khi đi bằng xe đạp 7 giờ, bạn ấy được lên xe khách và đi tiếp 1 giờ 30 phút nữa thì đến nơi. Biết vận tốc của xe khách lớn hơn vận tốc của xe đạp là 35 km/giờ. Tính vận tốc xe đạp của bạn Chiến.",
+    
+    "Hưởng ứng phong trào toàn dân chung tay đẩy lùi đại dịch Covid-19, trong tháng hai năm 2020, hai lớp 9A và 9B của một trường THCS đã nghiên cứu và sản xuất được 250 chai nước rửa tay sát khuẩn. Vì muốn tặng quà cho khu cách li tập trung trên địa bàn, trong tháng ba, lớp 9A làm vượt mức 25%, lớp 9B làm vượt mức 20%, do đó tổng sản phẩm của cả hai lớp vượt mức 22% so với tháng hai. Hỏi trong tháng hai, mỗi lớp đã sản xuất được bao nhiêu chai nước rửa tay sát khuẩn?",
+    
+    "Trong kỳ SEA Games 31 tổ chức tại Việt Nam, thú sao la được chọn làm linh vật. Một phân xưởng được giao sản xuất 420 thú nhồi bông sao la trong một thời gian dự định để làm quà tặng. Biết rằng nếu mỗi giờ phân xưởng sản xuất thêm 5 thú nhồi bông sao la thì sẽ rút ngắn được thời gian hoàn thành công việc là 2 giờ. Tính thời gian dự định của phân xưởng.",
+    
+    "Vào tháng 5 năm 2021, chỉ sau 26 giờ phát hành sản phẩm âm nhạc MV “Trốn tim” của rapper Đen Vâu đã chính thức dành Top 1 trending của YouTube Việt Nam. Giả sử trong tất cả những người đã xem MV, có 60% số người đã xem 2 lượt và những người còn lại mới chỉ xem 1 lượt. Hỏi đến thời điểm nói trên có bao nhiêu người đã xem MV, biết rằng tổng số lượt xem là 6,4 triệu lượt?",
+    
+    "Mục tiêu là để rèn luyện sức khỏe, anh An và anh Bình đề ra mục tiêu mỗi ngày một người phải đi bộ ít nhất 6000 bước. Hai người cùng đi bộ ở công viên và thấy rằng, nếu cùng đi trong 2 phút thì anh An bước nhiều hơn anh Bình 20 bước. Hai người cùng giữ nguyên tốc độ như vậy nhưng anh Bình đi trong 5 phút thì lại nhiều hơn anh An đi trong 3 phút là 160 bước. Hỏi mỗi ngày anh An và anh Bình cùng giờ thì họ đã đạt được số bước tối thiểu mà mục tiêu đề ra hay chưa? (Giả sử tốc độ đi bộ hàng ngày của hai người không đổi).",
+    
+    "Hai lớp 9A và 9B có 86 học sinh. Trong đợt thu nhặt giấy vụn thực hiện kế hoạch nhỏ, lớp 9A có một bạn góp được 5 kg giấy vụn còn các bạn còn lại mỗi bạn góp được 4kg giấy vụn. Lớp 9B có một bạn góp được 7 kg giấy vụn còn các bạn còn lại mỗi bạn góp được 8kg giấy vụn. Tính số học sinh mỗi lớp biết cả hai lớp góp được 520 kg giấy vụn.",
+    
+    "Hai lớp 9A và 9B cùng tham gia quyên góp tiền giúp các bạn học sinh có hoàn cảnh khó khăn mua thiết bị học tập. Trung bình một học sinh lớp 9A góp 18 000 đồng, một học sinh lớp 9B góp 20 000 đồng. Hỏi mỗi lớp có bao nhiêu học sinh, biết rằng cả hai lớp có 85 học sinh và tổng số tiền góp được là 1 610 000 đồng.",
+    
+    "Cận thị trong học sinh ngày càng tăng. Lớp 9A có 35 học sinh, trong đó chỉ có 1/4 số học sinh nam và 1/5 số học sinh nữ không bị cận thị. Biết tổng số học sinh nam và học sinh nữ không bị cận thị là 8 học sinh. Tính số học sinh nữ không bị cận thị.",
+    
+    "Trong kì thi HKII môn Toán lớp 9, một phòng thi của trường có 24 thí sinh dự thi. Các thí sinh đều phải làm bài trên giấy trường phát. Cuối buổi thi, giám thị coi thi đếm được tổng số tờ giấy thi là 53 tờ. Hỏi trong phòng thi đó có bao nhiêu học sinh làm 2 tờ giấy thi, bao nhiêu học sinh làm 3 tờ giấy thi? Biết rằng có 3 thí sinh chỉ làm 1 tờ giấy thi.",
+    
+    "Trong kì thi tuyển sinh vào lớp 10 năm học 2021-2022, số thí sinh vào trường THPT chuyên bằng 2/3 số thí sinh thi vào trường PTDT Nội trú. Biết rằng tổng số phòng thi của cả hai trường là 80 phòng thi và mỗi phòng thi có đúng 24 thí sinh. Hỏi số thí sinh vào mỗi trường bằng bao nhiêu?",
+    
+    "Nhà bạn Khanh có hai thùng đựng sữa, thùng thứ nhất có thể tích 10 lít, thùng thứ hai có thể tích 8 lít. Biết rằng cả hai thùng đều đang chứa một lượng sữa và tổng lượng sữa ở hai thùng lớn hơn 10 lít. Bạn Khanh muốn xác định lượng sữa ở mỗi thùng nhưng không có dụng cụ đo thể tích nên bạn đã nghĩ ra cách làm như sau: Đầu tiên, Khanh đổ sữa từ thùng thứ nhất sang thùng thứ hai cho đầy thì lượng sữa còn lại ở thùng thứ nhất bằng 1/2 lượng sữa so với ban đầu. Sau đó, Khanh đổ sữa từ thùng thứ hai sang thùng thứ nhất cho đầy thì lượng sữa còn lại ở thùng thứ hai bằng 1/5 lượng sữa so với thời điểm ban đầu. Hỏi thời điểm ban đầu mỗi thùng chứa bao nhiêu lít sữa?",
+    
+    "Một ô tô và một xe máy cùng khởi hành từ địa điểm A và đi đến địa điểm B. Do vận tốc của ô tô lớn hơn vận tốc của xe máy là 20 km/h nên ô tô đến B sớm hơn xe máy 30 phút. Biết quãng đường AB dài 60 km, tính vận tốc của mỗi xe. (Giả định rằng vận tốc mỗi xe là không đổi trên toàn bộ quãng đường AB.)",
+    
+    "Trong tháng đầu hai tổ sản xuất được 800 chi tiết máy. Sang tháng thứ 2 tổ 1 vượt mức 15%, tổ 2 vượt mức 20% do đó cuối tháng 2 tổ sản xuất được 945 chi tiết máy. Hỏi trong tháng đầu mỗi tổ sản xuất được bao nhiêu chi tiết máy.",
+    
+    "Một người mua hai loại mặt hàng A và B. Nếu tăng giá mặt hàng A thêm 10% và mặt hàng B thêm 20% thì người đó phải trả 232 nghìn đồng. Nhưng nếu giảm giá cả hai mặt hàng là 10% thì người đó phải trả tất cả 180 nghìn đồng. Tính giá tiền mỗi loại lúc đầu.",
+    
+    "Hai thùng chứa nước hình trụ được gắn một vòi chảy ở đáy thùng. Ban đầu chiều cao mực nước ở thùng thứ nhất hơn thùng thứ hai 0,2m, để vệ sinh hai thùng này bạn Hân bắt đầu mở vòi cho thùng thứ nhất chảy từ 8 giờ sáng và sau đó 3 phút bắt đầu mở vòi cho thùng thứ hai chảy. Khi quan sát quá trình chảy của hai thùng Hân thấy rằng: Tại thời điểm 8 giờ 04 phút thì chiều cao mực nước hai thùng bằng nhau. Tại thời điểm 8 giờ 08 phút thì thùng thứ hai vừa chảy hết nước và chiều cao mực nước còn lại ở thùng thứ nhất là 0,4m. Tìm chiều cao mực nước ban đầu ở mỗi thùng. Biết rằng tốc độ chảy ở mỗi vòi là không đổi.",
+    
+    "Năm 2022, hai trường THCS có tổng 300 học sinh thi đỗ vào lớp 10 THPT. Năm 2023, trường thứ nhất có số học sinh đỗ tăng 10%, trường thứ hai có số học sinh đỗ tăng 15% so với năm 2022 nên cả hai trường có 339 học sinh thi đỗ vào lớp 10 THPT. Hỏi năm 2023 mỗi trường có bao nhiêu học sinh thi đỗ vào lớp 10 THPT.",
+    
+    "Ba bạn Tâm, Bình và An để dành được một số tiền để chuẩn bị cho chuyến đi từ thiện do trường tổ chức sắp tới. Biết tổng số tiền của Tâm và Bình là 700.000 đồng. Số tiền của Tâm bằng 1/3 tổng số tiền của Bình và An. Số tiền của Bình bằng 1/2 tổng số tiền của Tâm và An. Hỏi mỗi bạn để dành được bao nhiêu tiền?",
+    
+    "Vàng 24K còn được gọi là vàng ròng (là loại vàng tinh khiết nhất, gần như không có pha lẫn tạp chất, có giá trị cao nhất trong các loại vàng) là một kim loại có ánh kim đậm nhất nhưng khá mềm. Trong ngành công nghệ chế tạo trang sức, người ta ít dùng vàng 24K mà thay thế bằng vàng 14K là hợp kim của vàng và đồng để dễ đánh bóng và tạo ra nhiều kiểu dáng đa dạng. Một món trang sức được làm từ vàng 14K có thể tích 10cm³ và nặng 151,8g. Hãy tính thể tích vàng nguyên chất và đồng được dùng để làm ra món trang sức; biết khối lượng riêng của vàng nguyên chất là 19,3g/cm³, khối lượng riêng của đồng là 9g/cm³ và công thức liên hệ giữa khối lượng riêng và thể tích là m = D.V.",
+    
+    "Hai tổ của một nhà máy sản xuất khẩu trang trong một ngày sản xuất được 1700 chiếc khẩu trang. Để đáp ứng nhu cầu khẩu trang trong dịch cúm do chủng mới virut Corona gây ra nên mỗi ngày tổ một vượt mức 65%, tổ hai vượt mức 70%, cả hai tổ sản xuất được 2850 chiếc khẩu trang. Hỏi ban đầu trong một ngày mỗi tổ sản xuất được bao nhiêu chiếc khẩu trang?",
+    
+    "Hai trường THCS A và B có 610 học sinh dự thi tuyển sinh lớp mười. Biết rằng nếu có 5/6 số học sinh dự thi của trường A và 4/5 số học sinh dự thi của trường B trúng tuyển thì số học sinh trúng tuyến của trường A nhiều hơn số học sinh trúng tuyển của trường B là 2 học sinh. Tính số học sinh dự thi của mỗi trường.",
+    
+    "Vào dịp khai trương, nhà sách khuyến mãi mỗi cây viết bi được giảm 20% so với giá niêm yết, còn mỗi quyển tập giảm 10% so với giá niêm yết. Bạn An vào nhà sách mua 20 quyển tập và 10 cây viết bi. Khi tính tiền, bạn An đưa 175 000 đồng và được thối lại 3 000 đồng. Tính giá niêm yết của mỗi quyển tập và mỗi cây viết bi mà bạn An đã mua. Biết rằng khi An nhìn vào hóa đơn, tổng số tiền phải trả khi chưa giảm giá là 195 000 đồng.",
+    
+    "Trong tháng đầu hai tổ công nhân sản xuất được 800 chi tiết máy. Sang tháng thứ hai tổ vượt mức 15%, tổ 2 sản xuất vượt mức 20%, do đó cuối tháng cả hai tổ sản xuất được 945 chi tiết máy. Hỏi rằng trong tháng đầu, mỗi tổ công nhân sản xuất được bao nhiêu chi tiết máy.",
+    
+    "Một địa phương cấy 10ha giống lúa loại I và 8ha giống lúa loại II. Sau một mùa vụ, địa phương đó thu hoạch và tính toán sản lượng thấy. Tổng sản lượng của hai giống lúa thu về là 139 tấn. Sản lượng thu về từ 4ha giống lúa loại I nhiều hơn sản lượng thu về từ 3ha giống lúa loại II là 6 tấn. Hãy tính năng suất lúa trung bình (đơn vị: tấn/ha) của mỗi loại giống lúa.",
+    
+    "Một cái thùng có thể chứa 14kg thanh long hoặc 21kg nhãn. Nếu chứa đầy thùng đó bằng cả thanh long và nhãn mà giá tiền thanh long bằng giá tiền nhãn thì số trái cây trong thùng nặng 18kg và có giá trị là 480 ngàn đồng. Tìm giá 1kg nhãn và thanh long.",
+    
+    "Hôm qua mẹ của Lan đi chợ mua 2 kg táo và 2 kg xoài thì phải trả số tiền là 220 000 đồng. Hôm nay mẹ Lan mua 4 kg táo và 5 kg xoài thì phải trả số tiền là 505 000 đồng. Hỏi giá của táo và xoài là bao nhiêu đồng/kg? (biết giá táo và xoài không thay đổi)",
+    
+    "Do dịch Covid-19 bùng phát trở lại nên theo kế hoạch hai tổ sản xuất dự định làm 1000 hộp khẩu trang để cung cấp cho tâm dịch Bắc Giang. Nhưng khi thực hiện, tổ một làm vượt mức kế hoạch 15% và tổ hai làm vượt mức kế hoạch 20% nên cả hai tổ làm được 1170 hộp khẩu trang. Tính số hộp khẩu trang mà mỗi tổ phải làm theo kế hoạch.",
+    
+    "Nhân dịp tổ chức sinh nhật cho người thân trong nhà, cô Hoa đến cửa hàng tiện lợi mua một thùng Coca-cola và hai thùng nước suối Aquafina với giá niêm yết tổng cộng là 385 nghìn đồng. Khi tính tiền thì cô Hoa mới biết giá mỗi thùng Coca-cola giảm 20%, còn mỗi thùng nước suối lại được giảm 25% so với giá niêm yết. Nên cô Hoa đã trả 297 nghìn đồng trên tổng hóa đơn. Tính giá niêm yết của một thùng Coca-cola và một thùng nước suối Aquafina.",
+    
+    "Điểm trung bình của 100 học sinh trong hai lớp 9A và 9B là 7,608. Tính điểm trung bình của các học sinh mỗi lớp, biết rằng số học sinh của lớp 9A hơn lớp 9B 2 học sinh và điểm trung bình của học sinh lớp 9B bằng 9/10 điểm trung bình của học sinh lớp 9A.",
+    
+    "Để hưởng ứng phong trào lồng đèn tặng các em nhỏ vùng sâu trong dịp Trung thu, lớp 9A gồm 46 bạn tiến hành làm vào các ngày cuối tuần. Cô giáo đặt ra chỉ tiêu: mỗi bạn nam thì sẽ làm 2 cái lồng đèn còn mỗi bạn nữ thì sẽ làm 3 cái lồng đèn. Sau 2 tháng, cả lớp làm được tổng cộng 118 cái lồng đèn. Hỏi lớp có bao nhiêu bạn nữ bao nhiêu bạn nam.",
+    
+    "Đầu năm học, một trường THCS tuyển được 75 học sinh vào 2 lớp chuyên Toán và chuyên Văn. Nếu chuyển 15 học sinh từ lớp Toán sang lớp Văn thì số học sinh lớp Văn bằng 8/7 số học sinh lớp Toán. Hãy tìm số học sinh mỗi lớp.",
+    
+    "Có 2 đội công nhân cùng làm một công trình. Lần thứ nhất: đội 1 làm trong 6 ngày, đội 2 làm trong 4 ngày thì xong công trình. Lần thứ hai: đội 1 làm trong 4 ngày, đội 2 làm trong 8 ngày thì xong công trình. Hỏi nếu làm một mình thì mỗi đội công nhân làm trong bao lâu hoàn thành công trình?",
+    
+    "Nhân dịp lễ 30/4, siêu thị điện máy Nguyễn Kim đã giảm giá nhiều mặt hàng để kích cầu mua sắm. Giá niêm yết tổng số tiền một tivi và một máy giặt là 25,4 triệu đồng. Trong đợt này giá một tivi giảm 40%, giá một máy giặt giảm 25%, nên bác Hai mua một tivi và một máy giặt với tổng số tiền là 16,7 triệu đồng. Hỏi giá một chiếc tivi, một chiếc máy giặt khi chưa giảm giá là bao nhiêu triệu đồng?",
+    
+    "Một người mua hai loại mặt hàng A và B. Nếu tăng giá mặt hàng A thêm 10% và mặt hàng B thêm 20% thì người đó phải trả 232 nghìn đồng. Nhưng nếu giảm giá cả hai mặt hàng là 10% thì người đó phải trả tất cả 180 nghìn đồng. Tính giá tiền mỗi loại lúc đầu.",
+    
+    "Ở Bạc Liêu, ngành nông nghiệp khuyến khích bà con nông dân phương thức 'Con tôm ôm cây lúa', cải tạo đồng lúa năng suất thấp thành các hồ nuôi tôm có nồng độ 5%. Nhưng nơi đây chỉ có nước biển nồng độ muối 10% và nước lợ nồng độ muối 1%. Để đổ đầy hồ nuôi tôm có dung tích 1000 lít cần phải bơm vào hồ mỗi loại nước bao nhiêu kg? Biết rằng khối lượng riêng của dung dịch nước muối 5% là 1.8kg/l.",
+    
+    "Hai bạn Bảo và Minh rủ nhau đi mua đồ tết. Bạn Bảo có nhiều hơn bạn Minh 50000 đồng. Khi vào cửa hàng, Bảo đã mua một quần jean và một áo thun hết 245 000 đồng, còn Minh mua hai áo sơ mi hết 225 000 đồng, khi đó số tiền còn lại của Minh chỉ bằng 5/7 số tiền còn lại của Bảo. Hỏi lúc đầu mỗi bạn có bao nhiêu tiền?",
+    
+    "Theo quy định của công ty, một công nhân được trả lương như sau: 400000 đồng cho một ngày làm việc bình thường (từ thứ hai đến thứ sáu hàng tuần, một ngày làm 8 giờ).Nếu làm tăng ca vào các ngày thứ 7 – chủ nhật hoặc lễ thì được hưởng lương bằng 150% tiền lương của một ngày làm việc bình thường.Anh Thắng là nhân viên của công ty trên và trong tháng 5/2022 vừa qua anh đã được trả lương là 10400000. Hỏi anh đã làm việc bao nhiêu ngày tăng ca? (biết số ngày làm việc bình thường trong tháng 5 của anh là 20 ngày)",
+    
+    "Một doanh nghiệp vận tải dự định sẽ chở 40 tấn gạo trong một ngày để phân phối đến các đại lý từ một kho hàng lương thực. Nhưng trên thực tế, doanh nghiệp vận tải đã chở được vượt mức 25%, vì vậy mà đã thực hiện sớm hơn 4 ngày so với dự định. Hỏi ban đầu trong kho có bao nhiêu tấn gạo?",
+    
+    "Một người đi siêu thị mua 2 món hàng. Món thứ nhất có giá niêm yết 4 triệu. Nhưng đúng vào đợt khuyến mãi nên món hàng thứ nhất được giảm 10%, còn món hàng thứ hai được giảm 8% nên người đó phải trả 6,36 triệu đồng. Hỏi giá niêm yết của món hàng thứ hai là bao nhiêu?",
+    
+    "Để chuẩn bị cho buổi liên hoan cuối năm của lớp 9A, giáo viên chủ nhiệm đưa cho lớp trưởng 1,5 triệu đồng để đi mua 45 cái bánh ngọt cho lớp. Hôm đó tiệm bánh có chương trình khuyến mãi, từ cái bánh thứ 16 mỗi cái bánh được giảm 5% giá niêm yết. Sau khi trả tiền bánh thì lớp trưởng đưa lại cho giáo viên chủ nhiệm 195 000đồng tiền thừa. Hỏi giá niêm yết của một cái bánh là bao nhiêu?",
+    
+    "Nhân dịp tết nguyên đán năm 2023, một trường THCS tổ chức hội thi Văn nghệ cho toàn trường, được chia làm 2 bảng, bảng A: khối 6, 7 và bảng B: khối 8, 9. Cơ cấu giải thưởng ở 2 bảng là như nhau. Biết số tiền thưởng giải II ít hơn giải 1 là 20%, số tiền thưởng giải III ít hơn giải II là 70 000 đồng và hai giải khuyến khích mỗi giải bằng số tiền của giải nhất, tổng số tiền phát thưởng ở cả 2 bảng là 1 840 000 đồng. Hỏi số tiền mỗi giải thưởng là bao nhiêu?",
+    
+    "Một xe máy đi từ A đến B với vận tốc 30km/h. Sau đó 1 giờ 30 phút xe ôtô khởi hành đi từ B về A với vận tốc 35km/h. Sau bao lâu tính từ lúc x máy xuất phát thì hai xe gặp nhau? Biết đoạn đường từ A đến B dài 175km",
+    
+    "Hai xe máy khởi hành cùng lúc từ A đến B. Xe thứ nhất chạy với vận tốc 32km/h, xe thứ hai chạy với vận tốc lớn hơn xe thứ nhất 8km/h. Trên đường đi xe thứ hai dừng lại nghỉ 45 phút rồi lại tiếp tục chạy với vận tốc cũ. Tính quãng đường AB biết hai xe đến B cùng một lúc.",
+    
+    "Một vé xem phim có giá 60 000 đồng. Khi có đợt giảm giá, mỗi ngày số lượng người xem tăng lên 50%, do đó doanh thu cũng tăng 25%. Hỏi giá vé khi được giảm là bao nhiêu",
+    
+    "Anh Tú là sinh viên đại học. Anh dành một số buổi tối để đi làm thêm công việc phục vụ tại một quán nước, mỗi buổi được trả 150 000 đồng. Do tháng này có dịp Tết đông khách nên anh Tú làm tăng thêm 6 buổi với tiền được trả mỗi buổi gấp 150% so với ngày thường. Ngoài ra, mỗi buổi làm anh còn được hỗ trợ thêm 20000 đồng tiền ăn được tính gộp trong tiền lương trả cuối tháng. Hỏi tháng vừa qua anh Tú đã làm bao nhiêu buổi biết anh nhận được tiền lương tất cả là 3 170 000 đồng?",
+    
+    "Bạn Hưng làm việc tại nhà hàng nọ, bạn ấy được trả 2 triệu đồng cho 40 giờ làm việc tại quán trong một tuần. Mỗi giờ làm thêm trong tuần bạn được trả bằng 3/2 số tiền mà mỗi giờ bạn ấy kiếm được trong 40 giờ đầu. Nếu trong tuần đó bạn Hưng được trả 2,3 triệu đồng thì bạn ấy đã phải làm thêm bao nhiêu giờ ?"
+    
+    
+    ]
+
+
+}

@@ -1,0 +1,633 @@
+
+Bài 31. Hai phân xưởng của một nhà máy theo kế hoạch phải làm tổng cộng 300 dụng cụ. Nhưng khi thực hiện phân xưởng I vượt mức 10% kế hoạch của mình; phân xưởng II vượt mức 20% kế hoạch của mình, do đó cả hai phân xưởng đã làm được 340 dụng cụ. Tính số dụng cụ mỗi phân xưởng 
+phải làm theo kế hoạch.
+
+Bài 32. Hai đội công nhân dệt may cần sản xuất một số lượng khẩu trang theo đơn đặt hàng . Nếu làm chung thì sau 4 giờ họ sẽ làm xong. Nhưng hai đội mới làm chung được 3 giờ thì đội 1 nghỉ , đội 2 tiếp tục làm trong 3 giờ nữa mới xong . Hỏi mỗi đội nếu làm một mình thì phải bao lâu mới xong công việc ?
+
+Bài 33. Đầu năm, hai công ty chế biến nông sản tỉnh Bình Thuận dự định xuất khẩu 1010 tấn thanh long. Nhưng do thực tế dịch bệnh Covid 19 
+diễn biến phức tạp tại Trung Quốc nên sản lượng xuất khẩu thanh long của công ty thứ nhất giảm 15%, công ty thứ hai giảm 10%. Vì vậy, cả hai công ty chỉ xuất khẩu được 900 tấn thanh long. Hỏi theo dự định, mỗi công ty xuất khẩu được bao nhiêu tấn thanh long?
+
+Bài 34. Giải bài toán bằng cách lập phương trình hoặc hệ phương trình: Một xí nghiệp theo kế hoạch phải lắp ráp 800 chiếc máy tính. Nếu một ngày lắp ráp thêm 10 máy tính thì không những hoàn thành sớm hơn 1 ngày so với kế hoạch mà còn lắp ráp thêm 10 máy tính . Tính số máy tính lắp ráp mỗi ngày theo kế hoạch ?
+
+Bài 35. Theo kế hoạch hai tổ phải sản xuất 720 sản phẩm. Nhưng do ảnh hưởng của dich Covid- 19 nên tổ một bị giảm mức 18%, tổ hai giảm mức 20% so với kế hoạch do đó cả hai tổ chỉ sản xuất được 582 sản phẩm. Tính số sản phẩm mỗi tổ phải làm theo kế hoạch.
+
+Bài 36. Hai đội xe có tổng số 55 chiếc, được giao nhiệm vụ vận chuyển 675 tấn hàng từ thiện để giúp đỡ các địa phương bị ảnh hưởng bởi dịch COVID-19. Biết mỗi xe của đội I phải chở 15 tấn hàng, mỗi xe của đội II phải chở 10 tấn hàng. Tính số xe của mỗi đội.
+
+Bài 37. Một phân xưởng theo kế hoạch phải dệt 3000 tấm vải để làm khẩu trang phục vụ các đơn vị tuyến đầu chống dịch. Trong 8 ngày đầu họ 
+đã thực hiện được đúng kế hoạch, những ngày còn lại do nhu cầu cung cấp tăng lên họ đã dệt vượt mức mỗi ngày 10 tấm, nên đã hoàn thành kế 
+hoạch trước 2 ngày. Hỏi theo kế hoạch mỗi ngày phân xưởng phải dệt bao nhiêu tấm vải?
+
+Bài 38. Thực hiện kế hoạch “Mùa hè xanh” lớp 9A được phân công trồng 420 cây. Lớp dự định chia đều số cây trồng cho mỗi học sinh trong lớp. Nhưng đến giờ trồng cây, có 5 bạn vắng, vì vậy mỗi bạn phải trồng thêm 2 cây nữa so với dự định. Hỏi số học sinh của lớp 9A?
+
+Bài 40. Một địa phương cấy 10ha giống lúa loại I và 8ha giống lúa loại II. Sau một mùa vụ, địa phương đó thu hoạch và tính toán sản lượng 
+thấy: +Tổng sản lượng của hai giống lúa thu về là 139 tấn. + Sản lượng thu về từ 4ha giống lúa loại I nhiều hơn sản lượng thu về từ 3ha giống lúa loại II là 6 tấn. Hãy tính năng suất lúa trung bình (đơn vị: tấn/ ha) của mỗi loại giống lúa.
+
+Bài 41. Người ta nuôi cá trong một bể xây, mặt bể là hình chữ nhật chiều dài 60 m, chiều rộng 40m. Trên mỗi đơn vị diện tích mặt bể người 
+ta thả 12 con cá giống, đến mỗi kỳ thu hoạch, trung bình mỗi con cá cân nặng 240g. Khi bán khoảng 30000 đồng/kg và thấy lãi qua kỳ thu hoạch này là 100 triệu. Hỏi vốn mua cá giống và các chi phí trong đợt này chiếm bao nhiêu phần trăm so với giá bán (làm tròn 1 chữ số thập phân)
+
+Bài 1. Ở một trường Trung học cơ sở, tuổi trung bình của các giáo viên nữ trong trường là 36, tuổi trung bình của các giáo viên nam trong 
+trường là 40. Tính tuổi trung bình của các giáo viên nam và các giáo viên nữ biết rằng số giáo viên nữ gấp ba lần số giáo viên nam ?      
+
+Bài 1. Nhà may A sản xuất một lô áo gồm 200 chiếc áo với giá vốn là 30 000 000(đồng) và giá bán mỗi chiếc áo sẽ là 300 000 (đồng). Khi đó 
+gọi K(đồng) là số tiền lời (hoặc lỗ) của nhà may thu được khi bán t chiếc áo. a)Thiết lập hàm số của K theo t. b)Hỏi cần phải bán bao nhiêu chiếc áo mới có thể thu hồi được vốn ban đầu? c)Để lời được 6 000 000 đồng thì cần phải bán bao nhiêu chiếc áo?
+
+Bài 2. Một nhà may A sản xuất một lô áo là 500 chiếc áo với tổng số vốn ban đầu là 30 triệu đồng và giá bán ra mỗi chiếc áo là 200 000 đồng. Khi đó gọi K (đồng) là số tiền lời (hoặc lỗ) của nhà may A thu được khi bán t chiếc áo. a)Thiết lập hàm số của K theo t. b)Hỏi phải bán được ít nhất bao nhiêu chiếc áo thì nhà may bắt đầu có lời?
+
+Bài 3. Đề 110 Tại cửa hàng, giá niêm yết của một cái áo là 300 000 đồng. Nếu bán với giá bằng ba phần tư giá niêm yết thì cửa hàng lãi 25% so với giá gốc. Hỏi để lãi 40% thì cửa hàng phải niêm yết giá một cái áo là bao nhiêu?.
+
+Bài 4. Đề 110 Một vật có khối lượng 279 g và có thể tích 37 ml là hợp kim của sắt và kẽm. Tính xem trong đó có bao nhiêu gam sắt và bao nhiêu gam kẽm? Biết khối lượng riêng của sắt là 7800 kg/m3 và khối lượng riêng của kẽm là 7000 kg/m3.
+
+Bài 5. Thực hiện chương trình khuyến mãi “Ngày chủ nhật vàng”, một cửa hàng điện máy giảm giá 50% trên 1 tivi cho lô hàng tivi 40 cái với 
+giá bán lẻ trước đó là 6500000đ/cái. Đến trưa cùng ngày thì cửa hàng đã bán được 20 cái và cửa hàng quyết định giảm thêm 10% nữa (của giá 
+đã giảm lần 1) cho số tivi còn lại. a)Tính số tiền mà cửa hàng thu được khi bán hết lô hàng tivi. b)Biết rằng giá vốn là 2.850.000 đ/cái tivi. Hỏi cửa hàng lời hay lỗ khi bán hết lô hàng tivi đó.
+
+Bài 6. Siêu thị AEON MALL Bình Tân thực hiện chương trình giảm giá cho khách hàng mua loại nước rửa chén Sunlight trà xanh loại 4,5 lít như sau: Nếu mua 1 can giảm 8.000 đồng so với giá niêm yết. Nếu mua 2 can thì can thứ nhất giảm 8.000 đồng và can thứ hai giảm 15.000 đồng so với giá niêm yết. Nếu mua từ ba can trở lên thì ngoài hai can đầu được hưởng chương trình giảm giá như trên, từ can thứ 3 trở đi mỗi can sẽ được giảm giá 20% so với giá niêm yết. Ông A mua 5 can nước rửa chén Sunlight trà xanh loại 4,5 lít ở Siêu thị AEON MALL Bình Tân thì 
+phải trả bao nhiêu tiền, biết giá niêm yết là 115.000 đồng/can.
+
+Bài 7. Giá bán của một chiếc tivi giảm giá hai lần, mỗi lần giảm 10% so với giá đang bán , sau khi giảm giá hai lần thì giá còn lại là 16 
+000 000 đồng. Vậy giá bán ban đầu của chiếc tivi là bao nhiêu ?
+
+Bài 8. Thực hiện chương tŕnh khuyến mãi tri ân khách hàng, một siêu thị điện máy khuyến mãi giảm giá 15% trên 1 chiếc ti vi. Sau đó để thu hút khách hàng, siêu thị lại giảm thêm 10% nữa (so với giá đă giảm lần 1) nên giá bán của chiếc ti vi lúc này là 11 475 000 đồng. a) Hỏi 
+giá bán ban đầu của 1 chiếc ti vi nếu không khuyến mãi là bao nhiêu. b) Biết rằng giá vốn là 10 500 000 đồng / chiếc tivi. Hỏi nếu bán hết 20 chiếc ti vi trong đợt khuyến mãi thứ 2 th́ì siêu thị lời bao nhiêu tiền?
+
+Bài 9. Ông Tư dự định mua một trong hai loại xe máy như sau. Loại 1: Giá 23 triệu đồng, lượng xăng tiêu thụ là 60 km/lít. Loại 2: Giá 26,5 triệu đồng, lượng xăng tiêu thụ là 64 km/lít Giá trung bình mỗi lít xăng là 23 ngàn đồng. Ông tư dự định mua xe máy và mỗi năm ông đi khoảng 7525 km. a) Gọi T (triệu đồng) là chi phí của xe theo thời gian t (tính theo năm). Lập hàm số của T theo t của hai loại xe trên. b) Với thời gian đi 10 năm thì nên chọn xe nào tiết kiệm hơn (Làm tròn đến hàng đơn vị)
+
+Bài 10. Bác Tư mua 1 con heo và 1 con bò. Sau 1 thời gian, do heo mất giá nên ông bán giá 8 triệu đồng và bị lỗ 20% nhưng may mắn ông gỡ lại thiệt hại nhờ con bò lên giá nên ông bán với giá 18 triệu đồng và lời20%. Hỏi sau khi bán con heo và con bò ông lời hay lỗ bao nhiêu tiền ?
+
+Bài 11. Nhân dịp Lễ giỗ tổ Hùng Vương , một siêu thị điện máy đã giảm giá nhiều mặt hàng để kích cầu mua sắm. Giá niêm yết một tủ lạnh và 
+một máy giặt có tổng số tiền là 25,4triệu đồng nhưng trong dịp này giá một tủ lạnh giảm 40% giá bán và giá một máy giặt giảm 25% giá bán nên cô Liên đã mua hai món đồ trên với tổng số tiền là 16,77 triệu đồng. Hỏi giá mỗi món đồ trên khi chưa giảm giá là bao nhiêu tiền ?     
+
+Bài 12. Cửa hàng đồng giá 40 000đồng một món có chương trình giảm giá 20% cho một món hàng và nếu khách hàng mua 5 món trở lên thì từ món 
+thứ 5 trở đi khách hàng chỉ phải trả 60%giá đang bán. a)Tính số tiền một khách hàng phải trả khi mua 7 món hàng. b)Nếu có khách hàng đã trả 272 000đồng thì khách hàng này đã mua bao nhiêu món hàng ?
+
+Bài 13. Thực hiện chương trình khuyến mãi “Ngày Chủ Nhật Vàng”, một cửa hàng điện máy X tổ chức bán hàng giảm giá cho tất cả các sản phẩm 
+điện máy. Một chiếc ti vi được niêm yết giá bán là 12 150 000 đồng, biết rằng giá bán này đã được siêu thị giảm giá 2 lần mỗi lần 10%. Hỏi giá bán chiếc tivi đó của siêu thị khi chưa giảm giá là bao nhiêu?
+
+Bài 14. Một đợt bán xe đạp ở cửa hàng sau khi giảm giá lần đầu là 10% và lần thứ hai là 5% thì bây giờ đã tăng 8% trở lại. Biết giá giảm hay tăng giá được tính dựa theo giá đang bán. Hiện tại giá mỗi chiếc xe đạp là 7387200 (đồng). Tính giá gốc ban đầu khi chưa tăng giảm của 
+đợt bán xe đạp này.
+
+Bài 15. Để khuyến khích tiết kiệm điện, giá điện sinh hoạt được tính theo kiểu lũy tiến, nghĩa là nếu người sử dụng càng dùng nhiều điện thì giá mỗi số điện ( 1kWh) càng tăng lên theo các mức như sau: Mức thứ nhất: Tính cho 100 số điện đầu tiền; Mức thứ hai: Tính cho số điện 
+thứ 101 đến 150, mỗi số đắt hơn 150 đồng so với mức thứ nhất; Mức thứ ba: Tính cho số điện thứ 151 đến 200, mỗi số đắt hơn 200 đồng so với mức thứ hai; v.v… Ngoài ra, người sử dụng còn phải trả thêm 10% thuế giá trị gia tăng (thuế VAT). Tháng vừa qua, nhà Tuấn dùng hết 165 số điện và phải trả 95700 đồng. Hỏi mỗi số điện ở mức thứ nhất giá là bao nhiêu?
+
+Bài 16. Bác Bình gửi tiết kiệm 100 triệu đồng vào ngân hàng A, kì hạn một năm. Cùng ngày, bác gửi tiết kiệm 150 triệu đồng vào ngân hàng B, kì hạn một năm, với lãi suất cao hơn lãi suất của ngân hàng A là 1%/năm. Biết sau đúng một năm kể từ ngày gửi tiền. Bác Bình nhận được tổng sổ tiền lãi là 16,5 triệu đồng từ hai khoản tiền gửi tiết kiệm nêu trên. Hỏi lãi suất tiền gửi tiết kiệm kì hạn một năm của ngân hàng 
+A là bao nhiêu phần trăm?
+
+Bài 17. Nhân dịp tựu trường, cửa hàng sách A thực hiện chương trình giảm giá cho học sinh khi mua các loại sách bài tập, sách giáo khoa, sách tham khảo,… Chương trình áp dụng với bộ sách bài tập môn Toán lớp 9 (trọn bộ bao gồm 5 quyển) như sau: Nếu mua quyển tập 1 thì được giảm 5% so với giá niêm yết. Nếu mua2tập đầu thì quyển tập 1 được giảm 5% còn quyển tập 2được giảm 10 % so với giá niêm yết. Nếu mua trọn bộ 5quyển thì ngoài hai quyển đầu được giảm giá như trên, từ quyển tập 3 trở đi mỗi quyển sẽ được giảm 20 % so với giá niêm yết. a) Bạn Bình mua trọn bộ 5 quyển sách bài tập Toán lớp 9 ở cửa hàng sách A thì phải trả số tiền là bao nhiêu, biết rằng mỗi quyển sách bài tập Toán lớp 9 có giá niêm yết là 30 000 đồng. b) Cửa hàng sách B áp dụng hình thức giảm giá khác cho loại sách bài tập Toán lớp 9 nêu trên là: nếu mua từ 3 quyển trở lên thì sẽ giảm giá 5 000 đồng cho mỗi quyển. Nếu bạn Bình mua trọn bộ 5 quyển sách bài tập Toán lớp 9 thì bạn Bình nên 
+mua ở cửa hàng sách nào để số tiền phải trả ít hơn? Biết rằng giá niêm yết của hai cửa hàng sách là như nhau.
+
+Bài 18. Đầu năm 2018, anh Nghĩa mua lại một chiếc máy tính xách tay cũ đã sử dụng qua 2 năm với giá là21 400 000đồng. Cuối năm 2019, sau khi sử dụng được thêm 2 năm nữa, anh Nghĩa mang chiếc máy tính đó ra cửa hàng để bán lại. Cửa hàng thông báo mua lại máy với giá chỉ còn 17 000 000 đồng. Anh Nghĩa thắc mắc về sự chênh lệch giữa giá mua và giá bán nên được nhân viên cửa hàng giải thích về mối liên hệ giữa giá 
+trị của một chiếc máy tính xách tay với thời gian nó được sử dụng. Mối liên hệ đó được thể hiện dưới dạng một hàm số bậc nhất: y =ax+b có 
+đồ thị như sau: a)Xác định các hệ số a và b. b) Xác định giá ban đầu của chiếc máy tính xách tay nêu trên khi chưa qua sử dụng.
+
+Bài 20. Cho Một gia đình (hộ A) kết nối mạng Internet. Cước phí hằng tháng được tính theo công thức sau: T =500a+45000 . Trong công thức T là số tiền phải trả hàng tháng, a (tính bằng giờ) là thời gian truy cập Internet trong 1 tháng. a)Hãy tính số tiền hộ A phải trả nếu sử dụng 50 giờ trong tháng. b)Qua tháng sau hộ A phải trả 65000đ. Vậy hộ A đã sử dụng bao nhiêu giờ cho dịch vụ Internet?
+
+Bài 21. Thực hiện chương trình khuyến mãi “Ngày Chủ nhật vàng”, một cừa hàng điện máy giảm giá 50% trên 1 ti vi cho lô hàng ti vi gồm có 40 cái, giá bán lẻ trước đó là 6500000 đồng/cái. Đến trưa cùng ngày thì cửa hàng đã bán được 20 cái và cừa hàng quyết định giảm thêm 10% nữa (so với giá đã giảm lần 1) cho số ti vi còn lại. a)Số tiền mà cửa hàng đó thu được khi đã bán hết lô hàng ti vi. b)Biết rằng giá vốn là 
+2850000 đồng/cái ti vi. Hỏi cửa hàng lời hay lỗ khi bán hết lô hàng ti vi đó?
+
+Bài 22. Siêu thị thực hiện chương trình giảm giá cho khách hàng mua loại nước rửa chén Sunlight loại 4,5 lít như sau: Nếu mua 1 can giảm 8000 đồng so với giá niêm yết. Nếu mua 2 can thì can thứ nhất giảm 8000 đồng và can thứ hai giảm 15000 đồng so với giá niêm yết. Nếu mua từ ba can trở lên thì ngoài hai can đầu được hưởng chương trình giảm giá như trên, từ can thứ 3 trở đi mỗi can sẽ được giảm giá 20% so với giá niêm yết. Ông A mua 5 can nước rửa chén Sunlight loại 4,5 lít ở Siêu thị thì phải trả bao nhiêu tiền, biết giá niêm yết là 115000 đồng/can.
+
+Bài 23. Nhằm động viên, khen thưởng các em đạt danh hiệu “Học sinh giỏi cấp thành phố” năm học 2018-2019, trường THCS A tổ chức chuyến tham quan ngoại khóa tại một điểm du lịch với mức giá ban đầu là 375.000 đồng/người. Biết công ty du lịch giảm 10% chi phí cho mỗi giáo viên 
+và giảm 30% chi phí cho mỗi học sinh. Số học sinh tham gia gấp 4 lần số giáo viên và tổng chi phí tham quan (sau khi giảm giá) là 12.487.500 đồng. Tính số giáo viên và số học sinh đã tham gia chuyến đi.
+
+Bài 24. Cho Vào ngày “Black Friday” giá bán 1 bộ máy vi tính được giảm 10%. Nếu mua online thì được giảm tiếp 5% trên giá đã giảm. a)Bình 
+mua online 1 bộ máy vi tính với giá niêm yết là 15000000đồng (đã bao gồm thuế VAT) vào ngày trên thì phải trả bao nhiêu tiền? b)Cùng lúc đó, Bình mua thêm đĩa cài đặt phần mềm diệt virus ABCbản quyền 1 năm và phải trả tất cả là 13081500đồng. Hỏi đĩa cài đặt phần mềm diệt virus ABC giá niêm yết là bao nhiêu? (Kết quả làm tròn đến chữ số hàng ngàn).
+
+Bài 25. Một món đồ có giá là 120000 đồng. Người ta giảm giá món đồ hai đợt, mỗi đợt đều giảm giá làm%. Sau hai đợt giảm giá, giá của món đồ là 76800đồng. Hỏi mỗi đợt giảm giá là bao nhiêu phần trăm?
+
+Bài 26. Nhân dịp World Cup 2018 một cửa hàng thể thao đồng loạt giảm giá toàn bộ sản phẩm trong cửa hàng. Một áo thể thao giảm 10% một quần thể thao giảm 20%, một đôi giày thể thao giảm 30%. Đặc biệt nếu mua đủ bộ bao gồm 1 quần, 1áo, 1 đôi giày thì sẽ được giảm tiếp 5% (tính theo giá trị của 3 mặt hàng trên sau khi giảm giá). Bạn An vào cửa hàng mua 3 áo giá 300000 VNĐ/ cái, 2 quần giá 250000/ cái, 1 đôi giày 
+giá 1000000VNĐ/ đôi (giá trên là giá chưa giảm). Vậy số tiền bạn An phải trả là bao nhiêu ?
+
+Bài 28. Giá cước dịch vụ GrabBike tại Thành phố Hồ Chí Minh từ tháng 2/2019 là: trong 2km đầu tiên có giá 12000đồng; mỗi km tiếp theo có giá là 3400 đồng. Tuy nhiên, nhà cung cấp dịch vụ này sẽ cộng thêm cả cước thời gian (sau 2km đầu tiên) với mức cước 300đồng/phút. Gọi A (đồng) là tổng giá cước, S (km) là quãng đường đi được, t (phút) là thời gian đi hết quãng đường, giả sử tài xế di chuyển 2 km đầu tiên mất 
+6 phút . Như vậy mối quan hệ giữa tổng giá cước và thời gian theo công thức sau: A=12000+( S –2) .3400+( t –6) .300 a) Bạn An đi dịch vụ Grabike với quãng đường 10 km trong 30 phút thì bạn An sẽ trả bao nhiêu tiền? b) Bạn An đi dịch vụ Grabike với quãng đường 12,5km và trả số tiền là 120000đ. Hỏi bạn An mất bao nhiêu thời gian? (kết quả giá tiền làm tròn đến chữ số hàng ngàn, thời gian làm tròn đến phút)       
+
+Bài 29. Trong tháng đầu hai tổ làm được 800 sản phẩm. Sang tháng thứ hai, tổ I vượt mức 15%, tổ II vượt mức 20% so với tháng đầu, do đó tháng thứ hai cả hai tổ làm được 945 sản phẩm. Hỏi tháng đầu, mỗi tổ làm được bao nhiêu sản phẩm?
+
+Bài 30. Nhân dịp Quốc tế Phụ nữ 8/3 bạn Hồng dự định đi siêu thị mua tặng mẹ một cái máy sấy tóc và một cái bàn ủi với tổng giá tiền là 720 nghìn đồng. Vì lễ nên siêu thị giảm giá, mỗi máy sấy tóc giảm 10%, mỗi bàn ủi giảm 20% nên Hồng chỉ phải trả 602 nghìn đồng. Hỏi giá tiền ban đầu (khi chưa trả giá) của mỗi máy sấy tóc, bàn ủi là bao nhiêu?
+
+Bài 32. Một công ty du lịch dự định tổ chức một tour du lịch xuyên Việt nhân kỉ niệm ngày giải phóng hoàn toàn miền Nam 30−4. Công ty dự định nếu giá tour là 2 triệu đồng thì sẽ có khoảng 150 người tham gia. Để kích thích mọi người tham gia, công ty sẽ quyết định giảm giá và 
+cứ mỗi lần giảm giá tour 100 nghìn đồng thì sẽ có thêm 20 người tham gia. Hỏi công ty phải giảm giá tour là bao nhiêu để doanh thu từ tour xuyên Việt là lớn nhất.
+
+Bài 33. Một vé xem phim có giá 60000 đồng. Khi có đợt giảm giá, mỗi ngày số lượng người xem tăng lên 50%, do đó doanh thu cũng tăng 25%. Hỏi giá vé khi được giảm là bao nhiêu?
+
+Bài 34. Một cửa hàng thời trang nhập về 100 áo với giá vốn 300000 đồng/ 1 áo. Đợt một, cửa hàng bán hết 80 áo. Nhân dịp khuyến mãi, để bán hết phần còn lại, cửa hàng đã giảm giá 30% so với giá niêm yết ở đợt một. Biết rằng sau khi bán hết số áo của đợt nhập hàng này thì cửa hàng lãi 12300000 đồng. a)Tính tổng số tiền cửa hàng thu về khi bán hết 100 áo ? b)Hỏi vào dịp khuyến mãi cửa hàng đó bán một chiếc áo giá 
+bao nhiêu tiền ?
+
+Bài 35. Một người thuê nhà với giá 3 000 000 đồng/tháng và người đó phải trả tiền dịch vụ giới thiệu là 1 000 000 đồng (Tiền dịch vụ chỉ trả 1 lần). Gọi x (tháng) là khoảng thời gian người đó thuê nhà, y (đồng) là số tiền người đó phải tốn khi thuê nhà trong x tháng. a)Em hãy tìm một hệ thức liên hệ giữa y và x? b)Tính số tiền người đó phải tốn sau khi ở 2 tháng, 6 tháng?
+
+Bài 36. Trong một xưởng sản xuất đồ gia dụng có tổng cộng 900 thùng hàng và mỗi ngày nhân viên sẽ lấy30 thùng hàng để đi phân phối cho các đại lí. a)Gọi T là số thùng hàng còn lại trong xưởng sau n ngày. Hãy lập hàm số T theo n. b) Biết một thùng hàng có giá trị là 2triệu đồng và mỗi chuyến xe vận chuyển 30thùng hàng trong mỗi ngày sẽ tốn 2,5triệu đồng. Hỏi sau khi bán hết tất cả thùng hàng thì xưởng sẽ lời bao nhiêu tiền ?
+
+Bài 37. Nhân dịp đội tuyển Việt Nam có thành tích tốt tại vòng loại World cup 2022 Châu Á, một cửa hàng thể thao đồng loạt giảm giá toàn bộ sản phẩm trong cửa hàng. Một áo thể thao giảm 10%, một quần thể thao giảm 20%, một đôi giày thể thao giảm 30% . Đặc biệt nếu mua đủ bộ bao gồm 1 quần, 1 áo, 1 đôi giày thì sẽ được giảm tiếp 5% (tính theo giá trị của 3 mặt hàng trên sau khi giảm giá). Bạn Quang Hải vào cửa hàng mua 3 áo giá 300000 VNĐ/cái, 2 quần giá 250000/ cái, 1 đôi giày giá 1000000 VNĐ/đôi (giá trên là giá chưa giảm). Vậy số tiền bạn Hải phải trả là bao nhiêu?
+
+Bài 38. Xe máy Honda Future Vành Đúc – Đèn Led 2018 có giá niêm yết là 31540000 đồng. Năm 2019, cửa hàng đã giảm giá xe này lần 1. Năm 2020, cửa hàng giảm thêm lần nữa trên giá đã giảm với phần trăm bằng lần 1 và Anh Hai chỉ phải trả số tiền 28464850 đồng khi mua xe này. Hỏi 
+cửa hàng đã giảm giá xe này bao nhiêu phần trăm cho mỗi đợt ?
+
+Bài 40. Một cơ sở sản xuất banh da dự định sản xuất 1 000 trái banh có đường kính 3dm. Biết 1m2 da giá 200 000 đồng, tiền công và tiền vật liệu khác là 50 000 đồng. Hỏi khi người ta bán lẻ một trái banh là 200 000 đồng thì người ta thu được lãi là bao nhiêu phần trăm so với giá vốn? (Cho π=3,14.)
+
+Bài 41. Bạn Kim dự định đem vừa đủ số tiền để mua 40quyển tập tại nhà sách Nguyễn Tri Phương. Tuy nhiên, hôm nay nhà sách có chương trình 
+khuyến mãi đầu năm giảm giá 20% mỗi quyển tập. Hỏi với số tiền bạn Kim đem có thể mua được tất cả bao nhiêu quyển tập?
+
+Bài 42. Nhân dịp Tết nguyên đán, cửa hàng thể thao đồng loạt giảm giá toàn bộ sản phẩm trong cửa hàng. Một áo thể thao giảm 10%, một quần 
+thể thao giảm 20%, một đôi giày thể thao giảm 30%. Đặc biệt nếu mua đủ bộ bao gồm 1 quần, 1áo, 1đôi giày thì sẽ được giảm tiếp 5%(tính theo giá trị của 3 mặt hàng trên sau khi giảm giá). Bạn An vào cửa hàng mua 3 áo giá 300000 VNĐ/cái, 2 quần giá 250000/cái, 1 đôi giày giá 1000000 VNĐ/ đôi (giá trên là giá chưa giảm). Vậy số tiền bạn An phải trả là bao nhiêu?
+
+Bài 43. Bà Hai đi chợ mua 23 trái táo và lê hết 206 000 đồng. Biết giá một trái táo là 10 000 đồng, giá một quả lê là 8 000 đồng. Hỏi bà Hai đã mua bao nhiêu trái táo, bao nhiêu trái lê?
+
+Bài 44. Trong kho hàng có tất cả 800 tấn hàng và mỗi ngày người ta đến kho lấy đi 30tấn hàng. a)Hãy viết hàm số biểu thị số hàng còn lại trong kho. b)Hỏi sau mấy ngày thì trong kho còn 260 tấn hàng.
+
+Bài 45. Một nông trại có tổng số Gà và Vịt là 6000con, sau khi bán đi 1600con Gà và 800con Vịt thì số Vịt còn lại bằng 80% số Gà. Hỏi sau 
+khi bán, nông trại còn lại bao nhiêu con Gà? Bao nhiêu con Vịt?
+
+Bài 46. Thực hiện chương trình khuyến mãi “ngày chủ nhật vàng” một cửa hàng điện máy giảm giá 50% cho lô hàng ti vi gồm có 40 cái với giá 
+bán lẻ trước đó là 6500 000đồng một cái ti vi. Đến trưa cùng ngày thì cửa hàng bán được 20 cái ti vi và cửa hàng quyết định giảm thêm 10% 
+nữa (so với giá đã giảm lần 1) cho số ti vi còn lại. a)Tính số tiền mà cửa hàng thu được khi bán hết lô hàng ti vi. b)Biết rằng giá vốn là 2850000đồng/cái ti vi. Hỏi cửa hàng lời hay lỗ khi bán hết lô hàng ti vi đó.
+
+Bài 47. Một cửa hàng niêm yết giá bán ghế như sau: Đơn giá (chưa tính thuế giá trị gia tăng) Mua từ cái thứ 1 đến cái thứ 3 350 000đồng/ cái Mua từ cái thứ 4 đến cái thứ 5 330 000đồng/ cái Mua từ cái thứ 6 trở lên 300 000đồng/ cái Cô Hoa muốn mua 20chiếc ghế. Tính số tiền cô 
+phải trả là bao nhiêu? (Biết khi tính tiền cô phải trả thêm thuế VAT là 8%).
+
+Bài 48. Một cửa hàng điện máy đợt Noel giảm 1 5% trên giá bán tivi. Đến ngày tết Âm lịch, cửa hàng tiếp tục giảm 10% so với đợt 1 nên giá 
+của một chiếc tivi chỉ còn 7650000 đồng. Hỏi giá ban đầu của một chiếc tivi là bao nhiêu?
+
+Bài 50. Một vé xem phim có giá 80000 đồng. Khi có đợt giảm giá, mỗi ngày số người xem tăng lên 600 so với lúc chưa giảm giá, do đó doanh thu cũng tăng 200 so với lúc chưa giảm 0 0 giá. Hỏi giá vé khi được giảm là bao nhiêu?
+
+Bài 51. Cửa hàng A nhập về một số sản phẩm và dự định bán mỗi sản phẩm với giá 280000 đồng để đạt được lợi nhuận 40%. Sau khi bán được một phần ba số sản phẩm, cửa hàng nhận thấy sản phẩm bán không chạy nên quyết định giảm giá bán mỗi sản phẩm để đạt lợi nhuận trên toàn bộ sản phẩm là 20%. Hỏi cửa hàng A bán mỗi sản phẩm còn lại với giá bao nhiêu?
+
+Bài 52. Mộtngười mua hai loại hàng và phải trả tổng cộng 2,17 triệu đồng kể cả thuế giá trị gia tăng (VAT) với mức 10% đối với loại hàng thứ nhất và 8% đối với loại hàng thứ hai. Nếu áp thuế VAT 9% cho cả 2loại hàng thì người đó phải trả tổng cộng 2,18 triệu đồng. Hỏi giá tiền mỗi loại hàng là bao nhiêu khi chưa tính thuế VAT?
+
+Bài 53. Công ty Viễn thông A cung cấp dịch vụ Internet với mức phí ban đầu là 400000đồng và phí hàng tháng là 50000 đồng. Công ty Viễn thông B cung cấp dịch vụ Internet không tính phí ban đầu nhưng phí hàng tháng là 90000 đồng. a)Viết hai hàm số biểu thị mức tính phí khi sử dụng Internet của hai công ty Viễn thông A và công ty Viễn thông B? b)Hỏi gia đình ông C sử dụng Internet trên mấy tháng thì chọn dịch vụ bên công ty Viễn thông A có lợi hơn?
+
+Bài 54. Hôm qua mẹ của bạn Hồng qua tiệm tạp hóa gần nhà mua 20quả trứng gồm 10quả trứng gà và 10 quả trứng vịt hết 45000đồng. Hôm nay mẹ 
+của bạn Hồng cũng qua tiệm tạp hóa gần nhà mua 20quả trứng gồm 15quả trứng gà và 5quả trứng vịt chỉ hết 42500đồng mà giá trứng thì vẫn như cũ. Hỏi nếu ngày mai mẹ bạn Hồng nhờ bạn Hồng qua tiệm tạp hóa trên mua 30 quả trứng gồm 20quả trứng gà và 10quả trứng vịt thì mẹ bạn Hồng phải đưa cho bạn Hồng số tiền vừa đủ là bao nhiêu biết giá trứng không thay đổi?
+
+Bài 55. Một quyển sách Toán ôn Tuyển sinh 10 có giá bìa 30 000đồng, đang được giảm giá 5%; một quyển sách Văn ôn Tuyển sinh 10 có giá bìa 
+40 000đồng, đang được giàm giá 10%.Trong thời gian giảm giá, nhà sách đó bán được tất cả 120 quyển sách Văn và Toán ôn Tuyển sinh 10, thu 
+được về số tiền là 3 795 000đồng. Hỏi: nhà sách đó đã bán được bao nhiêu quyển sách Văn, bao nhiêu quyển sách Toán ôn Tuyển sinh 10?      
+
+Bài 56. Trong đợt khuyến mãi chào năm học mới, nhà sách A thực hiện chương trình giảm giá cho khách hàng như sau: -Khi mua tập loại 96 trang do công ty Bsản xuất thì mỗi quyển tập được giảm 10% so với giá niêm yết. - Khi mua bộ I đúng 10 quyển tập loại 96 trang đóng gói sẵn hoặc bộ II đúng 20 quyển tập loại 96 trang đóng gói sẵn do công ty Csản xuất thì mỗi quyển tập bộ I được giảm 10% so với giá niêm yết, còn 
+mỗi quyển tập bộ II được giảm 15% so với giá niêm yết. Khách hàng mua lẻ từng quyển tập loại 96 trang do công ty Csản xuất thì không được 
+giảm giá. Biết giá niêm yết của 1 quyển tập 96 trang do hai công ty B và công ty Csản xuất đều có giá là 8000 đồng. a) Bạn Hùng vào nhà sách A mua đúng 10 quyển tập loại 96 trang đóng gói sẵn (bộ I) do công ty Csản xuất thì bạn Hùng phải trả số tiền là bao nhiêu? b) Mẹ bạn Lan vào nhà sách A mua 25 quyển tập loại 96 trang thì nên mua tập do công ty nào sản xuất để số tiền phải trả là ít hơn? (mua tất cả tập của cùng một công ty)
+
+Bài 57. Một buổi sinh hoạt ngoại khóa có 40 học sinh tham dự, trong đó nam nhiều hơn nữ. Trong giờ giải lao, mỗi bạn nam mua một ly nước giá 5000 đồng/ly, mỗi bạn nữ mua một bánh ngọt giá 8000 đồng/cái. Các bạn đưa 260 000 đồng và được căn – tin thối lại 3 000 đồng. Hỏi lớp có bao nhiêu học sinh nam và bao nhiêu học sinh nữ?
+
+Bài 58. Một cửa hàng điện máy thực hiện giảm giá 10% trên 1 ti vi cho lo hàng gồm 40 chiếc với giá bán lẻ trước đó là 6500000đ/chiếc.Đến trưa cùng ngày thì cửa hàng bán được 20 chiếc, khi đó cửa hàng quyết định giảm giá thêm 10% nữa so với giá đang bán. a) Tính số tiền cửa hàng thu được khi bán hết lô hàng ti vi b) Biết rằng giá vốn là 30500000đ/chiếc. Hỏi của hàng có lời hay lỗ khi bán hết lô hàng trên.       
+
+Bài 1. Có hai lọ thủy tinh hình trụ, lọ thứ nhất phía bên trong có đường kính đáy là 30cm, chiều cao 20cm, đựng đầy nước. Lọ thứ hai bên trong có đường kính đáy là 40cm, chiều cao 12cm. Hỏi nếu đổ hết nước từ trong lọ thứ nhất sang lọ thứ hai nước có bị tràn ra ngoài không ? 
+Tại sao ? (Lấy π≈3,14)
+
+Bài 2. Một chiếc xô hình nón cụt làm bằng tôn để đựng ( ) ( ) nước. Các bán kính đáy là 14 cm và 9 cm , ( ) chiều cao là 23 cm . Tính dung tích của xô.
+
+Bài 3. Một hình nón có bán kính đáy bằng 5cm và diện tích xung quanh là 65πcm2. Tính thể tích của hình nón đó.
+
+Bài 4. Đo chiều cao từ mặt đất đến đỉnh cột cờ của cột cờ Hà Nội (Kỳ đài Hà Nội), người ta cắm hai cọc bằng nhau MA và NB cao 1 m so với mặt đất. Hai cọc này song song, cách nhau 10 m và thẳng hàng so với tim cột cờ (như hình vẽ). Đặt giác kế đứng tại A và B để ngắm đến đỉnh 
+cột cờ, người ta đo được các góc lần lượt là 50019'12''và 43016' so với đường song song mặt đất. Hãy tính chiều cao của cột cờ ( làm tròn 
+đến chữ số thập phân thứ hai ).
+
+Bài 5. Có hai lọ thủy tinh hình trụ, lọ thứ nhất phía bên trong có đường kính đáy là 30 cm, chiều cao 20 cm, đựng đầy nước. Lọ thứ hai bên trong có đường kính đáy là 40 cm, chiều cao 12 cm. Hỏi nếu đổ hết nước từ trong lọ thứ nhất sang lọ thứ hai nước có bị tràn ra ngoài không? Tại sao? (Lấy 3,14).
+
+Bài 6. Một bồn nước inox có dạng một hình trụ với chiều cao là 1,65m và diện tích đáy là 0,42 m2. Hỏi bồn nước này đựng đầy được bao nhiêu mét khối nước? (Bỏ qua bề dày của bồn nước).
+
+Bài 7. Tính diện tích tôn cần thiết để làm một cái thùng hình trụ có chiều cao là 80(cm) và đáy có diện tích là 5024 ( cm2) (không tính diện tích các chỗ mối ghép và nắp thùng). Lấy π=3,14.
+
+Bài 8. Một chiếc xô bằng tôn dạng hình nón cụt. Các bán kính đáy là 12 cm và 8 cm, chiều cao là 24 cm. Tính diện tích tôn để làm xô (không kể diện tích các chỗ ghép và xô không có nắp).
+
+Bài 9. Bạn Toán đi mua giúp bố cây lăn sơn ở cửa hàng nhà bác Học. Một cây lăn sơn tường có dạng một khối trụ với bán kính đáy là 5 cm và 
+chiều cao là 23 cm (hình vẽ bên). Nhà 1000 sản xuất cho biết sau khi lăn vòng thì cây sơn tường có thể bị hỏng. Hỏi bạn Toán cần mua ít nhất mấy cây lăn sơn tường biết diện tích tường mà bố bạn Toán cần sơn là 100 m2. (Cho π=3,14)
+
+Bài 10. Một tháp nước có bể chứa là một hình cầu, đường kính bên trong của bể đo được là 6 mét. Người ta dự tính lượng nước đựng đầy trong bể đủ dùng cho một khu dân cư trong 5 ngày. Cho biết khu dân cư đó có 1304 người. Hỏi người ta đã dự tính mức bình quân mỗi người dùng bao nhiêu lít nước trong một ngày? (Lấy π≈3,14, kết quả làm tròn đến chữ số thập phân thứ nhất)
+
+Bài 11. Tính diện tích tôn cần thiết để làm một cái thùng hình trụ có chiều cao là 80(cm) và đáy có diện tích là 5024 ( cm2) (không tính diện tích các chỗ mối ghép và nắp thùng). Lấy π=3,14.
+
+Bài 12. Một chai dung dịch rửa tay khô hình trụ cao 12cm, đường kính đáy bằng 5cm. Tính thể tích chai dung dịch đó.
+
+Bài 13. Một lon coca chiều cao là 11,7cm; bán kính đáy bằng 3cm. Hỏi 3 lon coca như vậy có đổ đầy một chai 1 lít không? (lấy π≈3,14 và làm tròn kết quả đến chữ số thập phân thứ nhất )
+
+Bài 14. Nón Huế là một hình nón có đường kính đáy bằng 40cm, độ dài đường sinh là 30cm. Người ta lát mặt xung quanh hình nón bằng ba lớp lá khô. Tính diện tích lá cần dùng đề tạo nên một chiếc nón Huế như vậy (làm tròn cm2)
+
+Bài 15. Chiến nón do làng Chuông (Thanh Oai – Hà Nội) sản xuất là hình nón có đường sinh bằng 30cm, đường kính bằng 40cm. Người ta dùng hai lớp lá để phủ lên bề mặt xung quanh của nón.
+
+Bài 16. Một tàu đánh cá khi ra khơi cần mang theo 50 thùng dầu, mỗi thùng dầu coi là hình trụ có chiều cao là 90cm, đường kính đáy thùng là 60cm. Hãy tính xem lượng dầu tàu phải mang theo khi ra khơi là bao nhiêu lít (lấy π=3,14 kết quả làm tròn đến hàng đơn vị)?
+
+Bài 17. Người ta làm một thùng chứa nước dạng hình trụ không có nắp bằng tôn. Diện tích tôn tối thiểu cần để làm thùng đó bằng 5πm2 với π≈3,14. Tính thể tích của thùng đó biết chiều cao của thùng bằng đường kính đáy (làm tròn đến hai chữ số thập phân).
+
+Bài 19. Lon nước ngọt hình trụ có đường kính đáy là 5 cm, chiều cao là 12 cm. Tính thể tích lon nước ngọt? (làm tròn kết quả đến chữ số thập phân thứ 2 và lấy π≈3,14)
+
+Bài 20. Một bồn nước inox có dạng hình hộp chữ nhật có chiều dài 1,5m, chiều rộng 1,2m, chiều cao 1,4m. Hỏi bồn nước đựng đầy được bao nhiêu mét khối nước? (Bỏ qua bề dày của bồn nước).
+
+Bài 21. Một chiếc cốc hình trụ có đường kính đáy là 10 cm, chiều cao bằng đường kính đáy. 5 Tính thể tích của chiếc cốc đó.
+
+Bài 22. Một téc nước hình trụ mà phía trong có đường kính đáy là 0,6m chiều cao 1m. Tính thể tích nước chứa đầy trong 45 téc như vậy.     
+
+Bài 23. Một lon nước ngọt hình trụ có đường kính đáy là 5 cm, độ dài trục là 12cm. Tính diện tích toàn phần của lon nước hình trụ đó.     
+
+Bài 24. Dùng 1 mảnh vải hình tròn để phủ lên 1 chiếc bàn tròn có diện tích 1849π( cm2) , sao cho khăn rủ xuống khỏi mép bàn 20cm(không tính phần viền mép khăn). Tính diện tích phần khăn rủ xuống khỏi mép bàn?
+
+Bài 25. Nhân ngày 8/3, Hoa định mua một chiếc nón lá để tặng cô Anna - cô giáo dạy tiếng Anh. Chiếc nón có dạng hình nón với đường kính của đáy là 40cm, chiều cao của nón là 20cm. Hãy tính được diện tích lá cần dùng để phủ kín một lớp lên bề mặt của chiếc nón?
+
+Bài 27. Một viên bi sắt hình cầu có bán kính bằng 5cm, tính thể tích của viên bi đó.( Kết quả làm tròn đến 2 chữ số thập phân ) (Lấy π ≈3,14).
+
+Bài 28. Cần phải có ít nhất bao nhiêu lít nước để thay nước cho một chậu thủy tinh nuôi cá cảnh? (Chậu nước được xem như một phần mặt cầu 
+đường kính 3dm). 2 Biết lượng nước đổ vào chiếm thể tích hình cầu và 1 lít =1dm3. 3
+
+Bài 29. Cho hình vuông ABCD có cạnh là 30cm. Trên cạnh AB lấy hai điểm E, G sao cho AE =GB= x( cm) và điểm E nằm giữa điểm A và điểm G. Qua E kẻ đường thẳng vuông góc với AB cắt CD tại F ; qua G kẻ đường thẳng vuông góc với ABcắt CD tại H . Người ta gập hình vuông theo hai cạnh EF và GH sao cho cạnh AD trùng cạnh BC như hình vẽ để tạo thành hình lăng trụ đứng khuyết đáy. Tìm x để thể tích hình lăng trụ lớn nhất.
+
+Bài 30. Một chiếc cốc thủy tinh hình trụ có đường kính đáy là 6 cm, chiều cao 12 cm. Tính lượng nước chứa được khi rót nước đầy cốc.      
+
+Bài 31. Từ một sợi dây thép dài 8dm, người ta uốn thành một hình chữ nhật. Trong các hình chữ nhật có thể uốn được thành hình nào có diện 
+tích lớn nhất?
+
+Bài 32. Một thùng hình hộp chữ nhật có chiều dài là 0,5m; chiều rộng là 0,4m; chiều cao là 3dm. Hỏi cần phải mua bao nhiêu lít dầu để đổ đầy thùng?
+
+Bài 33. Để do chiều cao của một ngọn tháp, không thể trèo lên đỉnh, người ta dùng thươc dài, thước đo góc và đèn laser để thực hiện thao tác đó thu được kết quả như hình vẽ. Hãy tính chiều cao của tháp.
+
+Bài 34. Đặt quả bóng vào trong một hộp hình lập phương sao cho quả bóng tiếp xúc với các mặt của hình lập phương đó. Hãy tính đường kính d của quả bóng, biết thể tích hình khối lập phươngV =4096 cm3
+
+Bài 35. Công ty sữa muốn thiết kế bao bì đựng sữa với thể tích 100ml. Bao bì được thiết kế bởi một trong hai mô hình là: Hình hộp chữ nhật có đáy là hình vuông hoặc hình trụ. Hỏi thiết kế theo mô hình nào thì tiết kiệm nguyên vật liệu nhất?
+
+Bài 36. Một hộp sữa hình trụ có bán kính đáy là 4cm, chiều cao là 10cm. Tính diện tích vật liệu dùng để tạo nên một vỏ hộp hộp sữa đó nếu 
+tỉ lệ hao hụt là 5%?
+
+Bài 37. Một hộp sữa hình trụ có đường kính đáy là12 cm, chiều cao là10 cm. Tính diện tích vật liệu dùng để tạo nên vỏ hộp như vậy. (Không 
+tính phần mép nối).
+
+Bài 38. Tính diện tích da dùng để làm quả bóng hình cầu nếu không tính đến tỉ lệ hao hụt. Biết khi bơm căng thì quả bóng có đường kính là 
+14 cm.
+
+Bài 40. Một thửa ruộng hình chữ nhật có chu vi là 250mvà diện tích là 3750m2. Tính chiều dài và chiều rộng của thửa ruộng đó.
+
+Bài 41. Người ta nhấn chìm hoàn toàn một tượng đá nhỏ vào một lọ thủy tinh có dạng hình trụ. Diện tích đáy lọ thủy tinh là 21,6cm2. Nước trong lọ dâng lên 9,5mm. Hỏi thể tích của tượng đá là bao nhiêu?
+
+Bài 43. Một bồn hình trụ đang chứa dầu, được đặt nằm ngang, có chiều dài bồn là 5m, có bán kính đáy 1m, với nắp bồn đặt trên mặt nằm ngang của mặt trụ. Người ta đã rút dầu trong bồn tương ứng với 0,5m của đường kính đáy. Tính thể tích gần đúng nhất của khối dầu còn lại trong 
+bồn (lấy π≈3,14, kết quả làm tròn đến chữ số thập phân thứ hai, theo đơn vị m3) Mặt đáy được minh họa như hình vẽ sau: C A B H O
+
+Bài 44. Một hình trụ có bán kính đường tròn đáy là 6 cm, chiều cao 9 cm. Hãy tính diện tích xung quanh của hình trụ.
+
+Bài 45. Một bể nước hình trụ có chiều cao 2,5 m và diện tích đáy là 4,8 m2. Nếu một vòi nước được đặt phía trên miệng bể và chảy được 4800 lít nước mỗi giờ thì sau bao lâu bể đầy ? (Biết ban đầu bể cạn nước và bỏ qua bề dày của thành bể).
+
+Bài 46. Một cây lăn sơn tường có dạng là một khối trụ với bán kính đáy là 5cm và chiều cao (chiều dài lăn) là 30 cm. Nhà sản xuất cho biết sau khi lăn 500 vòng thì cây sơn tường có thể sẽ bị hỏng. Tính diện tích mà cây sơn tường sơn được trước khi hỏng.
+
+Bài 47. Một hình nón có bán kính đáy bằng 5cm và diện tích xung quanh là 65πcm2. Tính thể tích của khối nón đó.
+
+Bài 48. Một chiếc cốc có dạng hình trụ với chiều cao 8cm, bán kính đáy là 3cm. Hỏi chiếc cốc này có đựng được 180ml sữa không? (Bỏ qua bề 
+dày của chiếc cốc).
+
+Bài 49. Một hộp phomai con bò cười gồm có 8miếng, độ dày mỗi miếng là 20mm, nếu xếp chúng lại trên một đĩa thì thành hình trụ có đường kính 100mm. a)Tính thể tích của miếng phomai. b) Biết khối lượng của mỗi miếng phomai là 15g, hãy tính trọng lượng riêng của nó? (làm tròn kết quả đến hàng đơn vị) P (Biết trọng lượng riêng của vật cho bởi công thức d = . Trong đó trọng lượng của vật V là P =9,8.m, đơn vị N ,với m là khối lượng vật đơn vị kg; V là thể tích vật, đơn vị m3; d có đơn vị N /m3).
+
+Bài 50. Một hồ bơi có dạng là một lăng trụ đứng tứ giác với chiều dài đáy là hình thang vuông (mặt bên (1) của hồ bơi là 1 đáy của lăng trụ) và các kích thước như đã cho (xem 6m 0,5m hình vẽ). Biết rằng người ta dùng một máy bơm với lưu (1) lượng là 42 m3 /phút và sẽ bơm đầy 
+hồ mất 25phút. 3m Tính chiều dài của hồ.
+
+Bài 51. Một cái bánh hình trụ có bán kính đường tròn đáy là 3cm, chiều cao 4cm được đặt thẳng đứng trên mặt bàn. Một phần của cái bánh bị 
+cắt rời ra theo các bán kính OA, OB và theo chiều thẳng đứng từ trên xuống dưới với  AOB=300. Tính thể tích phần còn lại của cái bánh sau khi cắt.
+
+Bài 52. Trong một buổi luyện tập, một tàu ngầm ở trên mặt biển bắt đầu lặn xuống và di chuyển theo một đường thẳng tạo với mặt nước biển một góc 210. (Hình 30) a) Khi tàu chuyển động theo hướng đó và đi được 250m thì tàu ở độ sâu bao nhiêu so với mặt nước (làm tròn đến hàng đơn vị). b) Giả sử tốc độ trung bình của tàu là 9km/h thì sau bao lâu (tính từ lúc bắt đầu lặn) tàu ở độ sâu 200 mét (cách mặt nước biển 200m) (làm tròn đến phút).
+
+Bài 53. Một xô đựng nước có dạng hình nón cụt. Đáy xô có đường kính là 28cm, miệng xô là đáy lớn của hình nón cụt có đường kính là 36cm. Hỏi xô có thể chứa bao nhiêu lít nước nếu chiều cao của xô là 32cm? (làm tròn đến hàng đơn vị và lấy π =3,14)
+
+Bài 54. Một xe bồn chở nước sạch cho một khu chung cư có 200 hộ dân. Mỗi đầu của bồn chứa nước là 2 nửa hình cầu (có kích thước như hình vẽ). Bồn chứa đầy nước và lượng nước chia đều cho từng hộ dân. Tính xem mỗi hộ dân nhận được bao nhiêu lít nước sạch? (làm tròn đến chữ số 
+thập phân thứ hai, lấy π=3,14). 3,62 m 1,8m
+
+Bài 55. Một bình hình trụ có đường kính đáy 1dm, chiều cao 2dm bên trong có chứa viên bi hình cầu có bán kính 4cm. Hỏi phải đổ vào bình bao nhiêu lít nước để nước đầy bình (làm tròn đến chữ số thập phân thứ nhất). Cho biết: V =π.r2h với r là bán kính đáy; h là chiều cao hình 
+trụ. Tru 4 V = πR3 với R là bán kính hình cầu CÇu 3
+
+Bài 56. Một chiếc cầu dài 40 mét bắc qua một con kênh được thiết kế kiểu mái vòm là một cung tròn (như hình vẽ) có chiều cao từ mặt cầu đến đỉnh vòm là 3 mét. Tính bán kính của đường tròn chứa cung tròn của vòm cầu (làm tròn đến chữ số thập phân thứ hai). M A B Chú thích: K : Độ dài của chiếc cầu; O : Chiều cao từ mặt cầu đến đỉnh vòm cầu; là đường tròn chứa vòm cầu N
+
+Bài 57. Một mẫu pho mát được cắt ra từ một khối pho mát dạng hình trụ (có các kích thước như trên hình vẽ). Tính theo gam khối lượng của mẫu pho mát biết khối lượng riêng của pho mát là 3g /cm3.
+
+Bài 58. Để giúp xe lửa chuyển từ một đường ray từ hướng này sang một đường ray theo hướng khác, người ta làm xen giữa một đoạn đường ray hình vòng cung (hình 3.7). Biết chiều rộng của đường ray là AB=1,1m, đoạn BC =28,4m. Hãy tính bán kính OA= Rcủa đoạn đường ray hình vòng cung.
+
+Bài 59. Một vườn có hình chữ nhật ABCD có AB =40m, AD=30m. Người ta muốn buộc hai con dê ở hai góc vườn A, B. Có hai cách buộc (hình 4.2) 
+Cách 1 : Mỗi dây dây thừng dài 20m. Cách 2 : Một dây thừng dài 30m và dây thừng kia dài 10m. Hỏi với cách buộc nào thì diện tích cỏ mà hai con dê có thể ăn được sẽ lớn hơn ?
+
+Bài 60. Một cái mũ bằng vải của nhà ảo thuật với kích thước như hình vẽ. Hãy tính tổng diện tích vải cần để làm cái mũ đó biết rằng vành mũ hình tròn và ống mũ hình trụ (làm tròn đến hàng đơn vị).
+
+Bài 61. Đài phun nước ở Công viên Hồ Khánh Hội, TP HCM vừa khánh thành vào ngày 31/08/2019. Đài phun nước có dạng đường tròn (gọi là đường tròn tâm O) và được thiết kế theo hình dáng những cánh hoa đan xen nhau, bên dưới là hệ thống phun nước với nhiều độ cao khác nhau kết hợp với hệ thống chiếu sáng và âm nhạc cùng các mảng cây xanh tạo không gian đô thị vui tươi, sinh động. ( ) Một học sinh vẽ tam giác đều ABC ngoại tiếp đường tròn O và tính được diện tích tam giác đều là 1200m2. Bạn hãy tính bán kính và chu vi của đường tròn ( O) . ∗ (Kết quả 
+làm tròn một chữ số thập phân và π = 3,14). A O B H C
+
+Bài 63. Một khu đất trồng hoa lúc đầu hình chữ nhật có chiều dài 6,6 (m), người trồng hoa muốn mở rộng thêm về phía chiều rộng một hình vuông có cạnh x (m) để được khu đất có diện tích 34 (m2). Tìm chu vi của khu đất trồng hoa lúc sau? 6,6 (m) x (m) x (m)
+
+Bài 64. Một hộp thực phẩm có hình trụ. Biết diện tích của đáy là 60,24 cm2. a)Hãy tính bán kính của đường tròn đáy của hình trụ. Biết π≈3,14. b)Biết chiều cao của hình trụ là 5cm. Hãy tính thể tích của hộp thực phẩm.
+
+Bài 65. Một nhà xưởng với số liệu ghi trên hình (biết h là chiều cao từ mặt đất tới nóc nhà). Tính chiều cao h của nhà. Làm tròn kết quả đến chữ số thập phân thứ nhất. 150 100 150 100 4m h 4m h 24m 20m 20m
+
+Bài 66. Một trường THCS ở thành phố chuẩn bị xây dựng một hồ bơi cho học sinh với kích thước như sau : chiều rộng là 6 m, chiều dài 12,5 m, chiều sâu 2 m. Sức chứa trung bình 0,5 m2/ người (Tính theo diện tích mặt đáy). Thiết kế như hình vẽ sau a)Hồ bơi có sức chứa tối đa bao nhiêu người? b)Tính thể tích của hồ bơi ? Lúc này người ta đổ vào trong đó 120000 lít nước. Tính khoảng cách của mực nước so với mặt hồ ? (1 m3 = 1000lít)
+
+Bài 67. Để tạo một mô hình kim tự tháp (hình chóp tứ giác đều) từ tấm bìa, bạn Hạ cắt theo hình bên (ở giữa là hình vuông cạnh 4 dm, các tam giác bên ngoài là tam giác cân có chiều cao 3 dm) rồi gấp 4 tam giác lại chung đỉnh. Hãy tính thể tích của mô hình được tạo thành ở trên (làm tròn đến 1 chữ số thập phân) S 3dm 4dm gấp các tam giác lại D A B C
+
+Bài 68. Bác Năm mới mua miếng đất hình vuông có diện tích 3600 m2 . Bác tính làm hàng rào bằng dây kẽm gai hết tất cả 5000000 đồng, bao gồm cả chi phí dây kẽm và tiền công làm. Gọi x là giá mỗi mét dây kẽm ( x>0) , y là số tiền công làm hàng rào. a)Hãy viết hàm số tính công làm hàng rào. b) Hỏi bác Năm phải trả bao nhiêu tiền công để thợ rào hết hàng rào. Biết rằng giá mỗi mét dây kém là 15000 đồng.
+
+Bài 69. Một mảnh vườn hình chữ nhật có chiều dài AB =240m ; chiều rộng BC =100 m người ta muốn dựng một hàng rào bằng thanh tre theo đường chéo AC để chia mảnh vườn thành hai phần bằng nhau (một phần trồng chuối, một phần trồng rau). Biết rằng đường kính của mỗi thanh tre là 
+5cm .Hỏi phải dùng bao nhiêu thanh tre để dựng hàng rào trên ?
+
+Bài 70. Tính lượng vải cần mua để tạo ra nón của chú hề với các số liệu trong hình bên. Biết rằng tỉ lệ vải khâu (may) hao (tốn) khi may nón là 15%. Cho biết π≈3,14.
+
+Bài 72. Một cốc nước hình trụ cao 15cm, đường kính đáy là 6cm. Lượng nước ban đầu cao 10cm. Thả vào cốc 5 viên bi hình cầu cùng đường kính 2cm. Hỏi sau khi thả 5 viên bi mực nước cách miệng cốc bao nhiêu cm? (Làm tròn lấy 2 chữ số thập phân).
+
+Bài 74. Khi thả chìm hoàn toàn tượng một con ngựa nhỏ bằng đá vào một ly nước có dạng hình trụ thì người ta thấy nước trong ly dâng lên 1,5cm và không tràn ra ngoài. Biết diện tích đáy của ly nước bằng 80 cm2. Hỏi thể tích của tượng ngựa đá bằng bao nhiêu?
+
+Bài 75. Một chiếc camera có thể tự xoay quanh trục của nó và tầm chiếu tối đa của nó là 5m. Hãy tính diện tích mà camera có thể quan sát được nếu nó tự quay quanh trục của bản thân với góc quay là 120°.
+
+Bài 76. Một khúc sông rộng khoảng 250m. Một chiếc đò chèo qua sông bị dòng nước đẩy lệch đi một góc 40°. Hỏi con đò phải đi thêm bao nhiêu mét nữa so với dự định ban đầu để qua được khúc sông ấy?
+
+Bài 77. Trên một khúc sông với hai bờ song song với nhau, có một chiếc đò dự định chèo qua sông từ vị trí A ở bờ bên này sang vị trí B ở bờ bên kia, đường thẳng AB vuông góc với các bờ sông. Do bị dòng nước đẩy xiên nên chiếc đò đã cập bờ bên kia tại vị tri C cách B một khoảng bằng 30m. Biết khúc sông rộng 150m. Hỏi dòng nước đã đẩy chiếc đò lệch đi một góc có số đo bằng bao nhiêu? (kết quả làm tròn đến giây). 
+
+Bài 80. Ở hai quầy hàng A và B trong hội hoa xuân, người ta bán hai loại bắp rang bơ lần lượt được đựng trong hai loại hộp hình nón và hình trụ với thông tin về giá cả và định lượng như trong hình dưới đây. Vỏ hộp được làm bằng giấy, phần này nhận được tài trợ của công ty giấy, nên cả hai quầy không tốn chi phí làm vỏ hộp. Hỏi bạn H nên mua bắp rang bơ ở quầy A hay quầy B để bạn có lợi hơn? Tại sao?
+
+Bài 81. Tính hai cạnh góc vuông của một tam giác vuông có cạnh huyền đo được 185m. Biết ( ) rằng nếu giảm mỗi cạnh góc vuông 4m thì diện tích tam giác giảm 506 m2 .
+
+Bài 82. Hình lập phương có thể tích là 125m3. a)Tính độ dài d là độ dài đường chéo một mặt của hình lập phương. b)Tính độ dài D là độ dài 
+đường chéo của hình lập phương.
+
+Bài 83. Máy kéo nông nghiệp có hai bánh sau to hơn hai bánh trước. Khi bơm căng, bánh xe sau có đường kính là 1,672m và bánh xe trước có đường kính là 88cm. Hỏi khi bánh xe sau lăn được 10 vòng thì bánh xe trước lăn được mấy vòng?
+
+Bài 84. Các ống hút nhựa thường khó phân hủy và gây hại cho môi trường. Mỗi ngày có 60 triệu ống hút thải ra môi trường gây hậu quả nghiêm trọng. Ngày nay người ta chủ động sản xuất các loại ống hút dễ phân hủy. Tại tỉnh Đồng Tháp có cơ sở chuyên sản xuất ống hút “thân thiện 
+với môi trường” xuất khẩu ra thị trường thế giới và được nhiều nước ưa chuộng. Ống hút được làm từ bột gạo, các màu chiết xuất từ củ dền, 
+lá dứa, bông sen, bông điên điển,…Một ống hút hình trụ, đường kính 12mm, bề dày ống 2mm, chiều dài ống 180mm. Em hãy tính xem để sản xuất 
+mỗi ống thì thể tích bột gạo được sử dụng là bao nhiêu (Biếπ≈3,14)
+
+Bài 85. Hiệp định Genève 1954 về chấm dứt chiến tranh ở Đông Dương đã chọn vĩ tuyến 17° Bắc, dọc sông Bến Hải – tỉnh Quảng Trị làm khu vực phi quân sự, phân định giới tuyến Bắc – Nam tạm thời cho Việt Nam. Và dòng sông Bến Hải chạy dọc vĩ tuyến 17 này đã thành nơi chia cắt đất nước trong suốt hơn 20 năm chiến tranh Việt Nam. Em hãy tính độ dài mỗi vòng kinh tuyến và độ dài cung kinh tuyến từ vĩ tuyến 17 đến xích đạo. Biết bán kính trái đất là 6400 km.
+
+Bài 86 . Hải đăng Đá Lát là một trong 7 ngọn Hải đăng cao nhất Việt Nam, được đặt trên đảo Đá Lát ở vị trí cực Tây Quần đảo, thuộc xã đảo 
+Trường Sa, huyện Trường Sa, tỉnh Khánh Hòa. Ngọn hải đăng được xây dựng năm 1994, cao 42 mét, có tác dụng chỉ vị trí đảo, giúp tàu thuyền 
+hoạt động trong vùng biển Trường Sa định hướng và xác định được vị trí mình. Một người đi trên tàu đánh cá muốn đến ngọn hải đăng Đá Lát, 
+người đó đứng trên mũi tàu cá và dùng giác kế đo được góc giữa mũi tàu và tia nắng chiếu từ đỉnh ngọn hải đăng đến tàu là 10° a) Tính khoảng cách từ tàu đến ngọn hải đăng. (làm tròn đến 1 chữ số thập phân) b) Biết cứ đi 10 m thì tàu đó hao tốn hết 0,02 lít dầu. Hỏi tàu đó để 
+đi đến ngọn hải đăng
+
+Bài 86. Liễn nuôi cá được xem như một phần của mặt cầu. Lượng 2 nước đổ vào liễn chiếm thể tích của hình cầu. Hỏi cần phải có ít 3 nhất bao nhiêu lít nước để thay nước ở liễn nuôi cá cảnh. Biết rằng đường kính của liễn là 22cm (Kết quả làm tròn đến chữ số thập phân thứ 2)    
+
+Bài 87. Tính thể tích không khí km3 trong tầng đối lưu của trái đất biết rằng bán kính trái đất là khoảng 6371 km và tầng đối lưu được tính từ mặt đất cho đến khoảng 10 km so với mặt đất.( làm tròn đến km3)?
+
+Bài 88. Một bình chứa nước hình hộp chữ nhật có diện tích đáy là 20dm2 và chiều cao 3dm 3dm. Người ta rót hết nước trong bình ra những chai nhỏ mỗi chai có thể tích là 0,35dm3 được tất cả 72 chai. Hỏi lượng nước có trong bình chiếm bao nhiêu phần trăm thể tích bình?
+
+Bài 91 .Bạn đang tìm kiếm 1 món đồ mà mọi người nhìn vào biết ngay bạn là một Ảo thuật gia thực sự? Đó là một chiếc nón bằng vải nỉ được may theo phong cách cao bồi. Chiếc mũ ảo thuật này chính là sản phẩm mà bất kỳ các nhà ảo thuật gia nào cũng đều đội khi biểu diễn. Ảo thuật gia gỡ chiếc nón xuống và bắt đầu tạo nên phép màu. Đầu tiên chiếc nón huyền bí bắn ra một loạt bông tuyết với một tiếng nổ lớn. Sau tiếng nổ là một ngọn lửa bốc cháy dữ dội từ bên trong chiếc mũ, và điều đặc biệt nhất chính là từ trong ngọn lửa, chú chim bồ câu xuất hiện một cách thật là thần kỳ. Không chỉ thế bạn còn có thể lấy ra thỏ, chim hoặc 1 số vật dụng bạn yêu thích. Đặc biệt chiếc mũ này còn là một 
+đạo cụ thích hợp cho những ai diễn sân khấu. Một chiếc mũ bằng vải của nhà ảo thuật với kích thước như hình vẽ. Hãy tính tổng diện tích vải cần để làm cái mũ đó. Biết rằng vành mũ hình tròn và ống mũ hình trụ.
+
+Bài 92. Một cái bánh hình trụ có bán kính đường tròn đáy là 5cm, chiều cao 9cm, được đặt thẳng đứng trên một mặt bàn. Một phần của cái bánh đã bị cắt rời ra theo các bán kính OA, OB và theo chiều thẳng đứng từ trên xuống với góc AOB bằng 600như hình vẽ. Tính thể tích phần còn lại của cái bánh sau khi bị cắt.
+
+Bài 93. Một người làm vườn trồng 2mảnh vườn hình chữ nhật ở hai khu vực riêng biệt. Mảnh vườn đầu tiên có diện tích 600m2 và chiều dài 40m. Mảnh vườn thứ hai có chiều rộng gấp hai lần chiều rộng mảnh vườn đầu tiên, nhưng diện tích chỉ bằng một nửa diện tích mảnh vườn thứ nhất.Tính xem mảnh vườn nào có chu vi lớn hơn và lớn hơn bao nhiêu mét?
+
+Bài 94. Từ một khúc gỗ hình trụ cao 15 cm, người ta tiện thành một hình nón có đáy là hình tròn bằng với đáy hình trụ, chiều cao của hình 
+nón bằng chiều cao của hình trụ. Biết phần gỗ bỏ đi có thể tích là 3610π (cho biết π≈3,14). Công thức tính thể tích hình trụ : 1 V =πR2h, 
+thể tích hình nón: V = πR2h (với R là bán kính đáy, h là chiều cao khúc 3 gỗ). Tính thể tích khúc gỗ hình trụ, (làm tròn tới hàng đơn vị).
+
+Bài 95. Con robot của bạn An được lập trình có thể đi thẳng, quay trái hoặc sang phải một góc 90o . Trong cuộc thi “Phát động tài năng”, con robot của bạn An xuất phát từ điểm Ađi thẳng 4m, rồi quay sang trái đi thẳng 3m, sau đó quay sang phải rồi đi thẳng 4m, rồi tiếp tục quay sang trái đi thẳng 3m đến B. Hãy tính khoảng cách AB.
+
+Bài 96. Một cái tháp được dựng bên bờ một con sông, từ một điểm đối diện với tháp ngay bờ bên kia người ta nhìn thấy đỉnh tháp với góc nâng 60°. Từ một điểm khác cách điểm ban đầu 20 m người ta cũng nhìn thấy đỉnh tháp với góc nâng 30° (Hình minh họa). Tính chiều cao của tháp và bề rộng của sông.
+
+Bài 97. Cho hình chữ nhật có chiều dài 8cm, chiều rộng ngắn hơn đường chéo 4cm. Tính diện tích hình chữ nhật.
+
+Bài 98. Một bể kính nuôi cá có dạng hình hộp chữ nhật có chiều dài 100cm, chiều rộng 50cm, 3 chiều cao 60cm. Mực nước trong bể cao bằng chiều cao bể. Tính thể tích nước trong 4 bể đó. (độ dày kính không đáng kể). Công thức tính thể tích nước trong bể làV =S.h với S là diện tích mặt đáy bể và h là chiều cao mực nước trong bể.
+
+Bài 101. Tính lượng vải cần mua để tạo ra nón của chú hề với các số liệutrong hình bên. Biết rằng tỉ lệ vải khâu (may) hao (tốn) khi may nón là 15%.Cho biết π=3,14
+
+Bài 102. Nước giải khát thường đựng trong lon nhôm và cỡ lon phổ biến chứa được khoảng 330ml chất lỏng, được thiết kế hình trụ với chiều cao khoảng 10,2cm (phần chứa chất lỏng), đường kính đáy khoảng 6,42cm. Nhưng hiện nay các nhà sản xuất có xu hướng tạo ra những lon nhôm với kiểu dáng cao thon hơn. Tuy chi phí sản xuất những chiếc lon cao này tốn kém hơn, nhưng nó lại dễ đánh lừa thị giác và được người tiêu dùng ưa chuộng hơn. a/ Một lon nước ngọt cao 13,41cm (phần chứa chất lỏng), đường kính đáy là 5,6cm. Hỏi lon nước ngọt cao này có thể chứa 
+được hết lượng nước ngọt của một lon có cỡ phổ biến không ? Vì sao ? (Biết thể tích hình trụ: V =πr2h, với π≈3,14). b/ Vì sao chi phí sản 
+xuất chiếc lon cao tốn kém hơn chiếc lon cỡ phổ biến ? Biết diện tích xung quanh, diện tích toàn phần hình trụ được tính theo công thức: S =2πrh và S =S +2S . xq tp xq ñaùy
+
+Bài 104. Tính lượng vải cần mua để tạo ra cái nón của chú Hề trong hình bên. Biết rằng nón chỉ may một lớp vải và tỉ lệ khấu hao vải khi may nón là 20%.
+
+Bài 105. Thùng phuy (hay thùng phi) là một vận dụng hình ống dùng để chứa và chuyên chở chất lỏng với dung tích lớn. Mỗi thùng phuy có đường kính nắp và đáy là584mm, chiều cao là 876mm. Hãy tính diện tích xung quanh, diện tích toàn phần và thể tích của một thùng phuy? (Biết công thức tính diện tích xung quanh làS =2πrh, xq diện tích toàn phần là S =S +2S và thể tích hình trụ là tp xq đáy V =πr2h, với π≈3,14).  
+
+Bài 106. Hai chiếc thuyền khởi hành tại cùng một vị trí A đi thẳng theo hai hướng tạo với nhau một góc 300 hỏi sau 2 giờ hai thuyền cách nhau bao xa, biết thuyền B chạy với vận tốc 50 km/h, thuyền C chạy với vận tốc60 km/h.(kết quả làm tròn đến 1 số thập phân) A B C
+
+Bài 108. Tính chiều cao của một ngọn núi cho biết tại hai điểm cách nhau 1 km trên mặt đất ta nhìn thấy đỉnh núi với góc nâng lần lượt là 
+40o và32o. This image cannot currently be displayed. (Đề thi thử số 48 – Tuyển sinh vào 10 TP Hồ Chí Minh)
+
+Bài 109. Một người đo chiều cao của một cây nhờ một cọc chôn xuống đất, cọc cao 2m và đặt xa cây 15m. Sau khi người ấy lùi ra xa cách cọc 
+0,8m thì nhìn thấy đầu cọc và đỉnh cây cùng nằm trên một đường thẳng. Hỏi cây cao bao nhiêu, biết rằng khoảng cách từ chân đến mắt người ấy là 1,6m?
+
+Bài 110. Tính lượng vải cần mua để tạo ra chiếc nón của chú hề có các kích thước như hình bên (làm tròn kết quả đến chữ số thập phân thứ nhất).Biết phần vải thừa, mép gấp khi may nón chiếm 150 diện tích nón. Biết 0 công thức tính diện tích xung quanh của hình nón là: S =πrl xq 30cm Với r: bán kính đáy của hình nón l: đường sinh của hình nón. 10cm
+
+Bài 111. Một chiếc cầu trượt bao gồm phần cầu thang (để bước lên) và phần ống trượt (để trượt xuống) nối liền nhau. Biết rằng khi xây dựng phần ống trượt nghiêng với mặt đất một góc là 50°. Hãy tính khoảng cách từ chân cầu thang đến chân ống trượt nếu xem phần cầu thang như một đường thẳng dài 2,5 m, ống trượt dài 3 m?
+
+Bài 112. Mộttấm poster hình tam giác đều mỗi cạnh . Ba cung tròn DE, EF, FD thuộc dm 3 đường tròn bán kính 2,5 có tâm lần lượt là điểm A, 
+B, C. Tính diện tích phần còn lại (không tô màu) của tam giác (cho biết µ=3,14 và kết quả làm đúng đơn vị dm2).
+
+Bài 113. Dây Cu-roa là một trong những bộ truyền được sử dụng rộng rãi trong công nghiệp. Chiều dài dây cu-roa được xác định theo công thức: π( d +d ) ( d −d )2 L=2a+ 1 2 + 2 1 2 4a Trong đó: L : Chiều dài dây cu-roa. a : Khoảng cách tâm của 2 pu-ly. d : Đường kính của pu-ly 
+1 (hình tròn nhỏ màu vàng) 1 d : Đường kính của pu-ly 2 (hình tròn lớn màu vàng) 2 A B O O' Cho d =10cm d =20cm a=60cm 1 ; 2 ; a)Tính chiều dài của dây cu-roa. b)Gọi AB là chiều dài một đoạn dây cu-roa, trong đó A, Blần lượt là tiếp điểm trên của dây cu-roa với 2 đường tròn tạo bởi mặt cắt của 2 pu-ly. TínhAB.
+
+Bài 115. Hai ròng rọc có tâm O bán kính Rvà tâm I bán kính r. Hai tiếp tuyến chung MN và PQ cắt nhau tại A tạo thành góc60°. Tính độ dài dây cua – roa mắc qua hai ròng rọc trên theo r(Biết R =4r) như hình vẽ sau:
+
+Bài 116. Một dây curoa bao quay 2 bánh xe như hình 1a, 1b. Trong đó AB là tiếp tuyến chung của hai bánh xe. Gọi O và I lần lượt là tâm của bánh xe lớn và bánh xe nhỏ. Khoảng cách của hai tâm bánh xe là60cm. Bán kính của bánh xe lớn là 15cm,bán kính bánh nhỏ là 7cm.Tính chu vi dây curoa (chiều dài dây curoa) theo đơn vị mét (làm tròn 1 chữ số thập phân)) A B Hình 1a Hình 1b
+
+Bài 120. Một con Robot được thiết kế để có thể đi thẳng, quay một góc 90°sang trái hoặc sang phải. Robot xuất phát từ vị trí A đi thẳng 1 
+mét, quay sang trái rồi đi thẳng 1 mét, quay sang phải rồi đi thẳng 2 mét, quay sang trái rồi đi thẳng 2 mét, quay sang phải rồi đi thẳng 
+3 mét, quay sang trái rồi đi thẳng 3 mét thì đi đến đích ở vị tri B. a)Vẽ hình biểu diễn đường đi của con Robot b)Tính khoảng cách AB     
+
+Bài 121. Có hai lọ thủy tinh hình trụ, lọ thứ nhất phía bên trong có đường kính đáy là 30cm, chiều cao 20cm đựng đầy nước, lọ thứ hai bên 
+trong có đường kính đáy là 40cm chiều cao là 12cm. Hỏi nếu đổ hết nước từ lọ thứ nhất sang lọ thứ hai nước có bị tràn ra ngoài hay không? 
+Tại sao?
+
+Bài 122. Gia đình bạn An mua một khu đất hình chữ nhật để cất nhà. Biết chiều dài gấp 4 lần chiều rộng. Theo quy hoạch, khi xây nhà phải chừa 2m (theo chiều dài) phía sau để làm giếng trời và 4m phía trước (theo chiều dài) để trồng cây xanh nên diện tích xây nhà chỉ còn 75%diện tích khu đất. Hỏi chu vi lúc đầu của khu đất.
+
+Bài 123. Từ đài quan sát cao 15m (tính từ mực nước biển), bạn An có thể nhìn thấy hai chiếc thuyền dưới góc hạ 40o và 10o so với phương ngang. Hãy tính khoảng cách 2 chiếc thuyền (làm tròn đến chữ số hàng đơn vị)? Điều kiện lý tưởng: vị trí 2 chiếc thuyền và vị trí đài quan sát thẳng hàng.
+
+Bài 124. Một hồ bơi có dạng là một lăng trụ đứng tứ giác với chiều dài đáy là hình thang vuông (mặt bên (1) của hồ bơi là 1 đáy của lăng trụ) và các kích thước như đã cho (xem 6m 0,5m hình 2). Biết rằng người ta dùng một máy bơm với lưu (1) lượng là 42 m3/phút và sẽ bơm đầy hồ mất 25 phút. 3m Tính chiều dài của hồ.
+
+Bài 1. Người ta đổ thêm 100 g nước vào một dung dịch chứa 20g muối thì nồng độ của dung dịch giảm đi 10%. Hỏi trước khi đổ thêm nước thì dung dịch chứa bao nhiêu nước.
+
+Bài 2. Trong phòng thí nghiệm Hóa , thầy Minh đưa cho hai bạn Dũng và Thảo một lọ 200g dung dịch muối có nồng độ 15%. Thầy muốn hai bạn tạo ra dung dịch muối có nồng độ 20%. Dũng nói cần pha thêm nước. Thảo nói cần pha thêm muối. Theo em cần pha thêm muối hay nước và pha thêm một lượng bao nhiêu gam? (Chỉ thêm muối hoặc nước)
+
+Bài 3. Một miếng hợp kim đồng và thiếc có khối lượng 12(kg) chứa 45%đồng nguyên chất. Hỏi phải thêm vào đó bao nhiêu thiếc nguyên chất để 
+được hợp kim mới có chứa 40% đồng nguyên chất?
+
+Bài 4. Nước biển là dung dịch có nồng độ muối là 3,5% (giả sử không có tạp chất). Có 10kg nước biển . Hỏi phải thêm bao nhiêu kg nước (nguyên chất) để được dung dịch có nồng độ 2%
+
+Bài 6. Có hai lọ dung dịch muối với nồng độ lần lượt là 5% và 20%. Người ta pha trộn hai dung dịch trên để có 1 lít dung dịch mới có nồng 
+độ là 14%. Hỏi phải dung bao nhiêu mililít mỗi loại dung dịch? (Biết khối lượng riêng của ba dung dịch đều là 1g/ml).
+
+Bài 8. Cho thêm 1kg nước vào dung dịch A thì được dung dịch B có nồng độ axit là 20%. Sau 1 đó lại cho thêm 1kg axit vào dung dịch B thì được dung dịch C nồng độ axit là 33 % . 3 Tính nồng độ axit trong dung dịch A?
+
+Bài 10. Người ta pha 200gdung dịch muối thứ nhất vào 300gdung dịch muối thứ hai thì thu được dung dịch muối có nồng độ4%. Hỏi nồng độ muối trong dung dịch thứ nhất và thứ hai; biết nồng độ muối trong dung dịch thứ nhất lớn hơn nồng độ muối trong dung dịch thứ hai là 5%.      
+
+Bài 11. Có hai lọ dung dịch muối với nồng độ lần lượt là 5% và 20%. Người ta pha trộn hai dung dịch trên để có 1kg dung dịch mới có nồng độ là 14%. Hỏi phải dùng bao nhiêu gam mỗi loại dung dịch? m ( biết C%= ct .100%),C%: nồng độ phần trăm, m : khối lượng chất tan,m : ct dd 
+m dd khối lượng dung dịch.
+
+Bài 12. Một cốc thủy tinh có dung tích 5 lít đang chứa 3 lít nước muối có nồng độ10%Hỏi cần đổ thêm bao nhiêu lít nước nguyên chất để được dung dịch muối 5%, liệu rằng cái cốc đó có đủ chứa không ? (Giả định 1 lít dd nước muối = 1 kilôgam)
+
+Bài 13. Nước muối sinh lí (natri clorid) là dung dịch có nồng độ 0,9%tức là trong 1000g ml có 9g muối tinh khiết . Mẹ bạn Hoa đã pha 18g muối vào 1800ml nước đun sôi để nguội. a)Hỏi mẹ bạn Hoa pha đúng cách chưa? b)Mẹ bạn Hoa phải pha thêm bao nhiêu ml nước đun sôi để nguội để có nước muối sinh lí?(làm tròn đến hàng đơn vị)
+
+Bài 14. Có hai lọ đựng muối với nồng độ 5% và 40%. Hỏi cần phải lấy mỗi loại bao nhiêu gam để được 140g nước muối với nồng độ 30%?        
+
+Bài 1. Để ước tính tốc độ s (dặm/giờ) của một chiếc xe, cảnh sát sử dụng công thức: s = 30fd , với d (tính bằng feet) là độ dài vết trượt 
+của bánh xe và f là hệ số ma sát a) Trên một đoạn đường (có gắn bảng báo tốc độ bên trên) có hệ số ma sát là 0,73 và vết trượt của một xe 
+4 bánh sau khi thắng lại là 49,7 feet. Hỏi xe có vượt quá tốc độ theo biển báo trên đoạn đường đó không? (Cho biết 1 dặm = 1,61 km) (kết quả làm tròn đến chữ số thập phân thứ hai) b) Nếu xe chạy với tốc độ 48km/h trên đoạn đường có hệ số ma sát là 0,45 thì khi thắng lại vết trượt trên đường dài bao nhiêu feet ? L ờ i giải a) Ta có tốc độ của xe là: s = 30fd = 30.0,73.49,7 ≈32,99 (dặm/h) ≈53,11 (km/h) Vì 53,11 > 50, nên xe đó vượt quá tốc độ theo biển báo trên đoạn đường đó . b) Đổi 48 (km/h) = 29,81(dặm/h) Thế s =29,81 vào s = 30fd , ta được:29,81= 30.0,45.d ⇒ d =65,84 (feet) Vậy khi thắng lại vết trượt trên đường dài 65,84feet Bài 2. Công ty đồ chơi Bingbon vừa cho ra đời một đồ chơi tàu điện điều khiển từ xa. Trong điều kiện phòng thí nghiệm, quãng đường s (xen ti mét) đi được của đoàn tàu đồ chơi là một hàm số của thời gian t (giây), hàm số đó là s =6t+9. Trong điều kiện thực tế người ta thấy rằng nếu đoàn tàu đồ chơi di chuyển quãng đường 12 cm thì mất 2 giây, và cứ trong mỗi 10 giây thì nó đi được 52 cm. a) Trong điều kiện phòng thí nghiệm, sau 5 (giây) đoàn tàu đồ chơi di chuyển được bao nhiêu cm? b) Mẹ bé An mua đồ chơi này về cho bé chơi, bé ngồi cách mẹ 1,5 mét. Hỏi cần bao nhiêu giây để đoàn tàu đồ chơi đi từ chỗ mẹ tới chỗ bé?
+
+Bài 3. Một vật rơi ở độ cao so với mặt đất là 100 mét. Quãng đường chuyển động s (mét) của vật rơi phụ thuộc vào thời gian t (giây) bởi công thức S = 4t2. a) Sau 2 giây vật này cách mặt đất bao nhiêu mét? b) Sau bao lâu vật này tiếp đất?
+
+Bài 4. Một nhà bác học đứng trước một thấu kính hội tụ có quang tâm O và tiêu điểm M và cho ảnh thật to gấp 3 lần. Hỏi người đó đứng trước thấu kính bao xa biết rằng tiêu điểm F cách quang tâm O một khoảng 3 m. B I A' A O F' B'
+
+Bài 5. a) Nếu giảm bớt thời gian thắp sáng của 1 bóng đèn 60 w một giờ mỗi ngày thì x hộ gia đình sẽ tiết kiệm được bao nhiêu tiền biết giá điện 1800 đ/kwh. Hãy viết công thức tính tiền tiết kiệm được. b) Nếu thành phố có khoảng 1,7 triệu gia đình thì tiết kiệm được bao nhiêu tiền theo hình thức trên.
+
+Bài 7. Kính lão đeo mắt của người già thường là một loại thấu kính hội tụ. Bạn Nam đã dùng một chiếc kính lão của ông ngoại để tạo ra hình ảnh của một cây nến trên một tấm màn. Cho rằng cây nến là một vật sáng có hình dạng đoạn thẳng AB đặt vuông góc với trục chính của một thấu kính hội tụ, cách thấu kính đoạn OA=2 m. Thấu kính có quang tâm là O và tiêu điểmF . Vật AB cho ảnh thật A'B' gấp ba lần AB (có đường đi của tia sáng được mô tả như hình vẽ). Tính tiêu cự OF của thấu kính.
+
+Bài 8. Trong bầu khí quyển, càng lên cao thì áp suất khí quyển càng giảm. Với những độ cao không quá lớn thì công thức tính áp suất khí quyển tương ứng với độ cao so 2h với mực nước biển như sau: p=760− Trong đó p: Áp suất khí quyển 25 (mmHg); h: Độ cao so với mực nước biển (m). a) Thành phố Bảo Lộc của tỉnh Lâm Đồng ở độ cao 1300m so với mực nước biển thì có áp suất khí quyển là bao nhiêu mmHg? b) Để đo áp suất khí quyển người ta dùng “cao kế”. Một nhóm phượt thủ sử dụng “cao kế” và họ đo được áp suất khí quyển là 550 mmHg. Hỏi nhóm phượt thủ đó đang ở vào độ cao bao nhiêu so với mực nước biển?
+
+Bài 9. Một vật sáng AB được đặt vuông góc với trục chính của một thấu kính hội tụ có tiêu cự OF =OF'=20cmtạo ảnh ảoA'B'//AB. Biết ảnh A'B'=4AB, tính khoảng cách OAtừ vật đến thấu kính (xét trường hợp vật thật cho ảnh ảo cùng chiều, xem hình vẽ).
+
+Bài 10. Theo các chuyên gia về sức khỏe, nhiệt độ môi trường lý tưởng nhất với cơ thể của con người là từ 25°C đến 28°C. Vào buổi sáng sáng bạn An dự định cùng với nhóm bạn đi dã ngoại, bạn sử dụng nhiệt kế để đo nhiệt độ môi trường ngày hôm đó như sau. Vậy nhiệt độ này có thích hợp cho An và nhóm bạn không ? Biết °C =(°F – 32) :1,8.
+
+Bài 11. Một phi hành gia nặng 70kg khi còn ở Trái Đất. Khi bay vào không gian, cân nặng f(h) của phi hành gia này khi cách Trái Đất một độ cao h mét, được tính theo hàm số có công thức: 2  3960  f ( h)=70.  3960+h a) Cân nặng của phi hành gia là bao nhiêu khi cách Trái 
+Đất 100 mét b) Ở độ cao 250 m , cân nặng của phi hành gia này thay đổi bao nhiêu so với cân nặng có được ở mặt đất (kết quả làm tròn đến số thập phân thứ nhất)
+
+Bài 12. Sau những vụ va chạm giữa các xe trên đường, cảnh sát thường sử dụng công thức dưới đây để ước lượng tốc độ v (đơn vị: dặm / giờ) 
+của xe từ vết trượt trên mặt đường sau khi thắng đột ngột.v = 30fd . Trong đó, d là chiều dài vết trượt của bánh xe trên nền đường tính bằng feet ( ft), f là hệ số ma sát giữa bánh xe và mặt đường (là thước đo sự “trơn trượt” của mặt đường). Đường Cao tốc Long Thành – Dầu Giây có tốc độ giới hạn là 100 km / h. Sau một vụ va chạm giữa hai xe, cảnh sát đo được vết trượt của một xe là d =172 ft và hệ số ma sát mặt đường tại thời điểm đó là f = 0,7. Chủ xe đó nói xe của ông không chạy quá tốc độ. Hãy áp dụng công thức trên để ước lượng tốc độ chiếc xe đó rồi cho biết lời nói của người chủ xe đúng hay sai ? (Biết 1 dặm = 1609 m).
+
+Bài 13. Lực F (tính bằng đơn vị N) của gió thổi vào cánh buồm tỷ lệ với vận tốc của gió ( km/h) bằng công thức F = k.v2. Đồ thị của hàm số F đi qua điểm( 5;100). a) Tìm hệ số k. b) Cánh buồm chỉ chịu được lực tối đa là 3000 N. Hỏi nếu vận tốc gió là 30 km/h thì thuyền có thể 
+ra khơi được không?
+
+Bài 15. Một hòn đá rơi xuống một cái hang, khoảng cách rơi xuống h (tính bằng mét) được cho bởi công thức h=4,9.t2, trong đó t là thời gian rơi (tính bằng giây). a) Hãy tính độ sâu của hang nếu mất 3 giây để hòn đá chạm đáy. b) Nếu hang sâu 122,5 mét thì phải mất bao lâu để hòn đá chạm tới đáy.
+
+Bài 16. Cách đây hơn một thế kỷ, nhà khoa học người Hà Lan Hendrich Lorentz (1853 – 1928) đưa ra công thức tính số cân nặng lí tưởng của con người theo chiều cao như sau: T −150 M =T −100− (công thức Lorentz) N Trong đó: M là số cân nặng lí tưởng tính theo kilôgam T là chiều 
+cao tính theo xăngtimet N =4với nam giới và N =2với nữ giới. a) Bạn Q (là nam giới) chiều cao là 1,7m. Hỏi cân nặng của bạn nên là bao nhiêu kg để đạt lí tưởng? b) Với chiều cao bằng bao nhiêu thì số cân nặng lí tưởng của nam giới và nữ giới bằng nhau?
+
+Bài 17. Càng lên cao không khí càng loãng nên áp suất khí quyển càng giảm. Với những độ cao không lớn lắm thì ta có công thức tính áp suất khí quyển tương ứng với độ cao so với mực nước biển như sau: 2h p=760− 25 Trong đó: p: Áp suất khí quyển (mmHg) h: Độ sao so với mực nước biển (m) Ví dụ các khu vực ở Thành phố Hồ Chí Minh đều có độ cao sát với mực nước biển h=0 mnên có áp suất khí quyển là p=760 mmHg. a) Hỏi Thành phố Đà Lạt ở độ cao 1500 m so với mực nước biển thì có áp suất khí quyển là bao nhiêu mmHg? b) Dựa vào mối liên hệ giữa độ cao so 
+với mực nước biển và áp suất khí quyển người ta chế tạo ra một loại dụng cụ đo áp suất khí quyển để suy ra chiều cao gọi là “cao kế”. Một 
+vận động viên leo núi dùng “cao kế” đo được áp suất khí quyển là 540 mmHg. Hỏi vận động viên leo núi đang ở độ cao bao nhiêu mét so với mực nước biển?
+
+Bài 19. Biết rằng nhiệt lượng toả ra trên dây dẫn được tính bởi công thức (theo định luật Jun-lenxo) Biết rằng nhiệt lượng toả ra trên dây dẫn được tính bởi công thức (theo định luật Jun-lenxo) Q=0,24I2Rt ; trong đó: Q là nhiệt lượng tính bằng đơn vị kalo, R là điện trở tính 
+bằng đơn vị Ohm (Ω), I là cường độ dòng điện tính bằng đơn vị Ampe (A), t là thời gian tính bằng giây ( s) . Dòng điện chạy qua một dây dẫn có R=10Ω trong thời gian 5 giây. a) Hãy điển vào bảng sau những giá trị thích hợp I (A) 1 1,5 2 2,5 Q (kalo) b) Hỏi cường độ dòng điện phải là bao nhiêu thì nhiệt lượng toả ra trên dây dẫn sẽ là 800 Jun (kí hiệu là J) ? Biết rằng 1 J = 0,24kalo.
+
+Bài 21. Lực F (N) của gió khi thổi vuông góc vào cánh buồm tỉ lệ thuận với bình phương vận tốc của gió v( m/s)theo công thức F=kv2(k là một hằng số). Biết rằng khi vận tốc gió bằng 2 m/s thì lực tác động lên cánh buồm của một con thuyền bằng 120N (Niu – tơn). a) Tính hằng số 
+k. b) Vậy khi vận tốc của gió v=10 ( m/s)thì lực F của gió tác động vào cánh buồm là bao nhiêu? c) Cánh buồm của thuyền chỉ chịu đựng được lực tối đa là 12000N . Vậy thuyền có thể ra khơi khi vận tốc của gió là 90km/h hay không?
+
+Bài 23. Bạn An dùng kính lão của ông nội (một loại thấu kính hội tụ) để làm thí nghiệm tạo ảnh một cây đèn cầy trên tấm màn. Cho rằng vật 
+sáng có hình đoạn thẳng ABđặt vuông góc với trục chính của một thấu kính hội tụ, cách thấu kính đoạnOA=16 cm. Thấu kính có quang tâm là Ovà tiêu điểm F , có tiêu cựOF =12cm. Vật ABcho ảnh thật A′B′ (có đường đi của tia sáng được mô tả như hình vẽ). Tính xem ảnh cao gấp bao nhiêu lần vật.
+
+Bài 24. Người ta hòa lẫn 7 kg chất lỏng I với 5 kg chất lỏng II thì được một hỗn hợp có khối lượng riêng 600 kg/m3. Biết khối lượng riêng 
+của chất lỏng I lớn hơn khối lượng riêng của chất lỏng II là 200 kg/m3. Tính khối lượng riêng của mỗi chất lỏng.
+
+Bài 26. Người lớn tuổi thường đeo kính lão (một loại kính hội tụ). Bạn An mượn kính của bà để làm thí nghiệm tạo hình ảnh một vật trên tấm màn. Cho rằng vật sáng có hình đoạn thẳng ABđặt vuông góc với trục chính của một thấu kính hội tụ, cách thấu kính đoạnOA = 30cm. Thấu kính có quang tâmO và tiêu điểmF . Qua thấu kính vật ABcho ảnh thật A’B’ lớn gấp 2lần vật (có đường đi của tia sáng được mô tả như hình vẽ). 
+Tính tiêu cự của thấu kính?
+
+Bài 27. Điện áp V (đơn vị V ) yêu cầu cho 1 mạch điện được cho bởi công thức: V = PR, trong đó Plà công suất (đơn vịW ) và Rlà điện trở trong (đơn vịΩ). a) Cần điện áp bao nhiêu để thắp sáng 1 bóng đèn A có công suất 100W và điện trở trong của bóng đèn là110Ω? b) Bóng đèn B có điện áp bằng 110V , điện trở trong là 88Ωcó công suất lớn hơn bóng đèn A không? Giải thích?
+
+Bài 1. Để biết được ngày n tháng t năm 2020 là ngày thứ mấy trong tuần. Đầu tiên, đi tính giá trị biểu thức T =n+H , ở đây được xác định như sau: Tháng t 10 5 2;8 3;11 6 9;12 1;4;7 H −3 −2 −1 0 1 2 3 Sau đó lấy T chia cho 7 ta được số dư r (0≤r ≤6) Nếu r =0thì ngày đó là ngày thứ Bảy Nếu r =1thì ngày đó là ngày Chủ Nhật Nếu r =2thì ngày đó là ngày thứ Hai Nếu r =3thì ngày đó là ngày thứ Ba … Nếu r =6thì ngày đó là ngày thứ Sáu Bài 2. Hãy sử dụng quy tắc trên để xác định ngày 30/4/2020là ngày thứ mấy? b)Bé An sinh vào tháng 12/2020. Biết rằng ngày sinh của bé An là một bội số của 5 và là Chủ Nhật. Hỏi ngày sinh của bé An là ngày mấy?
+
+Bài 3. Bạn Bình và mẹ dự định đi du lịch Huế và Hội An trong 6 ngày. Biết rằng chi phí trung bình mỗi ngày tại Bà Nà là 3 000 000đồng, còn tại Huế là 3 500 000đồng. Tìm số ngày nghỉ lại mỗi địa điểm, biết số tiền mà họ phải chi cho toàn bộ chuyến đi là 20 000 000 đồng.       
+
+Bài 4. Ba tổ công nhân A, B, C có tuổi trung bình theo thứ tự là 37, 23, 41. Tuổi trung bình của của hai tổ A và B là 29, tuổi trung bình 
+của hai tổ B và C là 33. Tính tuổi trung bình của cả ba tổ.
+
+Bài 5. Số học sinh nữ lớp 9A bằng số học sinh nam, nếu số học sinh nữ tăng 2 em và số 5 học sinh nam giảm3em thì số học sinh nam và nữ bằng nhau. Hỏi lớp 9A có bao nhiêu học sinh?
+
+Bài 7. Một nhóm học sinh đang chia đều một số quyển vở vào các phần quà để tặng cho các em nhỏ có hoàn cảnh khó khăn. Nhóm nhận thấy nếu giảm 6 quyển vở ở mỗi phần quà thì số phần quà cho các em sẽ tăng thêm 5 phần, nếu giảm 10 quyển vở ở mỗi phần quà thì số phần quà cho các 
+em sẽ tăng thêm 10 phần. Hỏi nhóm có tất cả bao nhiêu quyển vở?
+
+Bài 8. Ba bạn An, Bình, Chi cùng thực hiện kế hoạch mua tập tặng cho các bạn học sinh khó khăn. Vì bận việc, Chi không đi mua tập với các 
+bạn được nên nhờ An và Bình mua trước rồi sẽ trả lại tiền cho hai bạn. An xuất tiền mua 54 quyển tập, Bình xuất tiền mua 36 quyển tập. Chi trả lại cho hai bạn tổng cộng 240 nghìn đồng. Hỏi An sẽ nhận bao nhiêu tiền trong số 240 nghìn đồng đó và sẽ đưa lại cho Bình bao nhiêu để số tiền ba bạn bỏ ra là như nhau?
+
+Bài 9. Theo thống kê diện tích đất nông nghiệp nước ta được biểu diễn theo công thức S =0,12t +8,97 trong đó diện tích S tính theo triệu héc ta và t tính bằng số năm kể từ năm 2000. Tính xem diện tích đất nông nghiệp nước ta ước đạt khoảng 11,97 triệu héc ta vào năm nào?.    
+
+Bài 10. Có một đám trẻ chăn một số trâu trên một cánh đồng. Nếu 2 trẻ cưỡi một con trâu thì có 1 con trâu không có trẻ cưỡi. Nếu mỗi trẻ cưỡi một con trâu thì có 1 trẻ không có trâu cưỡi. Hỏi có bao nhiêu trẻ, bao nhiêu trâu?
+
+Bài 11. Một trường học cần đưa 510 HS đi tham quan Vũng Tàu. Có hai cách để thuê xe: Cách 1 thuê xe 45 chỗ, giá thuê đi và về cho mỗi xe là 1800000 đồng, cách 2 thuê xe 29 chỗ, giá thuê đi về cho mỗi xe là 950000. Hỏi nếu chỉ thuê một loại xe cho cả đoàn thì nhà trường thuê loại xe nào sẽ tiết kiệm hơn?
+
+Bài 12. Một quyển tập giá 4000 đồng, một hộp bút giá 30000 đồng. Bạn An cần mua một số quyển tập và một hộp bút. a) Gọi x là số quyển tập 
+An mua và y là số tiền phải trả (bao gồm tiền mua tập và một hộp bút). Viết công thức biểu diễn y theo x. b) Nếu bạn An có 200000 đồng để 
+mua tập và một hộp bút thì tối đa bạn An mua được bao nhiêu quyển tập?
+
+Bài 13. Cho Một bạn học sinh A có ý định tiết kiệm để mua một chiếc xe đạp có giá 2 100 000 đồng. Hiện nay bạn đã tiết kiệm được 600 000 đồng. Mỗi ngày bạn học sinh A có thể tiết kiệm được 15 000 đồng. Gọi y (đồng) là số tiền bạn học sinh tiết kiệm được sau x (ngày). a)Hãy lập công thức hàm số của y theo biến số x. b)Sau bao nhiêu ngày kể từ ngày bắt đầu tiết kiệm, thì bạn học sinh có thể mua được chiếc xe đạp.
+
+Bài 14. Để tổ chức đi tham quan Khu di tích lịch sử Địa đạo Củ Chi cho 354 người gồm học sinh khối lớp 9 và giáo viên phụ trách, nhà trường đã thuê xe 8 chiếc xe gồm hai loại: loại 54 chỗ ngồi và loại 15 chỗ ngồi (không kể tài xế). Hỏi nhà trường cần thuê bao nhiêu xe mỗi loại? Biết rằng không có xe nào còn trống chỗ.
+
+Bài 15. Đầu năm học, một trường học tuyển được 75 học sinh vào 2 lớp chuyên Văn và chuyên Sử. Nếu chuyển 15 học sinh từ lớp chuyên Văn sang lớp chuyên Sử thì số học sinh lớp 8 chuyên Sử bằng số học sinh lớp chuyên Văn. Hãy tính số học sinh của mỗi lớp. 7
+
+Bài 17. Người ta đun sôi nước bằng ấm điện .Công suất hao phí P sẽ phụ thuộc vào thời gian t .Biết rằng mối liên hệ giữa P và t là một hàm bậc nhất có dạng P=a.t+bđược biểu diễn bằng đồ thị hình bên a)Xác định các hệ số a và b. b)Tính công suất hao phí khi đun nước trong 30 giây.
+
+Bài 18. Năm ngoái dân số hai tỉnh A và B tổng cộng là 3 triệu người. Theo thống kê thì năm nay tỉnh A tăng 2% còn tỉnh B tăng 1,8% nên tổng số dân tăng thêm của cả hai tỉnh là 0,0566 triệu người. Hỏi năm ngoái mỗi tỉnh dân số là bao nhiêu?
+
+Bài 19. Bạn An mua 30 chậu hoa , mỗi chậu có giá 150 000 đồng. Để chăm sóc chậu hoa, An mua thêm 12 bịch phân bón, biết rằng giá của 4 bịch phân bón bằng 80% giá của 3 chậu hoa .Hỏi An phải tốn tổng cộng bao nhiêu tiền cho cả phân bón và chậu hoa?
+
+Bài 20. Bảng cước phí dịch vụ VinaCard áp dụng cho thuê bao trả trước, cước gọi liên mạng trong nước (đã bao gồm VAT) quy định rằng : nếu 
+gọi trong 6 giây đầu thì tính cước 138 đồng/6 giây đầu, còn kể từ sau giây thứ 6 trở đi, họ tính thêm 23 đồng cho mỗi giây. a)Gọi y là số 
+tiền phải trả (tính bằng đồng) và t là thời gian gọi nhiều hơn 6 giây (t >6). Hãy lập công thức biểu thị y theo t ? b)Hỏi bạn An gọi trong bao lâu mà bạn trả 3450 đồng ?
+
+Bài 21. Một cửa hàng điện máy niêm yết giá bán chiếc tivi Smart Samsung 43 inch cao hơn 40% so với giá nhập vào. Nhân dịp khuyến mãi, cửa 
+hàng đã giảm giá 15%trên giá niêm yết. Lúc đó, chiếc tivi bán ra lời được 1,9 triệu đồng so với giá nhập vào. Hỏi giá nhập vào của chiếc tivi đó là bao nhiêu?
+
+Bài 22. Một sợi xích có ba vòng tròn kết nối dài 10 cm, có năm vòng tròn kết nối dài 16 cm. Hỏi sợi xích đó có 15 vòng tròn kết nối thì dài bao nhiêu ?
+
+Bài 23. Bạn A thi tuyển sinh 10 được tổng số điểm là 34,5 (điểm toán nhân 2 + điểm Ngữ Văn nhân 2 + điểm Anh Văn + điểm ƯTKK). Tính các điểm Toán, Anh Văn của bạn A đạt được, biết 2 lần điểm Toán bằng 3 lần điểm Anh Văn, điểm Ngữ Văn của bạn A đạt được là 6,5 và tổng điểm ƯTKK của bạn A là 1,5.
+
+Bài 24. Để đảm bảo dinh dưỡng trong bữa ăn hằng ngày thì mỗi gia đình 4 thành viên cần 900 đơn vị protêin và 400 đơn vị Lipit trong thức ăn hằng ngày. Mỗi kilôgam thịt bò chứa 800 đơn vị protêin và 200 đơn vị Lipit, còn mỗi kilôgam thịt heo chứa 600 đơn vị protêin và 400 đơn 
+vị Lipit. Giá thịt bò là 100 000 đồng/kg và thịt heo là 70 000 đồng/kg. Hỏi cần mua bao nhiêu tiền thịt bò và thịt heo để đảm bảo dinh dưỡng hằng ngày cho 4 người?
+
+Bài 25. Một hòn đá rơi xuống một cái hang, khoảng cách rơi xuống h (tính bằng mét) được cho bởi công thức h=4,9.t2, trong đó t là thời gian rơi (tính bằng giây). a)Hãy tính độ sâu của hang nếu mất 3 giây để hòn đá chạm đáy. b)Nếu hang sâu 122,5 mét thì phải mất bao lâu để hòn đá chạm tới đáy.
+
+Bài 26. Sĩ số cuối năm của lớp 9A giảm so với đầu năm. Biết toàn bộ lớp đều tham gia thi 21 tuyển sinh lớp 10 và kết quả có 34 học sinh đã đậu vào lớp 10 công lập đạt tỉ lệ 85%. Hãy tính sĩ số đầu năm của lớp 9A.
+
+Bài 27. Đại bàng là một loài chim săn mồi cỡ lớn thuộc bộ Ưng, họ Accipitridae. Chúng sinh sống trên mọi nơi có núi cao và rừng nguyên sinh còn chưa bị con người chặt phá như bờ biển Úc, Indonesia, Phi châu... Loài đại bàng lớn nhất có chiều dài cơ thể hơn 1 m và nặng 7 kg. Sải cánh của chúng dài từ 1,5 m cho đến 2 m. a)Từ vị trí cao 16 m so với mặt đất, đường bay lên của đại bàng được cho bởi công thức: y =24x+16 (trong đó ylà độ cao so với mặt đất,x là thời gian tính bằng giây, x≥0). Hỏi nếu nó muốn bay lên để đậu trên một núi đá cao 208 m so với mặt đất thì tốn bao nhiêu giây? b)Từ vị trí cao 208 m so với mặt đất hãy tìm độ cao khi nó bay xuống sau 5 giây. Biết đường bay xuống của nó được cho bởi công thức: y =−14x+208.
+
+Bài 28. Sau dịp Tết Nguyên đán, hai anh em bạn Hoàng có được số tiền mừng tuổi là 3,5triệu đồng; hai anh em nhờ mẹ gửi số tiền đó vào ngân hàng. Mẹ nói với Hoàng: “Sau hai năm nữa, các con sẽ được nhận về số tiền cả gốc và lãi là 4,235 triệu đồng”. Hỏi thời điểm Hoàng gửi tiền, lãi suất ngân hàng là bao nhiêu % trong một năm, biết rằng số tiền lãi sau năm thứ nhất sẽ được tính vào tiền gốc của năm thứ hai.     
+
+Bài 29. Một phòng họp có 320 ghế ngồi (loại ghế một người ngồi) được xếp thành nhiều hàng ghế và số lượng ghế ở mỗi hàng là như nhau. Người ta tổ chức một buổi hội thảo dành cho 429 người tại phòng họp đó nên phải xếp thêm 1 hàng ghế và mỗi hàng ghế phải xếp nhiều hơn số lượng ban đầu 3 ghế. Hỏi lúc đầu phòng họp có bao nhiêu hàng ghế và mỗi hàng ghế có bao nhiêu ghế?
+
+Bài 30. Giải bài toán sau bằng cách lập phương trình hoặc hệ phương trình: Một mảnh vườn trồng rau quả hình chữ nhật có diện tích là 60 m2. Đoạn thẳng dài nhất nối hai điểm bất kì trên khu vườn có độ dài bằng 13m. Người ta cần xây tường bao quanh khu vườn với chiều cao 1,5m để đảm bảo an toàn cho các loại cây hoa màu. Hỏi diện tích tường bao cần xây là bao nhiêum2?
+
+Bài 31. Giải bài toán bằng cách lập phương trình hoặc hệ phương trình: Trong tháng đầu, hai tổ sản xuất được 860 chi tiết máy. Đến tháng thứ hai, tổ I vượt mức 15% tổ II vượt mức 10%. Do đó, tháng thứ hai cả hai tổ sản xuất được 964 chi tiết máy. Tính số chi tiết máy mỗi tổ đã sản xuất được trong tháng đầu.
+
+Bài 32. Trong một buổi tổchức tuyên dương các học sinh có thành tích học tập xuất sắc của mộthuyện, ngoại trừ bạn An, hai người bất kì đều bắt tay nhau, An chỉ bắt tay với những người mình quen. Biết rằng một cặp (hai người) chỉ bắt tay nhau không quá một lần và có tổng cộng 
+420 lần bắt tay. Hỏi bạn An có bao nhiêu người quen trong buổi tổ chức tuyên dương đó?
+
+Bài 33. Trong những ngày diễn ra đại dịch Covid-19, cán bộ giáo viên, nhân viên và học sinh trường THCS Trần Phú đã hưởng ứng lời kêu gọi 
+“chung tay phòng chống dịch Covid- 19” của Thủ tướng chính phủ qua hai hình thức: ủng hộ bằng tiền mặt và ủng hộ tiền qua tin nhắn. Đợt I, tổng số tiền ủng hộ qua hai hình thức là 9 triệu đồng. Sang đợt II, số tiền ủng hộ bằng tiền mặt tăng 20%, số tiền ủng hộ qua tin nhắn tăng 25% nên tổng số tiền quyên góp được trong đợt II là 11 triệu đồng. Hỏi trong đợt I, số tiền ủng hộ mỗi hình thức là bao nhiêu triệu đồng?
+
+Bài 34. Năm ngoái dân số hai tỉnh A và B tổng cộng là 3 triệu người. Theo thống kê thì năm nay tỉnh A tăng 2% còn tỉnh B tăng 1,8% nên tổng số dân tăng thêm của cả hai tỉnh là 0,0566 triệu người. Hỏi năm ngoái mỗi tỉnh dân số là bao nhiêu?
+
+Bài 35. Đầu năm học, một trường THPT tuyển được 75 học sinh vào 2 lớp chuyên Văn và chuyên Sử. Nếu chuyển 15 học sinh từ lớp chuyên Văn sang lớp chuyên Sử thì số học sinh lớp 8 chuyên Sử bằng số học sinh lớp chuyên Văn. Hãy tính số học sinh của mỗi lớp? 7
+
+Bài 37. Xe ô tô cần đổ thêm 5 lít xăng vào bình xăng khi chạy hết quãng đường x=700(km). An, Bình, Cúc vào một cửa hàng mua tập và bút cùng loại. An mua 20 quyển tập và 4 cây bút hết 176 000 (đồng). Bình mua 2 cây bút và 20 quyển tập hết 168 000 (đồng). Cúc mua 2 cây bút và 1 hộp đựng bút nhưng chỉ trả 36 000 (đồng) do Cúc là khách hàng thân thiết nên được giảm 10% trên tổng số tiền mua. Hỏi 1 hộp đựng bút là bao nhiêu tiền khi không giảm giá ?
+
+Bài 38. Một vận động viên bơi lội nhảy cầu. Khi nhảy ở độ cao h từ người đó tới mặt nước (tính bằng mét) phụ thuộc vào khoảng cách x (tính bằng mét) theo công thức: h = – (x – 1)2 + 4 (xem hình). Hỏi khoảng cách x bằng bao nhiêu: a)Khi vận động viên ở độ cao 4m ? b)Khi vận động viên chạm mặt nước ? ván nhảy h hồ bơi x
+
+Bài 40. Bạn Phú dự định trong khoảng thời gian từ ngày 2 tháng 1 đến ngày 28 tháng 2 sẽ giải mỗi ngày 3 bài toán. Thực hiện đúng kế hoạch 
+1 thời gian, vào khoảng cuối tháng 1 (tháng 1 có 31 ngày) thì Phú được nghỉ tết và bạn tạm nghỉ giải toán nhiều ngày liên tiếp. Sau tết , 
+trong tuần đầu Phú chỉ giải được 14 bài, sau đó Phú cố gắng giải 4 bài mỗi ngày và đến ngày 29 tháng 2 (năm 2020 tháng 2 có 29 ngày) thì Phú cũng hoàn thành kế hoạch đã định. Hỏi Phú đã nghỉ giải toán ít nhất bao nhiêu ngày?
+
+Bài 41. Một cái thùng có thể chứa được 14kg thanh long hoặc 21kg nhãn. Nếu chứa đầy thùng đó bằng cả thanh long và nhãn mà giá tiền của thanh long bằng giá tiền của nhãn thì số trái cây trong thùng là sẽ cân nặng 18kg và có giá trị là 480.000 đồng. Tìm giá tiền 1kg thanh long, 1kg nhãn.
+
+Bài 42. Trong kì kiểm tra môn Toán một lớp gồm 3 tổ A, B, C, điểm trung bình (ĐTB) của học sinh ở các tổ được thống kê ở bảng sau : Tổ A B C A và B B và C ĐTB 9.0 8.8 7.8 8.9 8.2 Biết tổ Acó 10 học sinh. Hãy xác định số học sinh và điểm trung bình toàn lớp.
+
+Bài 43. Tỉ lệ nước trong hạt cà phê tươi là 22%.Người ta lấy một tấn cà phê tươi đem đi phơi khô để chuẩn bị cho quá trình sản xuất lúc sau. Hỏi lượng nước cần bay hơi đi là bao nhiêu để lượng cà phê khô thu được chỉ có tỉ lệ nước là 4%?
+
+Bài 44. Một nông trại có tổng số Gà và Vịt là 6000con, sau khi bán đi 1600con Gà và 800con Vịt thì số Vịt còn lại bằng 80% số Gà. Hỏi sau 
+khi bán, nông trại còn lại bao nhiêu con Gà? Bao nhiêu con Vịt?
+
+Bài 45. Tại một hội nghị chuyên đề, 20% số giáo sư là nhà tâm lí học, 60% là nhà sinh vật học, và 12 giáo sư còn lại là nhà kinh tế học. Nếu có 20 giáo sư đeo kính, số giáo sư không đeo kính là bao nhiêu phần trăm? (làm tròn tới hàng đơn vị)
+
+Bài 46. Kết quả của sự nóng dần lên của trái đất là băng tan trên các dòng sông bị đóng băng. 12 năm sau khi băng tan, những thực vật nhỏ, được gọi là Địa y, bắt đầu phát triển trên đá. Mỗi nhóm Địa y phát triển trên một khoảng đất hình tròn. Mối quan hệ giữa đường kính d(mm) của hình tròn và số tuổi tcủa Địa y có thể biểu diễn tương đối theo hàm số : d =7. t−12 với t ≥12. Em hãy tính đường kính của một nhóm Địa y sau 16 năm băng tan.
+
+Bài 47. Công thức Lozentz tính cân nặng lý tưởng theo chiều cao dành cho nữ: (T −150) F =T –100− ( với T là chiều cao (cm) và F là cân nặng lý tưởng (kg) 2 a) Bạn Hoa có cân nặng 56 kg. Hỏi bạn Hoa phải đạt chiều cao bao nhiêu thì có thân hình lý tưởng? b) Một công ty người mẫu đưa ra yêu cầu tuyển người mẫu nữ cao 170cm. Hỏi những người mẫu được tuyển cân nặng bao nhiêu kg ? (theo công thức Lozentz)
+
+Bài 48. Các nhà khoa học về thống kê đã thiết lập được hàm số sau: A( t)=0,08t+19,7 trong đó ( ) A t là độ tuổi trung bình các phụ nữ kết 
+hôn lần đầu của thế giới; t là số năm kết hôn, với gốc thời gian là 1950. Hãy tính độ tuổi trung bình các phụ nữ kết hôn lần đầu lần lượt 
+vào các năm 1950, 2000, 2018, 2020(làm tròn đến chữ số thập phân thứ hai).
+
+Bài 49. Đầu năm học, một trường THCS tuyển được 70 học sinh vào hai lớp tích hợp và tăng cường Tiếng Anh. Nếu chuyển 10 học sinh từ lớp tích hợp sang lớp tăng cường tiếng 4 Anh thì số học sinh lớp tăng cường tiếng Anh bằng số học sinh lớp tích hợp. Hãy tính 3 số học sinh mỗi 
+lớp.
+
+Bài 50. Năm ngoái, tổng số dân của hai tỉnh A và B là 4 triệu người. Năm nay, dân số của tỉnh A tăng thêm 1,1%, dân số của tỉnh B tăng thêm 1,2%. Tuy vậy, số dân của tỉnh A năm nay vẫn nhiều hơn tỉnh B là 807200người. Tính số dân năm ngoái của mỗi tỉnh.
+
+Bài 52. Theo Quyết định số 25/2019/QĐ-UBND ngày 24 tháng 10 năm 2019 của Ủy ban nhân dân Thành phố Hồ Chí Minh về quy định đơn giá nước sạch sinh hoạt có hiệu lực từ ngày 15/11/2019 trên địa bàn Thành phố Hồ Chí Minh như sau: Đơn giá (đồng/m3), Chưa tính thuế và phí Mức sử dụng nước Trước ngày 15/11/2019 Từ ngày 15/11/2019 a)Đến 4m3/người/tháng -Hộ dân cư 5 300 đồng/m3 5 600 đồng/m3 -Hộ nghèo và cận nghèo 5 300 đồng/m3 5 300 đồng/m3 b)Trên 4m3 đến 6m3/ người/tháng 10 200đồng/m3 10 800 đồng/m3 c)Trên 6m3/ người/tháng 11 400 đồng/m3 12 100 đồng/m3 
+Việc tính lượng nước sử dụng và định mức trước và sau khi quyết định có hiệu lực được thực hiện theo nguyên tắc trung bình: lấy tổng lượng nước tiêu thụ, định mức trong kỳ chia cho số ngày trong kỳ để có số tiêu thụ, định mức bình quân/ngày, sau đó: -Nhân với số ngày trước ngày 15/11/2019 để có lượng nước tính theo giá cũ. -Nhân với số ngày từ ngày 15/11/2019 để có lượng nước tính theo giá mới. Từ ngày 01/11/2019 đến ngày 30/11/2019 (có 30ngày) gia đình ông Năm (không phải hộ nghèo và cận nghèo) gồm 6 người đã sử dụng hết 32m3 nước máy. Định mức 
+tiêu thụ nước: 4m3/người/tháng. Hãy tính số tiền nước máy gia đình ông Năm phải trả trong tháng 11 năm 2019 (bao gồm 5% thuế giá trị gia tăng và 10% phí bảo vệ môi trường).
+
+Bài 53. Để khuyến khích tiết kiệm điện, giá điện sinh hoạt được tính theo kiểu lũy tiến, nghĩa là ( ) nếu người sử dụng càng dùng nhiều điện thì giá mỗi số điện 1kWh càng tăng lên. Duới đây là bảng giá bán lẻ điện sinh hoạt chưa bao gồm thuế giá trị gia tăng 10% (thuế VAT) của công ty điện lực Thành phố Hồ Chí Minh: Giá bán điện ( đång/kWh) Bậc 1: Cho kWhtừ 0–50 1549 Bậc 2: Cho kWhtừ 51–100 1600 Bậc 3: Cho kWh 
+từ 101−200 1858 Bậc 4: Cho kWh từ 201−300 2340 Bậc 5: Cho kWh từ 301−400 2615 Bậc 6: Cho kWhtừ 401 trở lên 2701 Tháng 10 năm 2018 gia đình bạn An dùng hết 550 kWh điện. Hỏi số tiền bao gồm thuế VAT 10% mà gia đình bạn An phải trả cho lượng điện sử dụng trong tháng 10 năm 2018 là bao nhiêu?
+
+Bài 56. Một vận động viên bơi lội nhảy cầu. Khi nhảy độ cao h từ người đó tới mặt nước (tính bằng mét) phụ thuộc vào khoảng cách x(tính bằng mét) bởi công thức : h = – ( x – 1)2 + 4. Khoảng cách xbằng bao nhiêu ? a)Khi vận động viên ở độ cao 3m . b)Khi vận động viên chạm mặt 
+nước.
+
+Bài 57. Ba bạn An muốn mua 1 miếng đất hình vuông có diện tích là 2500 m2. Ông tính làm hàng rào xung quanh miếng đất bằng dây kẽm gai hết tất cả 3 000 000đồng cả chi phí dây kẽm gai và công thợ làm. a)Hãy viết hàm số tính tiền công thợ làm hàng rào y(đồng) theo x(đồng) với x là số tiền 1 mét dây kẽm gai? b)Hỏi ba bạn trả bao nhiêu tiền công để thợ rào hết hàng rào? Biết rằng giá mỗi mét dây kẽm là 12 000đồng. 
+
+Bài 58. Cái mũ có vành của chú hề với các kích thước cho theo hình vẽ sau: a)Hãy tính tổng diện tích vải cần có để làm nên cái mũ của chú 
+hề (không kể riềm, mép, phần thừa). b)Chú hề dự định mua bột đổ đầy nón để làm ảo thuật. Chú hề cần mua khối lượng bột là bao nhiêu? (xem 
+như 1cm3bột tương đương 1gbột) Biết rằng: Diện tích xung quanh của hình nón : S =π.r.l (r: bán kính đường tròn đáy; xq l : đường sinh) Diện tích toàn phần của hình nón : S =πr.l +π.r2 tp 1 Thể tích hình nón : V = π.r2.h (r: bán kính đường tròn đáy; h: chiều cao) nón 3        
+
+Bài 60. Một xí nghiệp cần bán thanh lý b sản phẩm. Số sản phẩm ycòn lại sau xngày bán được xác định bởi hàm số: y =ax+b có đồ thị như sau: a) Hãy dựa vào đồ thị hãy xác định a, bvà hàm số y. y (sản phẩm) b) Xí nghiệp cần bao nhiêu ngày để bán hết số sản phẩm cần thanh lý? 1410 900 x (ngày) O 17
+
+Bài 61. Cách đây hơn một thế kỷ, nhà khoa học người Hà Lan Hendrich Lorentz (1853 –1928) đưa ra công thức tính số cân nặng lí tưởng của con người theo chiều cao như sau: T −150 M =T −100− (công thức Lorentz. Trong đó: N M là số cân nặng lí tưởng tính theo kilôgam T là chiều cao tính theo xăngtimet N =4với nam giới và N =2với nữ giới. a)Bạn A(là nam giới) chiều cao là 1,6m. Hỏi cân nặng của bạn nên là bao nhiêu 
+kg để đạt lí tưởng? b)Với chiều cao bằng bao nhiêu thì số cân nặng lí tưởng của nam giới và nữ giới bằng nhau?
+
+Bài 62. Năm ngoái tổng số dân của hai tỉnh Avà Blà 4 triệu người. Dân số tỉnh Anăm nay tăng 1,2% còn tỉnh Btăng 1,1%. Tổng số dân của cả hai tỉnh năm nay là 4045000 người. Tính số dân của mỗi tỉnh năm ngoái và năm nay.
+
+Bài 63. Theo tài liệu dân số và phát triển của Tổng cục dân số và kế hoạch hóa gia đình thì: Dựa trên số liệu về dân số, kinh tế, xã hội của 85 nước trên thế giới, người ta xây dựng ( ) được hàm nêu lên mối quan hệ giữa tuổi thọ trung bình của phụ nữ y và tỷ lệ biết chữ của họ ( x) như sau: y =47,17+0,307x. Trong đó ylà số năm (tuổi thọ), x( %) là tỷ lệ phần trăm biết chữ của phụ nữ. a)Theo báo cáo của Bộ Giáo 
+dục và Đào tạo năm học 2015-2016, tỷ lệ biết chữ đã đạt 96,83% trong nhóm phụ nữ Việt Nam tuổi từ 15đến60. Hỏi với tỷ lệ biết chữ của phụ 
+nữ Việt Nam như trên thì nhóm này có tuổi thọ bao nhiêu? b)Nếu muốn tăng tuổi thọ của phụ nữ 85nước trên lên 77 tuổi thì tỷ lệ biết chữ của họ phải đạt bao nhiêu %
